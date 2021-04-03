@@ -1,0 +1,2468 @@
+locus_id,go_id,go_name
+Rv0001,GO:0005886,plasma membrane
+Rv0002,GO:0009360,DNA polymerase III complex
+Rv0003,GO:0005886,plasma membrane
+Rv0004,GO:0005886,plasma membrane
+Rv0005,GO:0005886,plasma membrane
+Rv0006,"double strand cut, ATP-hydrolyzing) comple",DNA topoisomerase type II 
+Rv0007,GO:0016021,integral component of membrane
+Rv0008c,GO:0016021,integral component of membrane
+Rv0009,GO:0005886,plasma membrane
+Rv0010c,GO:0016021,integral component of membrane
+Rv0011c,GO:0016021,integral component of membrane
+Rv0012,GO:0052718,tRNA-specific adenosine-34 deaminase complex
+Rv0013,GO:0005886,plasma membrane
+Rv0014c,GO:0016021,integral component of membrane
+Rv0015c,GO:0016021,integral component of membrane
+Rv0016c,GO:0016021,integral component of membrane
+Rv0017c,GO:0032153,cell division site
+Rv0018c,GO:0016021,integral component of membrane
+Rv0019c,GO:0016021,integral component of membrane
+Rv0020c,GO:0005829,cytosol
+Rv0022c,GO:0005737,cytoplasm
+Rv0023,GO:0003677,DNA binding
+Rv0025,GO:0005886,plasma membrane
+Rv0026,GO:0008203,cholesterol metabolic process
+Rv0027,GO:0009306,protein secretion
+Rv0028,GO:0005971,ribonucleoside-diphosphate reductase complex
+Rv0028A,GO:0005886,plasma membrane
+Rv0030,GO:0005886,plasma membrane
+Rv0032,GO:0005618,cell wall
+Rv0034,GO:0055114,oxidation-reduction process
+Rv0036c,GO:0005886,plasma membrane
+Rv0037c,GO:0016021,integral component of membrane
+Rv0038,GO:0005886,plasma membrane
+Rv0039c,GO:0016021,integral component of membrane
+Rv0040c,GO:0005576,extracellular region
+Rv0041,GO:0005886,plasma membrane
+Rv0042c,GO:0005886,plasma membrane
+Rv0043c,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0046c,GO:0005829,cytosol
+Rv0048c,GO:0016021,integral component of membrane
+Rv0049,GO:0005829,cytosol
+Rv0050,GO:0030288,outer membrane-bounded periplasmic space
+Rv0052,GO:0003824,catalytic activity
+Rv0053,GO:0022627,cytosolic small ribosomal subunit
+Rv0054,GO:0009295,nucleoid
+Rv0055,GO:0022627,cytosolic small ribosomal subunit
+Rv0056,GO:0022625,cytosolic large ribosomal subunit
+Rv0057,GO:0005886,plasma membrane
+Rv0058,GO:1990077,primosome complex
+Rv0061c,GO:0005975,carbohydrate metabolic process
+Rv0062,GO:0016021,integral component of membrane
+Rv0064,GO:0016021,integral component of membrane
+Rv0064A,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0065,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0069c,GO:0005886,plasma membrane
+Rv0070c,GO:0005886,plasma membrane
+Rv0072,GO:0016021,integral component of membrane
+Rv0073,GO:0005886,plasma membrane
+Rv0079,GO:0022627,cytosolic small ribosomal subunit
+Rv0080,GO:0048037,cofactor binding
+Rv0081,GO:0005886,plasma membrane
+Rv0083,GO:0016021,integral component of membrane
+Rv0085,GO:0016021,integral component of membrane
+Rv0088,GO:0005886,plasma membrane
+Rv0089,GO:0005618,cell wall
+Rv0090,GO:0016021,integral component of membrane
+Rv0091,GO:0005829,cytosol
+Rv0092,GO:0016021,integral component of membrane
+Rv0093c,GO:0016021,integral component of membrane
+Rv0096,GO:0016021,integral component of membrane
+Rv0097,GO:0055114,oxidation-reduction process
+Rv0098,GO:0005886,plasma membrane
+Rv0099,GO:0005886,plasma membrane
+Rv0100,GO:0009236,cobalamin biosynthetic process
+Rv0102,GO:0016021,integral component of membrane
+Rv0103c,GO:0016021,integral component of membrane
+Rv0104,GO:0016021,integral component of membrane
+Rv0105c,GO:0022625,cytosolic large ribosomal subunit
+Rv0106,GO:0055114,oxidation-reduction process
+Rv0107c,GO:0043231,intracellular membrane-bounded organelle
+Rv0108c,GO:0005618,cell wall
+Rv0109,GO:0016021,integral component of membrane
+Rv0110,GO:0016021,integral component of membrane
+Rv0111,GO:0016021,integral component of membrane
+Rv0113,GO:0005737,cytoplasm
+Rv0114,GO:0005737,cytoplasm
+Rv0115,GO:0042352,GDP-L-fucose salvage
+Rv0119,GO:0016874,ligase activity
+Rv0120c,GO:0005886,plasma membrane
+Rv0124,GO:0005886,plasma membrane
+Rv0126,GO:0022625,cytosolic large ribosomal subunit
+Rv0127,GO:0005886,plasma membrane
+Rv0129c,GO:0005618,cell wall
+Rv0130,GO:0006633,fatty acid biosynthetic process
+Rv0131c,GO:0005829,cytosol
+Rv0136,GO:0055114,oxidation-reduction process
+Rv0137c,GO:0005829,cytosol
+Rv0142,GO:0032993,protein-DNA complex
+Rv0143c,GO:0016021,integral component of membrane
+Rv0144,GO:0005886,plasma membrane
+Rv0145,GO:0032259,methylation
+Rv0146,GO:0005886,plasma membrane
+Rv0147,GO:0005886,plasma membrane
+Rv0148,GO:0005886,plasma membrane
+Rv0151c,GO:0016021,integral component of membrane
+Rv0154c,GO:0005886,plasma membrane
+Rv0157,GO:0016021,integral component of membrane
+Rv0157A,GO:0005886,plasma membrane
+Rv0162c,GO:0055114,oxidation-reduction process
+Rv0164,GO:0032259,methylation
+Rv0165c,GO:0075182,negative regulation of symbiont transcription in response to host
+Rv0173,GO:0005618,cell wall
+Rv0175,GO:0016021,integral component of membrane
+Rv0181c,GO:0005886,plasma membrane
+Rv0182c,GO:2000142,"regulation of DNA-templated transcription, initiation"
+Rv0186A,GO:0055070,copper ion homeostasis
+Rv0187,GO:0005886,plasma membrane
+Rv0189c,GO:0005886,plasma membrane
+Rv0191,GO:0016021,integral component of membrane
+Rv0192A,GO:0098869,cellular oxidant detoxification
+Rv0196,GO:0003677,DNA binding
+Rv0197,GO:0055114,oxidation-reduction process
+Rv0202c,GO:0016021,integral component of membrane
+Rv0205,GO:0016021,integral component of membrane
+Rv0206c,GO:0016021,integral component of membrane
+Rv0208c,GO:0043527,tRNA methyltransferase complex
+Rv0211,GO:0005886,plasma membrane
+Rv0214,GO:0016874,ligase activity
+Rv0215c,GO:0005886,plasma membrane
+Rv0220,GO:0042603,capsule
+Rv0221,GO:0005886,plasma membrane
+Rv0224c,GO:0032259,methylation
+Rv0227c,GO:0016021,integral component of membrane
+Rv0228,GO:0016021,integral component of membrane
+Rv0230c,GO:0009056,catabolic process
+Rv0233,GO:0005829,cytosol
+Rv0234c,GO:0005886,plasma membrane
+Rv0236A,GO:0016021,integral component of membrane
+Rv0236c,GO:0016021,integral component of membrane
+Rv0239,GO:0046907,intracellular transport
+Rv0240,GO:0005886,plasma membrane
+Rv0250c,GO:0005886,plasma membrane
+Rv0252,GO:0005886,plasma membrane
+Rv0255c,GO:0015889,cobalamin transport
+Rv0256c,GO:0005886,plasma membrane
+Rv0262c,GO:0005886,plasma membrane
+Rv0264c,GO:0052562,suppression by symbiont of host immune response
+Rv0273c,GO:0003677,DNA binding
+Rv0275c,GO:0003677,DNA binding
+Rv0277A,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0277c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0278c,GO:0006313,"transposition, DNA-mediated"
+Rv0279c,GO:0016021,integral component of membrane
+Rv0280,GO:0016020,membrane
+Rv0281,GO:0005886,plasma membrane
+Rv0282,GO:0005886,plasma membrane
+Rv0283,GO:0016021,integral component of membrane
+Rv0284,GO:0016021,integral component of membrane
+Rv0286,GO:0016021,integral component of membrane
+Rv0288,GO:0097013,phagocytic vesicle lumen
+Rv0289,GO:0005737,cytoplasm
+Rv0290,GO:0016021,integral component of membrane
+Rv0292,GO:0016021,integral component of membrane
+Rv0294,GO:0005737,cytoplasm
+Rv0297,GO:0044165,host cell endoplasmic reticulum
+Rv0298,GO:0045927,positive regulation of growth
+Rv0299,GO:0045926,negative regulation of growth
+Rv0300,GO:0060701,negative regulation of ribonuclease activity
+Rv0301,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0304c,GO:0005886,plasma membrane
+Rv0313,GO:0055114,oxidation-reduction process
+Rv0314c,GO:0016021,integral component of membrane
+Rv0317c,GO:0006629,lipid metabolic process
+Rv0318c,GO:0016021,integral component of membrane
+Rv0319,GO:0005829,cytosol
+Rv0321,GO:0015949,nucleobase-containing small molecule interconversion
+Rv0323c,GO:0016021,integral component of membrane
+Rv0327c,GO:0005618,cell wall
+Rv0332,GO:0005886,plasma membrane
+Rv0334,GO:0005886,plasma membrane
+Rv0335c,GO:0022625,cytosolic large ribosomal subunit
+Rv0337c,GO:0005886,plasma membrane
+Rv0341,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv0342,GO:0016021,integral component of membrane
+Rv0343,GO:0005886,plasma membrane
+Rv0345,GO:0005886,plasma membrane
+Rv0346c,GO:0016021,integral component of membrane
+Rv0350,GO:0097691,bacterial extracellular vesicle
+Rv0351,GO:0005737,cytoplasm
+Rv0352,GO:0005886,plasma membrane
+Rv0354c,GO:0016021,integral component of membrane
+Rv0355c,GO:0009360,DNA polymerase III complex
+Rv0357c,GO:0005737,cytoplasm
+Rv0359,GO:0016021,integral component of membrane
+Rv0360c,GO:0005886,plasma membrane
+Rv0363c,GO:0005886,plasma membrane
+Rv0364,GO:0016021,integral component of membrane
+Rv0369c,GO:0016021,integral component of membrane
+Rv0375c,GO:0055114,oxidation-reduction process
+Rv0377,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0378,GO:0055114,oxidation-reduction process
+Rv0380c,GO:0032259,methylation
+Rv0382c,GO:0044205,'de novo' UMP biosynthetic process
+Rv0384c,GO:0005886,plasma membrane
+Rv0387c,GO:0097041,phenolic phthiocerol biosynthetic process
+Rv0388c,GO:0008156,negative regulation of DNA replication
+Rv0391,GO:0005737,cytoplasm
+Rv0392c,GO:0016021,integral component of membrane
+Rv0402c,GO:0016021,integral component of membrane
+Rv0403c,GO:0016021,integral component of membrane
+Rv0404,GO:0071766,Actinobacterium-type cell wall biogenesis
+Rv0406c,GO:0046677,response to antibiotic
+Rv0407,GO:0005886,plasma membrane
+Rv0408,GO:0005737,cytoplasm
+Rv0409,GO:0005737,cytoplasm
+Rv0410c,GO:0016020,membrane
+Rv0413,GO:0006974,cellular response to DNA damage stimulus
+Rv0414c,GO:0005737,cytoplasm
+Rv0417,GO:0005737,cytoplasm
+Rv0419,GO:0016021,integral component of membrane
+Rv0422c,GO:0005829,cytosol
+Rv0423c,GO:0005886,plasma membrane
+Rv0424c,GO:0005886,plasma membrane
+Rv0427c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv0429c,GO:0043686,co-translational protein modification
+Rv0431,GO:0016021,integral component of membrane
+Rv0432,GO:0016020,membrane
+Rv0433,GO:0042398,cellular modified amino acid biosynthetic process
+Rv0436c,GO:0016021,integral component of membrane
+Rv0437c,GO:0016020,membrane
+Rv0438c,GO:0005829,cytosol
+Rv0440,GO:1990220,GroEL-GroES complex
+Rv0441c,GO:0016021,integral component of membrane
+Rv0442c,GO:0042783,evasion of host immune response
+Rv0444c,GO:0016021,integral component of membrane
+Rv0445c,GO:0005886,plasma membrane
+Rv0446c,GO:0016021,integral component of membrane
+Rv0448c,GO:0031419,cobalamin binding
+Rv0450c,GO:0016021,integral component of membrane
+Rv0451c,GO:0016021,integral component of membrane
+Rv0453,GO:0005829,cytosol
+Rv0454,GO:0005829,cytosol
+Rv0456A,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv0456B,GO:0009295,nucleoid
+Rv0458,GO:0005886,plasma membrane
+Rv0460,GO:0016021,integral component of membrane
+Rv0461,GO:0016021,integral component of membrane
+Rv0462,GO:0045254,pyruvate dehydrogenase complex
+Rv0465c,GO:0005886,plasma membrane
+Rv0467,GO:0005886,plasma membrane
+Rv0468,GO:0005886,plasma membrane
+Rv0470c,GO:0005737,cytoplasm
+Rv0472c,GO:0005576,extracellular region
+Rv0474,GO:0005829,cytosol
+Rv0475,GO:0009986,cell surface
+Rv0476,GO:0016021,integral component of membrane
+Rv0477,GO:0005576,extracellular region
+Rv0478,GO:0005737,cytoplasm
+Rv0479c,GO:0016021,integral component of membrane
+Rv0480c,GO:0005618,cell wall
+Rv0481c,GO:0005886,plasma membrane
+Rv0482,GO:0005737,cytoplasm
+Rv0483,GO:0005576,extracellular region
+Rv0484c,GO:0005886,plasma membrane
+Rv0485,GO:0010468,regulation of gene expression
+Rv0486,GO:0005829,cytosol
+Rv0487,GO:0050270,S-adenosylhomocysteine deaminase activity
+Rv0488,GO:0016021,integral component of membrane
+Rv0489,GO:0032991,protein-containing complex
+Rv0490,GO:0016021,integral component of membrane
+Rv0491,GO:0032993,protein-DNA complex
+Rv0492c,GO:0005829,cytosol
+Rv0493c,GO:0005886,plasma membrane
+Rv0494,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0495c,GO:0016021,integral component of membrane
+Rv0496,GO:0006793,phosphorus metabolic process
+Rv0497,GO:0016021,integral component of membrane
+Rv0498,GO:0055114,oxidation-reduction process
+Rv0499,GO:0016310,phosphorylation
+Rv0500,GO:0005886,plasma membrane
+Rv0500A,GO:0003677,DNA binding
+Rv0500B,GO:0005886,plasma membrane
+Rv0501,GO:0005886,plasma membrane
+Rv0502,GO:0005886,plasma membrane
+Rv0503c,GO:0005886,plasma membrane
+Rv0504c,GO:0005886,plasma membrane
+Rv0505c,GO:0016021,integral component of membrane
+Rv0506,GO:0016021,integral component of membrane
+Rv0507,GO:0016021,integral component of membrane
+Rv0508,GO:0005886,plasma membrane
+Rv0509,GO:0055114,oxidation-reduction process
+Rv0510,GO:0005886,plasma membrane
+Rv0512,GO:0005829,cytosol
+Rv0516c,GO:0005515,protein binding
+Rv0517,GO:0016021,integral component of membrane
+Rv0524,GO:0005886,plasma membrane
+Rv0525,GO:0005886,plasma membrane
+Rv0526,GO:0005886,plasma membrane
+Rv0528,GO:0016021,integral component of membrane
+Rv0530,GO:0009898,cytoplasmic side of plasma membrane
+Rv0530A,GO:0005886,plasma membrane
+Rv0532,GO:0005829,cytosol
+Rv0533c,GO:0005737,cytoplasm
+Rv0534c,GO:0016021,integral component of membrane
+Rv0535,GO:0005829,cytosol
+Rv0538,GO:0016021,integral component of membrane
+Rv0539,GO:0016757,"transferase activity, transferring glycosyl groups"
+Rv0542c,GO:0009234,menaquinone biosynthetic process
+Rv0545c,GO:0016021,integral component of membrane
+Rv0548c,GO:0005886,plasma membrane
+Rv0549c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0550c,GO:0075136,response to host
+Rv0551c,GO:0005886,plasma membrane
+Rv0553,GO:0009234,menaquinone biosynthetic process
+Rv0554,GO:0098869,cellular oxidant detoxification
+Rv0555,GO:0005886,plasma membrane
+Rv0557,GO:0097502,mannosylation
+Rv0558,GO:0005886,plasma membrane
+Rv0559c,GO:0005618,cell wall
+Rv0560c,GO:0005829,cytosol
+Rv0561c,GO:0005618,cell wall
+Rv0563,GO:0016021,integral component of membrane
+Rv0564c,GO:0009331,glycerol-3-phosphate dehydrogenase complex
+Rv0566c,GO:0005886,plasma membrane
+Rv0567,GO:0032259,methylation
+Rv0568,GO:0005829,cytosol
+Rv0569,GO:0005829,cytosol
+Rv0570,GO:0005886,plasma membrane
+Rv0571c,GO:0005829,cytosol
+Rv0572A,GO:0005737,cytoplasm
+Rv0572c,GO:0005829,cytosol
+Rv0573c,GO:0005886,plasma membrane
+Rv0574c,GO:0005886,plasma membrane
+Rv0576,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0577,GO:0005886,plasma membrane
+Rv0578c,GO:0016310,phosphorylation
+Rv0581,GO:0045927,positive regulation of growth
+Rv0582,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0584,GO:0005829,cytosol
+Rv0586,GO:0052572,response to host immune response
+Rv0589,GO:0016021,integral component of membrane
+Rv0590,GO:0016021,integral component of membrane
+Rv0590A,GO:0005618,cell wall
+Rv0595c,GO:0005576,extracellular region
+Rv0596c,GO:0045927,positive regulation of growth
+Rv0598c,GO:0005576,extracellular region
+Rv0599c,GO:0005515,protein binding
+Rv0600c,GO:0070298,negative regulation of phosphorelay signal transduction system
+Rv0601c,GO:0016021,integral component of membrane
+Rv0602c,GO:0032993,protein-DNA complex
+Rv0605,GO:0006310,DNA recombination
+Rv0607,GO:0006637,acyl-CoA metabolic process
+Rv0608,GO:0045927,positive regulation of growth
+Rv0609,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0609B,GO:0032324,molybdopterin cofactor biosynthetic process
+Rv0611c,GO:0016021,integral component of membrane
+Rv0612,GO:0016021,integral component of membrane
+Rv0614,GO:0005618,cell wall
+Rv0616A,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0617,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0618,GO:0005737,cytoplasm
+Rv0619,GO:0005737,cytoplasm
+Rv0620,GO:0005829,cytosol
+Rv0623,GO:0045927,positive regulation of growth
+Rv0624,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0625c,GO:0016021,integral component of membrane
+Rv0626,GO:0045927,positive regulation of growth
+Rv0627,GO:0005576,extracellular region
+Rv0628c,GO:0016021,integral component of membrane
+Rv0629c,GO:0009338,exodeoxyribonuclease V complex
+Rv0630c,GO:0009338,exodeoxyribonuclease V complex
+Rv0631c,GO:0009338,exodeoxyribonuclease V complex
+Rv0634A,GO:0097013,phagocytic vesicle lumen
+Rv0634B,GO:0005840,ribosome
+Rv0635,GO:0005886,plasma membrane
+Rv0637,GO:0005886,plasma membrane
+Rv0638,GO:0016021,integral component of membrane
+Rv0639,GO:0005886,plasma membrane
+Rv0640,GO:0022625,cytosolic large ribosomal subunit
+Rv0641,GO:0022625,cytosolic large ribosomal subunit
+Rv0642c,GO:0005886,plasma membrane
+Rv0643c,GO:0005886,plasma membrane
+Rv0644c,GO:0005886,plasma membrane
+Rv0645c,GO:0071768,mycolic acid biosynthetic process
+Rv0647c,GO:0005886,plasma membrane
+Rv0649,GO:0042759,long-chain fatty acid biosynthetic process
+Rv0651,GO:0022625,cytosolic large ribosomal subunit
+Rv0652,GO:0022625,cytosolic large ribosomal subunit
+Rv0654,GO:0055114,oxidation-reduction process
+Rv0655,GO:0005886,plasma membrane
+Rv0656c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0657c,GO:0005829,cytosol
+Rv0659c,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv0660c,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0661c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0662c,GO:0005886,plasma membrane
+Rv0664,GO:0045254,pyruvate dehydrogenase complex
+Rv0665,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv0667,GO:0005886,plasma membrane
+Rv0668,GO:0005886,plasma membrane
+Rv0669c,GO:0005618,cell wall
+Rv0670,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv0676c,GO:0016021,integral component of membrane
+Rv0677c,GO:0016021,integral component of membrane
+Rv0679c,GO:0016021,integral component of membrane
+Rv0681,GO:0005886,plasma membrane
+Rv0682,GO:0015935,small ribosomal subunit
+Rv0683,GO:0022627,cytosolic small ribosomal subunit
+Rv0684,GO:0005886,plasma membrane
+Rv0685,GO:0005886,plasma membrane
+Rv0687,GO:0055114,oxidation-reduction process
+Rv0691A,GO:0005886,plasma membrane
+Rv0691c,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0692,GO:0016021,integral component of membrane
+Rv0693,GO:0005886,plasma membrane
+Rv0694,GO:0005886,plasma membrane
+Rv0695,GO:0009231,riboflavin biosynthetic process
+Rv0696,GO:0016021,integral component of membrane
+Rv0700,GO:0015935,small ribosomal subunit
+Rv0701,GO:0022625,cytosolic large ribosomal subunit
+Rv0702,GO:0005886,plasma membrane
+Rv0703,GO:0022625,cytosolic large ribosomal subunit
+Rv0704,GO:0022625,cytosolic large ribosomal subunit
+Rv0705,GO:0022627,cytosolic small ribosomal subunit
+Rv0706,GO:0022625,cytosolic large ribosomal subunit
+Rv0707,GO:0022627,cytosolic small ribosomal subunit
+Rv0708,GO:0022625,cytosolic large ribosomal subunit
+Rv0709,GO:0022625,cytosolic large ribosomal subunit
+Rv0710,GO:0022627,cytosolic small ribosomal subunit
+Rv0714,GO:0022625,cytosolic large ribosomal subunit
+Rv0715,GO:0022625,cytosolic large ribosomal subunit
+Rv0716,GO:0022625,cytosolic large ribosomal subunit
+Rv0717,GO:0015935,small ribosomal subunit
+Rv0718,GO:0022627,cytosolic small ribosomal subunit
+Rv0719,GO:0022625,cytosolic large ribosomal subunit
+Rv0720,GO:0022625,cytosolic large ribosomal subunit
+Rv0721,GO:0022627,cytosolic small ribosomal subunit
+Rv0722,GO:0022625,cytosolic large ribosomal subunit
+Rv0723,GO:0022625,cytosolic large ribosomal subunit
+Rv0724,GO:0016021,integral component of membrane
+Rv0724A,GO:0019008,molybdopterin synthase complex
+Rv0726c,GO:0032259,methylation
+Rv0730,GO:0016740,transferase activity
+Rv0731c,GO:0032259,methylation
+Rv0732,GO:0031522,cell envelope Sec protein transport complex
+Rv0733,GO:0005886,plasma membrane
+Rv0734,GO:0005886,plasma membrane
+Rv0735,GO:2000142,"regulation of DNA-templated transcription, initiation"
+Rv0736,GO:0016021,integral component of membrane
+Rv0738,GO:0046872,metal ion binding
+Rv0739,GO:0005886,plasma membrane
+Rv0746,GO:0016021,integral component of membrane
+Rv0747,GO:0016021,integral component of membrane
+Rv0748,GO:0045927,positive regulation of growth
+Rv0749,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0751c,GO:0055114,oxidation-reduction process
+Rv0754,GO:0009986,cell surface
+Rv0755c,GO:0016021,integral component of membrane
+Rv0757,GO:0032993,protein-DNA complex
+Rv0759c,GO:0003824,catalytic activity
+Rv0761c,GO:0005886,plasma membrane
+Rv0764c,GO:0005829,cytosol
+Rv0766c,GO:0005886,plasma membrane
+Rv0767c,GO:0003677,DNA binding
+Rv0769,GO:0005886,plasma membrane
+Rv0770,GO:0055114,oxidation-reduction process
+Rv0771,GO:0098869,cellular oxidant detoxification
+Rv0772,GO:0009113,purine nucleobase biosynthetic process
+Rv0773c,GO:0006751,glutathione catabolic process
+Rv0775,GO:0005886,plasma membrane
+Rv0778,GO:0055114,oxidation-reduction process
+Rv0780,GO:0006189,'de novo' IMP biosynthetic process
+Rv0782,GO:0006508,proteolysis
+Rv0783c,GO:0016021,integral component of membrane
+Rv0784,GO:0005975,carbohydrate metabolic process
+Rv0785,GO:0005886,plasma membrane
+Rv0786c,GO:0005576,extracellular region
+Rv0787,GO:0005576,extracellular region
+Rv0788,GO:0005886,plasma membrane
+Rv0789c,GO:0005886,plasma membrane
+Rv0793,GO:0055114,oxidation-reduction process
+Rv0795,GO:0005886,plasma membrane
+Rv0796,GO:0005886,plasma membrane
+Rv0799c,GO:0005829,cytosol
+Rv0800,GO:0005886,plasma membrane
+Rv0802c,GO:0005737,cytoplasm
+Rv0803,GO:0005737,cytoplasm
+Rv0805,GO:0016020,membrane
+Rv0806c,GO:0005618,cell wall
+Rv0808,GO:0009116,nucleoside metabolic process
+Rv0812,GO:0005886,plasma membrane
+Rv0813c,GO:0005886,plasma membrane
+Rv0814c,GO:0005886,plasma membrane
+Rv0815c,GO:0005886,plasma membrane
+Rv0818,GO:0032993,protein-DNA complex
+Rv0819,GO:0005829,cytosol
+Rv0820,GO:0016020,membrane
+Rv0821c,GO:0005737,cytoplasm
+Rv0823c,GO:0055114,oxidation-reduction process
+Rv0824c,GO:0009986,cell surface
+Rv0826,GO:0005886,plasma membrane
+Rv0827c,GO:0032025,response to cobalt ion
+Rv0830,GO:0005886,plasma membrane
+Rv0833,GO:0005886,plasma membrane
+Rv0834c,GO:0005886,plasma membrane
+Rv0836c,GO:0005886,plasma membrane
+Rv0842,GO:0016021,integral component of membrane
+Rv0844c,GO:0043189,H4/H2A histone acetyltransferase complex
+Rv0845,GO:0016021,integral component of membrane
+Rv0848,GO:0005829,cytosol
+Rv0849,GO:0016021,integral component of membrane
+Rv0852,GO:0016874,ligase activity
+Rv0853c,GO:0005886,plasma membrane
+Rv0857,GO:0016021,integral component of membrane
+Rv0858c,GO:0005737,cytoplasm
+Rv0859,GO:0005886,plasma membrane
+Rv0861c,GO:0005886,plasma membrane
+Rv0863,GO:0009360,DNA polymerase III complex
+Rv0864,GO:0006777,Mo-molybdopterin cofactor biosynthetic process
+Rv0866,GO:0005829,cytosol
+Rv0867c,GO:0005576,extracellular region
+Rv0869c,GO:0019008,molybdopterin synthase complex
+Rv0872c,GO:0032993,protein-DNA complex
+Rv0873,GO:0005886,plasma membrane
+Rv0874c,GO:0016021,integral component of membrane
+Rv0875c,GO:0005886,plasma membrane
+Rv0876c,GO:0016021,integral component of membrane
+Rv0877,GO:0016021,integral component of membrane
+Rv0878c,GO:0016021,integral component of membrane
+Rv0879c,GO:0016021,integral component of membrane
+Rv0880,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0881,GO:0032259,methylation
+Rv0882,GO:0016021,integral component of membrane
+Rv0883c,GO:0005576,extracellular region
+Rv0884c,GO:0005886,plasma membrane
+Rv0885,GO:0016021,integral component of membrane
+Rv0886,GO:0005886,plasma membrane
+Rv0887c,GO:0005737,cytoplasm
+Rv0888,GO:0046930,pore complex
+Rv0889c,GO:0005829,cytosol
+Rv0890c,GO:0005829,cytosol
+Rv0891c,GO:0005829,cytosol
+Rv0892,GO:0005618,cell wall
+Rv0893c,GO:0032259,methylation
+Rv0894,GO:0005829,cytosol
+Rv0895,GO:0005886,plasma membrane
+Rv0896,GO:0005886,plasma membrane
+Rv0897c,GO:0016021,integral component of membrane
+Rv0898c,GO:0016747,"transferase activity, transferring acyl groups other than amino-acyl groups"
+Rv0899,GO:0016021,integral component of membrane
+Rv0900,GO:0016021,integral component of membrane
+Rv0901,GO:0016021,integral component of membrane
+Rv0902c,GO:0016021,integral component of membrane
+Rv0903c,GO:0032993,protein-DNA complex
+Rv0904c,GO:0009317,acetyl-CoA carboxylase complex
+Rv0905,GO:0005886,plasma membrane
+Rv0906,GO:0005737,cytoplasm
+Rv0907,GO:0005886,plasma membrane
+Rv0908,GO:0043231,intracellular membrane-bounded organelle
+Rv0909,GO:0045927,positive regulation of growth
+Rv0910,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0915c,GO:0016021,integral component of membrane
+Rv0917,GO:0016021,integral component of membrane
+Rv0924c,GO:0016021,integral component of membrane
+Rv0927c,GO:0005886,plasma membrane
+Rv0928,ABC) transporter comple,ATP-binding cassette 
+Rv0929,GO:0016021,integral component of membrane
+Rv0930,GO:0016021,integral component of membrane
+Rv0931c,GO:0016021,integral component of membrane
+Rv0932c,ABC) transporter comple,ATP-binding cassette 
+Rv0933,GO:0016020,membrane
+Rv0934,ABC) transporter comple,ATP-binding cassette 
+Rv0935,GO:0016021,integral component of membrane
+Rv0936,GO:0016021,integral component of membrane
+Rv0937c,GO:0051351,positive regulation of ligase activity
+Rv0938,GO:0005886,plasma membrane
+Rv0940c,GO:0005886,plasma membrane
+Rv0941c,GO:0005829,cytosol
+Rv0942,GO:0005886,plasma membrane
+Rv0943c,GO:0005886,plasma membrane
+Rv0944,GO:0006289,nucleotide-excision repair
+Rv0945,GO:0055114,oxidation-reduction process
+Rv0946c,GO:0005886,plasma membrane
+Rv0948c,GO:0005886,plasma membrane
+Rv0949,GO:0033202,DNA helicase complex
+Rv0951,GO:0042709,succinate-CoA ligase complex
+Rv0952,GO:0005886,plasma membrane
+Rv0953c,GO:0055114,oxidation-reduction process
+Rv0954,GO:0016021,integral component of membrane
+Rv0955,GO:0016021,integral component of membrane
+Rv0956,GO:0005829,cytosol
+Rv0957,GO:0005886,plasma membrane
+Rv0959,GO:0005886,plasma membrane
+Rv0959A,GO:0006355,"regulation of transcription, DNA-templated"
+Rv0960,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv0961,GO:0016021,integral component of membrane
+Rv0962c,GO:0016020,membrane
+Rv0963c,GO:0055114,oxidation-reduction process
+Rv0964c,GO:0016021,integral component of membrane
+Rv0965c,GO:0016021,integral component of membrane
+Rv0966c,GO:0005886,plasma membrane
+Rv0967,GO:0032993,protein-DNA complex
+Rv0968,GO:0005886,plasma membrane
+Rv0969,GO:0016021,integral component of membrane
+Rv0970,GO:0016021,integral component of membrane
+Rv0972c,GO:0005886,plasma membrane
+Rv0974c,GO:1905202,methylcrotonoyl-CoA carboxylase complex
+Rv0977,GO:0009986,cell surface
+Rv0979A,GO:0015934,large ribosomal subunit
+Rv0981,GO:0032993,protein-DNA complex
+Rv0982,GO:0016021,integral component of membrane
+Rv0985c,GO:0016021,integral component of membrane
+Rv0986,GO:0005886,plasma membrane
+Rv0994,GO:0005886,plasma membrane
+Rv0997,GO:0016021,integral component of membrane
+Rv0998,GO:0005829,cytosol
+Rv0999,GO:0005886,plasma membrane
+Rv1001,GO:0005886,plasma membrane
+Rv1002c,GO:0016021,integral component of membrane
+Rv1003,GO:0005886,plasma membrane
+Rv1005c,GO:0005886,plasma membrane
+Rv1007c,GO:0005886,plasma membrane
+Rv1008,GO:0005886,plasma membrane
+Rv1009,GO:0016020,membrane
+Rv1010,GO:0005737,cytoplasm
+Rv1011,GO:0019288,"isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway"
+Rv1013,GO:0005886,plasma membrane
+Rv1014c,GO:0005886,plasma membrane
+Rv1015c,GO:0022625,cytosolic large ribosomal subunit
+Rv1016c,GO:0016020,membrane
+Rv1017c,GO:0005886,plasma membrane
+Rv1018c,GO:0005737,cytoplasm
+Rv1020,GO:0005886,plasma membrane
+Rv1021,GO:0005618,cell wall
+Rv1023,GO:0009986,cell surface
+Rv1025,GO:0008610,lipid biosynthetic process
+Rv1027c,GO:0032993,protein-DNA complex
+Rv1028c,GO:0016021,integral component of membrane
+Rv1029,GO:0016021,integral component of membrane
+Rv1030,GO:0016021,integral component of membrane
+Rv1031,GO:0016021,integral component of membrane
+Rv1034c,GO:0006313,"transposition, DNA-mediated"
+Rv1036c,GO:0005737,cytoplasm
+Rv1037c,GO:0005618,cell wall
+Rv1038c,GO:0005886,plasma membrane
+Rv1039c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv1041c,GO:0005886,plasma membrane
+Rv1046c,GO:0005576,extracellular region
+Rv1053c,GO:0016021,integral component of membrane
+Rv1059,GO:0055114,oxidation-reduction process
+Rv1063c,GO:0046470,phosphatidylcholine metabolic process
+Rv1064c,GO:0016020,membrane
+Rv1067c,GO:0016021,integral component of membrane
+Rv1068c,GO:0016020,membrane
+Rv1070c,GO:0005886,plasma membrane
+Rv1076,GO:0005576,extracellular region
+Rv1077,GO:0005886,plasma membrane
+Rv1078,GO:0005886,plasma membrane
+Rv1079,GO:0005886,plasma membrane
+Rv1080c,GO:0005886,plasma membrane
+Rv1082,GO:0005829,cytosol
+Rv1085c,GO:0016021,integral component of membrane
+Rv1086,GO:0016020,membrane
+Rv1087,GO:0005886,plasma membrane
+Rv1088,GO:0009986,cell surface
+Rv1089,GO:0005618,cell wall
+Rv1091,GO:0016020,membrane
+Rv1092c,GO:0005886,plasma membrane
+Rv1093,GO:0005886,plasma membrane
+Rv1094,GO:0005886,plasma membrane
+Rv1098c,GO:0045239,tricarboxylic acid cycle enzyme complex
+Rv1099c,GO:0005829,cytosol
+Rv1100,GO:0016021,integral component of membrane
+Rv1101c,GO:0016021,integral component of membrane
+Rv1102c,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv1103c,GO:0045927,positive regulation of growth
+Rv1106c,GO:0005886,plasma membrane
+Rv1107c,GO:0009318,exodeoxyribonuclease VII complex
+Rv1108c,GO:0009318,exodeoxyribonuclease VII complex
+Rv1109c,GO:0005886,plasma membrane
+Rv1110,GO:0055114,oxidation-reduction process
+Rv1112,GO:0005886,plasma membrane
+Rv1113,GO:0005576,extracellular region
+Rv1114,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv1115,GO:0016021,integral component of membrane
+Rv1118c,GO:0005886,plasma membrane
+Rv1121,GO:0005886,plasma membrane
+Rv1123c,GO:0098869,cellular oxidant detoxification
+Rv1124,GO:0005886,plasma membrane
+Rv1125,GO:0005886,plasma membrane
+Rv1133c,GO:0005886,plasma membrane
+Rv1135c,GO:0005886,plasma membrane
+Rv1137c,GO:0005886,plasma membrane
+Rv1140,GO:0016021,integral component of membrane
+Rv1144,GO:0005886,plasma membrane
+Rv1145,GO:0016021,integral component of membrane
+Rv1146,GO:0016021,integral component of membrane
+Rv1151c,GO:0005737,cytoplasm
+Rv1154c,GO:0005886,plasma membrane
+Rv1155,GO:0055114,oxidation-reduction process
+Rv1159,GO:0016021,integral component of membrane
+Rv1159A,GO:0006729,tetrahydrobiopterin biosynthetic process
+Rv1160,GO:0006974,cellular response to DNA damage stimulus
+Rv1161,GO:0016020,membrane
+Rv1163,GO:0005886,plasma membrane
+Rv1166,GO:0030288,outer membrane-bounded periplasmic space
+Rv1168c,GO:0005886,plasma membrane
+Rv1170,GO:0005886,plasma membrane
+Rv1173,GO:0005886,plasma membrane
+Rv1180,GO:0034081,polyketide synthase complex
+Rv1182,GO:0009247,glycolipid biosynthetic process
+Rv1183,GO:0016021,integral component of membrane
+Rv1185c,GO:0005886,plasma membrane
+Rv1186c,GO:0005618,cell wall
+Rv1189,GO:2000142,"regulation of DNA-templated transcription, initiation"
+Rv1197,GO:0005576,extracellular region
+Rv1198,GO:0005886,plasma membrane
+Rv1199c,GO:0032196,transposition
+Rv1201c,GO:0005886,plasma membrane
+Rv1202,GO:0019877,diaminopimelate biosynthetic process
+Rv1207,GO:0005829,cytosol
+Rv1208,GO:0006011,UDP-glucose metabolic process
+Rv1211,GO:0051336,regulation of hydrolase activity
+Rv1212c,GO:0045227,capsule polysaccharide biosynthetic process
+Rv1213,GO:0005829,cytosol
+Rv1220c,GO:0005886,plasma membrane
+Rv1221,GO:2000142,"regulation of DNA-templated transcription, initiation"
+Rv1222,GO:0005737,cytoplasm
+Rv1223,GO:0016021,integral component of membrane
+Rv1224,GO:0033281,TAT protein transport complex
+Rv1225c,GO:0016311,dephosphorylation
+Rv1227c,GO:0016021,integral component of membrane
+Rv1229c,GO:0016226,iron-sulfur cluster assembly
+Rv1230c,GO:0016021,integral component of membrane
+Rv1235,GO:0016020,membrane
+Rv1236,GO:0016021,integral component of membrane
+Rv1237,GO:0016021,integral component of membrane
+Rv1238,"ABC) transporter complex, substrate-binding subunit-containin",ATP-binding cassette 
+Rv1240,GO:0005886,plasma membrane
+Rv1241,GO:0045927,positive regulation of growth
+Rv1242,GO:0005886,plasma membrane
+Rv1243c,GO:0016021,integral component of membrane
+Rv1246c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv1247c,GO:0045927,positive regulation of growth
+Rv1248c,GO:0045254,pyruvate dehydrogenase complex
+Rv1250,GO:0016021,integral component of membrane
+Rv1252c,GO:0016020,membrane
+Rv1253,GO:0005840,ribosome
+Rv1255c,GO:0006355,"regulation of transcription, DNA-templated"
+Rv1256c,GO:0005618,cell wall
+Rv1258c,GO:0016021,integral component of membrane
+Rv1259,GO:0006974,cellular response to DNA damage stimulus
+Rv1260,GO:0071949,FAD binding
+Rv1261c,GO:0016020,membrane
+Rv1262c,GO:0009117,nucleotide metabolic process
+Rv1263,GO:0043864,indoleacetamide hydrolase activity
+Rv1264,GO:0035556,intracellular signal transduction
+Rv1265,GO:0005886,plasma membrane
+Rv1266c,GO:0016021,integral component of membrane
+Rv1267c,GO:0005886,plasma membrane
+Rv1268c,GO:0016021,integral component of membrane
+Rv1269c,GO:0005618,cell wall
+Rv1270c,GO:0016020,membrane
+Rv1271c,GO:0005886,plasma membrane
+Rv1272c,GO:0016021,integral component of membrane
+Rv1273c,GO:0016021,integral component of membrane
+Rv1274,GO:0016020,membrane
+Rv1276c,GO:0016787,hydrolase activity
+Rv1277,GO:0016787,hydrolase activity
+Rv1278,GO:0005886,plasma membrane
+Rv1279,GO:0005886,plasma membrane
+Rv1280c,ABC) transporter comple,ATP-binding cassette 
+Rv1281c,GO:0005886,plasma membrane
+Rv1282c,GO:0016021,integral component of membrane
+Rv1283c,GO:0016021,integral component of membrane
+Rv1284,GO:0005886,plasma membrane
+Rv1285,ATP,sulfate adenylyltransferase complex 
+Rv1286,ATP,sulfate adenylyltransferase complex 
+Rv1287,GO:0005829,cytosol
+Rv1288,GO:0005618,cell wall
+Rv1289,GO:0005618,cell wall
+Rv1290c,GO:0016021,integral component of membrane
+Rv1291c,GO:0005886,plasma membrane
+Rv1292,GO:0005886,plasma membrane
+Rv1293,GO:0005618,cell wall
+Rv1294,GO:0005886,plasma membrane
+Rv1295,GO:0005886,plasma membrane
+Rv1296,GO:0005737,cytoplasm
+Rv1297,GO:0005886,plasma membrane
+Rv1298,GO:0005840,ribosome
+Rv1299,GO:0005829,cytosol
+Rv1300,GO:0032259,methylation
+Rv1301,GO:0005737,cytoplasm
+Rv1302,GO:0016021,integral component of membrane
+Rv1303,GO:0016021,integral component of membrane
+Rv1304,o,"proton-transporting ATP synthase complex, coupling factor F"
+Rv1305,o,"proton-transporting ATP synthase complex, coupling factor F"
+Rv1306,o,"proton-transporting ATP synthase complex, coupling factor F"
+Rv1307,o,"proton-transporting ATP synthase complex, coupling factor F"
+Rv1308,1,"proton-transporting ATP synthase complex, catalytic core F"
+Rv1309,1,"proton-transporting ATP synthase complex, catalytic core F"
+Rv1310,1,"proton-transporting ATP synthase complex, catalytic core F"
+Rv1311,1,"proton-transporting ATP synthase complex, catalytic core F"
+Rv1312,GO:0016021,integral component of membrane
+Rv1313c,GO:0005886,plasma membrane
+Rv1314c,GO:0005737,cytoplasm
+Rv1315,GO:0005737,cytoplasm
+Rv1316c,GO:0005886,plasma membrane
+Rv1317c,GO:0032993,protein-DNA complex
+Rv1318c,GO:0016021,integral component of membrane
+Rv1319c,GO:0016021,integral component of membrane
+Rv1320c,GO:0016021,integral component of membrane
+Rv1321,GO:0005737,cytoplasm
+Rv1322,GO:0016747,"transferase activity, transferring acyl groups other than amino-acyl groups"
+Rv1322A,GO:0046491,L-methylmalonyl-CoA metabolic process
+Rv1323,GO:0005886,plasma membrane
+Rv1324,GO:0005886,plasma membrane
+Rv1325c,GO:0016021,integral component of membrane
+Rv1326c,GO:0005886,plasma membrane
+Rv1327c,GO:0005886,plasma membrane
+Rv1328,GO:0005886,plasma membrane
+Rv1329c,GO:0005886,plasma membrane
+Rv1330c,GO:0005829,cytosol
+Rv1331,GO:0030163,protein catabolic process
+Rv1332,GO:0005576,extracellular region
+Rv1333,GO:0016021,integral component of membrane
+Rv1334,GO:0005829,cytosol
+Rv1335,GO:0032991,protein-containing complex
+Rv1336,GO:0032991,protein-containing complex
+Rv1337,GO:0016021,integral component of membrane
+Rv1338,GO:0005886,plasma membrane
+Rv1339,GO:0005886,plasma membrane
+Rv1340,GO:0005886,plasma membrane
+Rv1341,GO:0005829,cytosol
+Rv1342c,GO:0016021,integral component of membrane
+Rv1343c,GO:0016021,integral component of membrane
+Rv1344,GO:0005737,cytoplasm
+Rv1345,GO:0044119,growth of symbiont in host cell
+Rv1346,GO:0055114,oxidation-reduction process
+Rv1347c,GO:0019540,siderophore biosynthetic process from catechol
+Rv1348,GO:0016021,integral component of membrane
+Rv1349,GO:0016021,integral component of membrane
+Rv1350,GO:0055114,oxidation-reduction process
+Rv1351,GO:0016021,integral component of membrane
+Rv1352,GO:0005576,extracellular region
+Rv1353c,GO:0005737,cytoplasm
+Rv1354c,GO:0005886,plasma membrane
+Rv1355c,GO:0005886,plasma membrane
+Rv1356c,GO:0005829,cytosol
+Rv1357c,GO:0016021,integral component of membrane
+Rv1359,GO:0005829,cytosol
+Rv1360,GO:0055114,oxidation-reduction process
+Rv1361c,GO:0005618,cell wall
+Rv1362c,GO:0016021,integral component of membrane
+Rv1363c,GO:0016021,integral component of membrane
+Rv1364c,GO:0016311,dephosphorylation
+Rv1365c,GO:0045893,"positive regulation of transcription, DNA-templated"
+Rv1366,GO:0015969,guanosine tetraphosphate metabolic process
+Rv1366A,GO:0009295,nucleoid
+Rv1367c,GO:0005886,plasma membrane
+Rv1368,GO:0016020,membrane
+Rv1371,GO:0016021,integral component of membrane
+Rv1372,GO:0009715,chalcone biosynthetic process
+Rv1373,GO:0046506,sulfolipid biosynthetic process
+Rv1375,GO:0016021,integral component of membrane
+Rv1379,GO:0005618,cell wall
+Rv1380,GO:0005886,plasma membrane
+Rv1381,GO:0044205,'de novo' UMP biosynthetic process
+Rv1383,GO:0005951,carbamoyl-phosphate synthase complex
+Rv1384,GO:0005886,plasma membrane
+Rv1385,GO:0044205,'de novo' UMP biosynthetic process
+Rv1386,GO:0031975,envelope
+Rv1387,GO:0005576,extracellular region
+Rv1388,GO:0005886,plasma membrane
+Rv1389,GO:0005829,cytosol
+Rv1390,GO:0005829,cytosol
+Rv1391,GO:0005886,plasma membrane
+Rv1392,GO:0005886,plasma membrane
+Rv1393c,GO:0005618,cell wall
+Rv1394c,GO:0055114,oxidation-reduction process
+Rv1395,GO:0044119,growth of symbiont in host cell
+Rv1396c,GO:0005886,plasma membrane
+Rv1397c,GO:0005886,plasma membrane
+Rv1398c,GO:0005886,plasma membrane
+Rv1399c,GO:0009056,catabolic process
+Rv1401,GO:0016021,integral component of membrane
+Rv1402,GO:1990077,primosome complex
+Rv1403c,GO:0008168,methyltransferase activity
+Rv1404,GO:0005886,plasma membrane
+Rv1405c,GO:0008168,methyltransferase activity
+Rv1406,GO:0005829,cytosol
+Rv1407,GO:0005829,cytosol
+Rv1408,GO:0005829,cytosol
+Rv1409,GO:0005886,plasma membrane
+Rv1410c,GO:0016021,integral component of membrane
+Rv1411c,GO:0097691,bacterial extracellular vesicle
+Rv1412,GO:0005829,cytosol
+Rv1413,GO:0003824,catalytic activity
+Rv1414,GO:0036088,D-serine catabolic process
+Rv1415,GO:0005829,cytosol
+Rv1416,GO:0009349,riboflavin synthase complex
+Rv1417,GO:0016021,integral component of membrane
+Rv1418,GO:0016021,integral component of membrane
+Rv1419,GO:0016021,integral component of membrane
+Rv1420,GO:0009380,excinuclease repair complex
+Rv1421,GO:0005886,plasma membrane
+Rv1422,GO:0005737,cytoplasm
+Rv1423,GO:0005886,plasma membrane
+Rv1424c,GO:0005886,plasma membrane
+Rv1425,GO:0005886,plasma membrane
+Rv1426c,GO:0016021,integral component of membrane
+Rv1427c,GO:0016874,ligase activity
+Rv1435c,GO:0005576,extracellular region
+Rv1436,GO:0005886,plasma membrane
+Rv1437,GO:0005886,plasma membrane
+Rv1438,GO:0005886,plasma membrane
+Rv1440,GO:0016021,integral component of membrane
+Rv1441c,GO:0009986,cell surface
+Rv1443c,GO:0005886,plasma membrane
+Rv1445c,GO:0005886,plasma membrane
+Rv1447c,GO:0005886,plasma membrane
+Rv1448c,GO:0005829,cytosol
+Rv1449c,GO:0005886,plasma membrane
+Rv1450c,GO:0005618,cell wall
+Rv1451,GO:0016021,integral component of membrane
+Rv1452c,GO:0005886,plasma membrane
+Rv1459c,GO:0016021,integral component of membrane
+Rv1461,GO:0005829,cytosol
+Rv1462,GO:0052572,response to host immune response
+Rv1464,GO:0005886,plasma membrane
+Rv1468c,GO:0005886,plasma membrane
+Rv1469,GO:0016021,integral component of membrane
+Rv1472,GO:0005886,plasma membrane
+Rv1477,GO:0005618,cell wall
+Rv1478,GO:0005618,cell wall
+Rv1480,GO:0005886,plasma membrane
+Rv1481,GO:0016021,integral component of membrane
+Rv1483,GO:0005886,plasma membrane
+Rv1484,GO:0005886,plasma membrane
+Rv1485,GO:0005886,plasma membrane
+Rv1486c,GO:0016021,integral component of membrane
+Rv1488,GO:0016021,integral component of membrane
+Rv1490,GO:0016021,integral component of membrane
+Rv1491c,GO:0016021,integral component of membrane
+Rv1492,GO:0005886,plasma membrane
+Rv1493,GO:0005886,plasma membrane
+Rv1494,GO:0016021,integral component of membrane
+Rv1495,ATP-hydrolyzing) activit,negative regulation of DNA topoisomerase 
+Rv1496,GO:0016787,hydrolase activity
+Rv1498c,GO:0008168,methyltransferase activity
+Rv1500,GO:0016021,integral component of membrane
+Rv1501,GO:0008168,methyltransferase activity
+Rv1502,GO:0006355,"regulation of transcription, DNA-templated"
+Rv1503c,GO:0000271,polysaccharide biosynthetic process
+Rv1504c,GO:0003824,catalytic activity
+Rv1506c,GO:0052170,suppression by symbiont of host innate immune response
+Rv1507c,GO:0005886,plasma membrane
+Rv1508c,GO:0016021,integral component of membrane
+Rv1509,GO:0008168,methyltransferase activity
+Rv1510,GO:0016021,integral component of membrane
+Rv1514c,GO:0016757,"transferase activity, transferring glycosyl groups"
+Rv1518,GO:0016021,integral component of membrane
+Rv1519,GO:0000271,polysaccharide biosynthetic process
+Rv1520,GO:0005886,plasma membrane
+Rv1521,GO:0016021,integral component of membrane
+Rv1522c,GO:0016021,integral component of membrane
+Rv1524,GO:0030259,lipid glycosylation
+Rv1525,GO:0006631,fatty acid metabolic process
+Rv1526c,GO:0030259,lipid glycosylation
+Rv1530,GO:0055114,oxidation-reduction process
+Rv1533,GO:0005829,cytosol
+Rv1536,GO:0005886,plasma membrane
+Rv1537,GO:0005886,plasma membrane
+Rv1538c,GO:0042597,periplasmic space
+Rv1539,GO:0016021,integral component of membrane
+Rv1540,GO:0009451,RNA modification
+Rv1541c,GO:0016020,membrane
+Rv1542c,GO:0005829,cytosol
+Rv1543,GO:0005886,plasma membrane
+Rv1545,GO:0015934,large ribosomal subunit
+Rv1546,GO:0005886,plasma membrane
+Rv1547,GO:0005886,plasma membrane
+Rv1548c,GO:0016021,integral component of membrane
+Rv1549,GO:0003824,catalytic activity
+Rv1550,GO:0016021,integral component of membrane
+Rv1551,GO:0016020,membrane
+Rv1552,GO:0045284,plasma membrane fumarate reductase complex
+Rv1553,GO:0045284,plasma membrane fumarate reductase complex
+Rv1554,GO:0016021,integral component of membrane
+Rv1555,GO:0016021,integral component of membrane
+Rv1556,GO:0006355,"regulation of transcription, DNA-templated"
+Rv1557,GO:0016021,integral component of membrane
+Rv1558,GO:0005886,plasma membrane
+Rv1559,GO:0005886,plasma membrane
+Rv1560,GO:0075136,response to host
+Rv1561,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv1562c,GO:0005829,cytosol
+Rv1563c,GO:0005829,cytosol
+Rv1564c,GO:0008152,metabolic process
+Rv1567c,GO:0016021,integral component of membrane
+Rv1568,GO:0005737,cytoplasm
+Rv1569,GO:0005886,plasma membrane
+Rv1570,GO:0005829,cytosol
+Rv1574,GO:0016021,integral component of membrane
+Rv1575,GO:0005886,plasma membrane
+Rv1577c,GO:0005886,plasma membrane
+Rv1583c,GO:0016021,integral component of membrane
+Rv1584c,GO:0005618,cell wall
+Rv1586c,GO:0005618,cell wall
+Rv1589,GO:0005886,plasma membrane
+Rv1590,GO:0052559,induction by symbiont of host immune response
+Rv1591,GO:0016021,integral component of membrane
+Rv1592c,GO:0016042,lipid catabolic process
+Rv1594,GO:0005829,cytosol
+Rv1595,GO:0005737,cytoplasm
+Rv1596,GO:0005886,plasma membrane
+Rv1599,GO:0005829,cytosol
+Rv1600,GO:0005886,plasma membrane
+Rv1601,GO:0005737,cytoplasm
+Rv1602,GO:0005737,cytoplasm
+Rv1603,GO:0005737,cytoplasm
+Rv1604,GO:0005886,plasma membrane
+Rv1605,GO:0005737,cytoplasm
+Rv1606,GO:0005737,cytoplasm
+Rv1608c,GO:0005737,cytoplasm
+Rv1609,GO:0005886,plasma membrane
+Rv1610,GO:0016021,integral component of membrane
+Rv1611,GO:0005886,plasma membrane
+Rv1612,GO:0005737,cytoplasm
+Rv1613,GO:0005886,plasma membrane
+Rv1614,GO:0016021,integral component of membrane
+Rv1617,GO:0005886,plasma membrane
+Rv1618,GO:0005829,cytosol
+Rv1624c,GO:0016021,integral component of membrane
+Rv1625c,GO:0016021,integral component of membrane
+Rv1626,GO:0005886,plasma membrane
+Rv1627c,GO:0005886,plasma membrane
+Rv1629,GO:0005886,plasma membrane
+Rv1630,GO:0022627,cytosolic small ribosomal subunit
+Rv1631,GO:0005829,cytosol
+Rv1633,GO:0009380,excinuclease repair complex
+Rv1634,GO:0016021,integral component of membrane
+Rv1635c,GO:0016021,integral component of membrane
+Rv1636,GO:0005886,plasma membrane
+Rv1637c,GO:0016020,membrane
+Rv1638,GO:0009380,excinuclease repair complex
+Rv1640c,GO:0016021,integral component of membrane
+Rv1641,GO:0005886,plasma membrane
+Rv1642,GO:0022625,cytosolic large ribosomal subunit
+Rv1643,GO:0022625,cytosolic large ribosomal subunit
+Rv1647,GO:0035556,intracellular signal transduction
+Rv1649,GO:0005886,plasma membrane
+Rv1650,GO:0009328,phenylalanine-tRNA ligase complex
+Rv1651c,GO:0009986,cell surface
+Rv1652,GO:0005737,cytoplasm
+Rv1653,GO:0005737,cytoplasm
+Rv1654,GO:0005886,plasma membrane
+Rv1655,GO:0005737,cytoplasm
+Rv1656,GO:0005737,cytoplasm
+Rv1657,GO:0005737,cytoplasm
+Rv1658,GO:0005886,plasma membrane
+Rv1659,GO:0005737,cytoplasm
+Rv1660,GO:0034081,polyketide synthase complex
+Rv1661,GO:0005886,plasma membrane
+Rv1662,GO:0055114,oxidation-reduction process
+Rv1664,GO:0031177,phosphopantetheine binding
+Rv1665,GO:0034081,polyketide synthase complex
+Rv1666c,GO:0005618,cell wall
+Rv1667c,GO:0016887,ATPase activity
+Rv1668c,GO:0016887,ATPase activity
+Rv1675c,GO:0005829,cytosol
+Rv1676,GO:0005886,plasma membrane
+Rv1678,GO:0016021,integral component of membrane
+Rv1681,GO:0051536,iron-sulfur cluster binding
+Rv1683,GO:0005886,plasma membrane
+Rv1688,GO:0006974,cellular response to DNA damage stimulus
+Rv1689,GO:0005886,plasma membrane
+Rv1691,GO:0005618,cell wall
+Rv1694,GO:0033644,host cell membrane
+Rv1695,GO:0005737,cytoplasm
+Rv1696,GO:0005618,cell wall
+Rv1698,GO:0046930,pore complex
+Rv1699,GO:0005886,plasma membrane
+Rv1701,GO:0005737,cytoplasm
+Rv1703c,GO:0032259,methylation
+Rv1704c,GO:0016021,integral component of membrane
+Rv1705c,GO:0032259,methylation
+Rv1706c,GO:0003677,DNA binding
+Rv1706c.1,GO:0016021,integral component of membrane
+Rv1706c.2,GO:0032993,protein-DNA complex
+Rv1708,GO:0043590,bacterial nucleoid
+Rv1711,GO:0009451,RNA modification
+Rv1712,GO:0005829,cytosol
+Rv1713,GO:0005886,plasma membrane
+Rv1714,GO:0005829,cytosol
+Rv1720c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv1721c,GO:0006355,"regulation of transcription, DNA-templated"
+Rv1722,GO:0046872,metal ion binding
+Rv1726,GO:0055114,oxidation-reduction process
+Rv1728c,GO:0005576,extracellular region
+Rv1729c,GO:0005886,plasma membrane
+Rv1731,GO:0005886,plasma membrane
+Rv1733c,GO:0016021,integral component of membrane
+Rv1734c,GO:0016746,"transferase activity, transferring acyl groups"
+Rv1735c,GO:0016021,integral component of membrane
+Rv1736c,GO:0016021,integral component of membrane
+Rv1737c,GO:0016021,integral component of membrane
+Rv1738,GO:0005886,plasma membrane
+Rv1739c,GO:0016021,integral component of membrane
+Rv1740,GO:0030677,ribonuclease P complex
+Rv1741,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv1743,GO:0016021,integral component of membrane
+Rv1745c,GO:0005737,cytoplasm
+Rv1746,GO:0016021,integral component of membrane
+Rv1747,GO:0016021,integral component of membrane
+Rv1748,GO:0016021,integral component of membrane
+Rv1749c,GO:0016021,integral component of membrane
+Rv1753c,GO:0055114,oxidation-reduction process
+Rv1754c,GO:0016021,integral component of membrane
+Rv1755c,GO:0052008,disruption by symbiont of host cellular component
+Rv1758,GO:0016787,hydrolase activity
+Rv1759c,GO:0005576,extracellular region
+Rv1760,GO:0005886,plasma membrane
+Rv1765c,GO:0005829,cytosol
+Rv1768,GO:0016021,integral component of membrane
+Rv1770,GO:0005886,plasma membrane
+Rv1771,GO:0016020,membrane
+Rv1772,GO:0003723,RNA binding
+Rv1777,GO:0005618,cell wall
+Rv1781c,GO:0005829,cytosol
+Rv1782,GO:0016021,integral component of membrane
+Rv1783,GO:0016021,integral component of membrane
+Rv1785c,GO:0055114,oxidation-reduction process
+Rv1787,GO:0016020,membrane
+Rv1793,GO:0005886,plasma membrane
+Rv1795,GO:0016021,integral component of membrane
+Rv1797,GO:0016021,integral component of membrane
+Rv1798,GO:0005886,plasma membrane
+Rv1800,GO:0016021,integral component of membrane
+Rv1801,GO:0005618,cell wall
+Rv1802,GO:0005524,ATP binding
+Rv1803c,GO:0016021,integral component of membrane
+Rv1807,GO:0016021,integral component of membrane
+Rv1808,GO:0055114,oxidation-reduction process
+Rv1809,GO:0005886,plasma membrane
+Rv1810,GO:0005576,extracellular region
+Rv1812c,GO:0005886,plasma membrane
+Rv1813c,GO:0005737,cytoplasm
+Rv1814,GO:0016021,integral component of membrane
+Rv1815,GO:0005618,cell wall
+Rv1816,GO:0016021,integral component of membrane
+Rv1818c,GO:0016020,membrane
+Rv1819c,GO:0016021,integral component of membrane
+Rv1820,GO:0009099,valine biosynthetic process
+Rv1821,GO:0031522,cell envelope Sec protein transport complex
+Rv1822,GO:0016021,integral component of membrane
+Rv1823,GO:0016021,integral component of membrane
+Rv1824,GO:0016021,integral component of membrane
+Rv1825,GO:0016021,integral component of membrane
+Rv1826,GO:0005960,glycine cleavage complex
+Rv1827,GO:0005886,plasma membrane
+Rv1828,GO:0005829,cytosol
+Rv1829,GO:0005886,plasma membrane
+Rv1830,GO:0006355,"regulation of transcription, DNA-templated"
+Rv1831,GO:0005886,plasma membrane
+Rv1832,GO:0005960,glycine cleavage complex
+Rv1833c,GO:0005886,plasma membrane
+Rv1834,GO:0016787,hydrolase activity
+Rv1835c,GO:0005886,plasma membrane
+Rv1836c,GO:0016021,integral component of membrane
+Rv1837c,GO:0042603,capsule
+Rv1838c,GO:0005576,extracellular region
+Rv1839c,GO:0016042,lipid catabolic process
+Rv1840c,GO:0016021,integral component of membrane
+Rv1841c,GO:0016021,integral component of membrane
+Rv1842c,GO:0016021,integral component of membrane
+Rv1843c,GO:0005886,plasma membrane
+Rv1846c,GO:0005737,cytoplasm
+Rv1847,GO:0005829,cytosol
+Rv1848,GO:0005737,cytoplasm
+Rv1849,GO:0005737,cytoplasm
+Rv1850,GO:0005737,cytoplasm
+Rv1851,GO:0005737,cytoplasm
+Rv1852,GO:0005737,cytoplasm
+Rv1853,GO:0006807,nitrogen compound metabolic process
+Rv1856c,GO:0005886,plasma membrane
+Rv1857,GO:0030288,outer membrane-bounded periplasmic space
+Rv1858,GO:0016021,integral component of membrane
+Rv1859,GO:0016020,membrane
+Rv1860,GO:0009986,cell surface
+Rv1862,GO:0055114,oxidation-reduction process
+Rv1870c,GO:0006281,DNA repair
+Rv1871c,GO:0005886,plasma membrane
+Rv1872c,GO:0005886,plasma membrane
+Rv1874,GO:0005886,plasma membrane
+Rv1876,GO:0005886,plasma membrane
+Rv1877,GO:0016021,integral component of membrane
+Rv1880c,GO:0055114,oxidation-reduction process
+Rv1883c,GO:0047617,acyl-CoA hydrolase activity
+Rv1884c,GO:0005576,extracellular region
+Rv1885c,GO:0005576,extracellular region
+Rv1886c,GO:0005886,plasma membrane
+Rv1888A,GO:0032259,methylation
+Rv1888c,GO:0016021,integral component of membrane
+Rv1889c,GO:0032259,methylation
+Rv1890c,GO:0005829,cytosol
+Rv1892,GO:0016021,integral component of membrane
+Rv1895,GO:0055114,oxidation-reduction process
+Rv1896c,GO:0032259,methylation
+Rv1897c,GO:0005737,cytoplasm
+Rv1898,GO:0005886,plasma membrane
+Rv1899c,GO:0005886,plasma membrane
+Rv1901,GO:0005886,plasma membrane
+Rv1905c,GO:0055114,oxidation-reduction process
+Rv1907c,GO:0005886,plasma membrane
+Rv1908c,GO:0005886,plasma membrane
+Rv1909c,GO:0005737,cytoplasm
+Rv1910c,GO:0005576,extracellular region
+Rv1911c,GO:0016020,membrane
+Rv1914c,GO:0005886,plasma membrane
+Rv1917c,GO:0016020,membrane
+Rv1923,GO:0005886,plasma membrane
+Rv1926c,GO:0005618,cell wall
+Rv1932,GO:0005829,cytosol
+Rv1942c,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv1943c,GO:0045927,positive regulation of growth
+Rv1949c,GO:0055114,oxidation-reduction process
+Rv1952,GO:0006355,"regulation of transcription, DNA-templated"
+Rv1953,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv1954A,GO:0016021,integral component of membrane
+Rv1954c,GO:0016021,integral component of membrane
+Rv1955,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv1956,GO:0045927,positive regulation of growth
+Rv1957,GO:0005618,cell wall
+Rv1958c,GO:0016021,integral component of membrane
+Rv1959c,GO:0045926,negative regulation of growth
+Rv1960c,GO:0045927,positive regulation of growth
+Rv1962A,GO:0045927,positive regulation of growth
+Rv1962c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv1973,GO:0016020,membrane
+Rv1979c,GO:0016021,integral component of membrane
+Rv1980c,GO:0005618,cell wall
+Rv1981c,GO:0005971,ribonucleoside-diphosphate reductase complex
+Rv1982A,GO:0005737,cytoplasm
+Rv1982c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv1983,GO:0016021,integral component of membrane
+Rv1984c,GO:0005618,cell wall
+Rv1985c,GO:0008156,negative regulation of DNA replication
+Rv1986,GO:0016021,integral component of membrane
+Rv1987,GO:0005975,carbohydrate metabolic process
+Rv1989c,GO:0016779,nucleotidyltransferase activity
+Rv1990c,GO:0055114,oxidation-reduction process
+Rv1991A,GO:0045927,positive regulation of growth
+Rv1991c,GO:0005576,extracellular region
+Rv1992c,GO:0016021,integral component of membrane
+Rv1993c,GO:0005886,plasma membrane
+Rv1994c,GO:0046686,response to cadmium ion
+Rv1995,GO:0005886,plasma membrane
+Rv1996,GO:0005886,plasma membrane
+Rv1997,GO:0043231,intracellular membrane-bounded organelle
+Rv1998c,GO:0003824,catalytic activity
+Rv1999c,GO:0016021,integral component of membrane
+Rv2000,GO:0005886,plasma membrane
+Rv2001,GO:0006633,fatty acid biosynthetic process
+Rv2002,GO:0005886,plasma membrane
+Rv2003A,GO:0003824,catalytic activity
+Rv2003c,GO:0008168,methyltransferase activity
+Rv2004c,GO:0005618,cell wall
+Rv2005c,GO:0005886,plasma membrane
+Rv2006,GO:0005886,plasma membrane
+Rv2007c,GO:0005829,cytosol
+Rv2008c,GO:0005524,ATP binding
+Rv2009,GO:0045927,positive regulation of growth
+Rv2010,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv2011c,GO:0045892,"negative regulation of transcription, DNA-templated"
+Rv2012,GO:0016021,integral component of membrane
+Rv2015c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2024c,GO:0016787,hydrolase activity
+Rv2025c,GO:0016021,integral component of membrane
+Rv2026c,GO:0005524,ATP binding
+Rv2027c,GO:0016021,integral component of membrane
+Rv2028c,GO:0005886,plasma membrane
+Rv2029c,GO:0005829,cytosol
+Rv2030c,GO:0005886,plasma membrane
+Rv2031c,GO:0005886,plasma membrane
+Rv2032,GO:0005886,plasma membrane
+Rv2034,GO:0006355,"regulation of transcription, DNA-templated"
+Rv2037c,GO:0016021,integral component of membrane
+Rv2044c,GO:0016021,integral component of membrane
+Rv2045c,GO:0016787,hydrolase activity
+Rv2047c,GO:0005618,cell wall
+Rv2048c,GO:0055114,oxidation-reduction process
+Rv2049c,GO:0045927,positive regulation of growth
+Rv2050,GO:0045893,"positive regulation of transcription, DNA-templated"
+Rv2051c,GO:0016021,integral component of membrane
+Rv2053c,GO:0016021,integral component of membrane
+Rv2055c,GO:0022627,cytosolic small ribosomal subunit
+Rv2056c,GO:0015935,small ribosomal subunit
+Rv2057c,GO:0022625,cytosolic large ribosomal subunit
+Rv2058c,GO:0022625,cytosolic large ribosomal subunit
+Rv2059,GO:0005886,plasma membrane
+Rv2060,ABC) transporter comple,ATP-binding cassette 
+Rv2063,GO:0045927,positive regulation of growth
+Rv2063A,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv2065,GO:0009236,cobalamin biosynthetic process
+Rv2066,GO:0005886,plasma membrane
+Rv2067c,GO:0005886,plasma membrane
+Rv2068c,GO:0042597,periplasmic space
+Rv2069,GO:2000142,"regulation of DNA-templated transcription, initiation"
+Rv2070c,GO:0055114,oxidation-reduction process
+Rv2071c,GO:0055114,oxidation-reduction process
+Rv2072c,GO:0005618,cell wall
+Rv2073c,GO:0055114,oxidation-reduction process
+Rv2074,GO:0009986,cell surface
+Rv2075c,GO:0016021,integral component of membrane
+Rv2076c,GO:0016021,integral component of membrane
+Rv2077c,GO:0016021,integral component of membrane
+Rv2078,GO:0005886,plasma membrane
+Rv2079,GO:0005829,cytosol
+Rv2080,GO:0016020,membrane
+Rv2081c,GO:0016021,integral component of membrane
+Rv2082,GO:0052559,induction by symbiont of host immune response
+Rv2083,GO:0016021,integral component of membrane
+Rv2084,GO:0005886,plasma membrane
+Rv2085,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2086,GO:0016021,integral component of membrane
+Rv2087,GO:0046855,inositol phosphate dephosphorylation
+Rv2088,GO:0016021,integral component of membrane
+Rv2089c,GO:0016021,integral component of membrane
+Rv2090,GO:0005618,cell wall
+Rv2091c,GO:0016021,integral component of membrane
+Rv2092c,GO:0055087,Ski complex
+Rv2093c,GO:0033281,TAT protein transport complex
+Rv2094c,GO:0033281,TAT protein transport complex
+Rv2095c,GO:0005618,cell wall
+Rv2096c,GO:0005886,plasma membrane
+Rv2097c,GO:0005886,plasma membrane
+Rv2103c,GO:0005576,extracellular region
+Rv2104c,GO:0016874,ligase activity
+Rv2108,GO:0016020,membrane
+Rv2109c,GO:0019773,"proteasome core complex, alpha-subunit complex"
+Rv2110c,GO:0019774,"proteasome core complex, beta-subunit complex"
+Rv2111c,GO:0070490,protein pupylation
+Rv2112c,GO:0070490,protein pupylation
+Rv2115c,GO:0022623,proteasome-activating nucleotidase complex
+Rv2116,GO:0016020,membrane
+Rv2118c,m1A) methyltransferase comple,tRNA 
+Rv2121c,GO:0005886,plasma membrane
+Rv2122c,GO:0005737,cytoplasm
+Rv2123,GO:0075139,response to host iron concentration
+Rv2124c,GO:0005886,plasma membrane
+Rv2126c,GO:0016021,integral component of membrane
+Rv2127,GO:0016021,integral component of membrane
+Rv2128,GO:0016021,integral component of membrane
+Rv2130c,GO:0005886,plasma membrane
+Rv2131c,GO:0005886,plasma membrane
+Rv2133c,GO:0016021,integral component of membrane
+Rv2136c,GO:0016021,integral component of membrane
+Rv2137c,GO:0016021,integral component of membrane
+Rv2139,GO:0016020,membrane
+Rv2140c,GO:0005886,plasma membrane
+Rv2142A,GO:0045927,positive regulation of growth
+Rv2142c,GO:0045926,negative regulation of growth
+Rv2143,GO:0009116,nucleoside metabolic process
+Rv2145c,GO:0060187,cell pole
+Rv2147c,GO:0005886,plasma membrane
+Rv2148c,GO:0005622,intracellular
+Rv2149c,GO:0005618,cell wall
+Rv2150c,GO:0032153,cell division site
+Rv2151c,GO:0032153,cell division site
+Rv2152c,GO:0005737,cytoplasm
+Rv2153c,GO:0016020,membrane
+Rv2154c,GO:0032153,cell division site
+Rv2155c,GO:0005829,cytosol
+Rv2156c,GO:0016021,integral component of membrane
+Rv2157c,GO:0005737,cytoplasm
+Rv2158c,GO:0005886,plasma membrane
+Rv2159c,GO:0005886,plasma membrane
+Rv2160A,GO:0003677,DNA binding
+Rv2162c,GO:0071267,L-methionine salvage
+Rv2163c,GO:0016021,integral component of membrane
+Rv2165c,GO:0005886,plasma membrane
+Rv2166c,GO:0009295,nucleoid
+Rv2171,GO:0016021,integral component of membrane
+Rv2174,GO:0016021,integral component of membrane
+Rv2175c,GO:0018107,peptidyl-threonine phosphorylation
+Rv2176,GO:0016021,integral component of membrane
+Rv2178c,GO:0005886,plasma membrane
+Rv2180c,GO:0016021,integral component of membrane
+Rv2181,GO:0016021,integral component of membrane
+Rv2184c,GO:0016887,ATPase activity
+Rv2187,GO:0005886,plasma membrane
+Rv2188c,GO:0005886,plasma membrane
+Rv2189c,GO:0016021,integral component of membrane
+Rv2190c,GO:0005576,extracellular region
+Rv2191,GO:0009380,excinuclease repair complex
+Rv2192c,GO:0005886,plasma membrane
+Rv2193,GO:0016021,integral component of membrane
+Rv2194,GO:0070469,respirasome
+Rv2195,GO:0070469,respirasome
+Rv2196,GO:0070469,respirasome
+Rv2197c,GO:0016021,integral component of membrane
+Rv2198c,GO:0016021,integral component of membrane
+Rv2199c,GO:0016021,integral component of membrane
+Rv2200c,GO:0070469,respirasome
+Rv2201,GO:0005886,plasma membrane
+Rv2202c,GO:0005886,plasma membrane
+Rv2203,GO:0016021,integral component of membrane
+Rv2204c,GO:0005886,plasma membrane
+Rv2205c,GO:0005618,cell wall
+Rv2206,GO:0016021,integral component of membrane
+Rv2207,GO:0009236,cobalamin biosynthetic process
+Rv2208,GO:0016021,integral component of membrane
+Rv2209,GO:0016021,integral component of membrane
+Rv2210c,GO:0071267,L-methionine salvage
+Rv2211c,GO:0005829,cytosol
+Rv2212,GO:0035556,intracellular signal transduction
+Rv2213,GO:0005886,plasma membrane
+Rv2214c,GO:0005887,integral component of plasma membrane
+Rv2215,GO:0045254,pyruvate dehydrogenase complex
+Rv2216,GO:0005886,plasma membrane
+Rv2217,GO:0005886,plasma membrane
+Rv2218,GO:0005737,cytoplasm
+Rv2219,GO:0016021,integral component of membrane
+Rv2220,GO:0016020,membrane
+Rv2221c,GO:0005886,plasma membrane
+Rv2222c,GO:0005886,plasma membrane
+Rv2223c,GO:0005618,cell wall
+Rv2224c,GO:0016020,membrane
+Rv2225,GO:0005886,plasma membrane
+Rv2226,GO:0005886,plasma membrane
+Rv2227,GO:0005886,plasma membrane
+Rv2228c,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv2229c,GO:0005886,plasma membrane
+Rv2230c,GO:0005737,cytoplasm
+Rv2231A,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv2231B,GO:0046470,phosphatidylcholine metabolic process
+Rv2231c,GO:0005737,cytoplasm
+Rv2232,GO:0005829,cytosol
+Rv2234,GO:0044174,host cell endosome
+Rv2235,GO:0016021,integral component of membrane
+Rv2236c,GO:0016021,integral component of membrane
+Rv2237,GO:0016021,integral component of membrane
+Rv2237A,GO:0016021,integral component of membrane
+Rv2238c,GO:0005829,cytosol
+Rv2239c,GO:0005829,cytosol
+Rv2240c,GO:0016021,integral component of membrane
+Rv2241,GO:0045254,pyruvate dehydrogenase complex
+Rv2242,GO:0005960,glycine cleavage complex
+Rv2243,GO:0005835,fatty acid synthase complex
+Rv2244,GO:0005886,plasma membrane
+Rv2245,GO:0005886,plasma membrane
+Rv2246,GO:0005886,plasma membrane
+Rv2247,GO:0009317,acetyl-CoA carboxylase complex
+Rv2249c,GO:0009331,glycerol-3-phosphate dehydrogenase complex
+Rv2250A,GO:0016021,integral component of membrane
+Rv2250c,GO:0006355,"regulation of transcription, DNA-templated"
+Rv2251,GO:0055114,oxidation-reduction process
+Rv2252,GO:0005886,plasma membrane
+Rv2256c,GO:0022625,cytosolic large ribosomal subunit
+Rv2261c,GO:0016021,integral component of membrane
+Rv2262c,GO:0016021,integral component of membrane
+Rv2265,GO:0016021,integral component of membrane
+Rv2266,GO:0097089,methyl-branched fatty acid metabolic process
+Rv2267c,GO:0046506,sulfolipid biosynthetic process
+Rv2268c,GO:0016021,integral component of membrane
+Rv2269c,GO:0042783,evasion of host immune response
+Rv2270,GO:0016020,membrane
+Rv2271,GO:0009289,pilus
+Rv2272,GO:0016021,integral component of membrane
+Rv2273,GO:0016021,integral component of membrane
+Rv2274A,GO:0016021,integral component of membrane
+Rv2274c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2275,GO:0016875,"ligase activity, forming carbon-oxygen bonds"
+Rv2276,GO:0005737,cytoplasm
+Rv2277c,GO:0006629,lipid metabolic process
+Rv2280,GO:0005886,plasma membrane
+Rv2281,GO:0016021,integral component of membrane
+Rv2282c,GO:0005829,cytosol
+Rv2283,GO:0005886,plasma membrane
+Rv2285,GO:0005886,plasma membrane
+Rv2286c,GO:0055114,oxidation-reduction process
+Rv2287,GO:0016021,integral component of membrane
+Rv2288,GO:0005618,cell wall
+Rv2289,GO:0016021,integral component of membrane
+Rv2290,GO:0016020,membrane
+Rv2291,GO:0019346,transsulfuration
+Rv2292c,GO:0009116,nucleoside metabolic process
+Rv2293c,GO:0016021,integral component of membrane
+Rv2294,GO:0005886,plasma membrane
+Rv2295,GO:0052170,suppression by symbiont of host innate immune response
+Rv2296,GO:0005886,plasma membrane
+Rv2297,GO:0005829,cytosol
+Rv2298,GO:0005886,plasma membrane
+Rv2299c,GO:0005886,plasma membrane
+Rv2300c,GO:0005886,plasma membrane
+Rv2301,GO:0005576,extracellular region
+Rv2302,GO:0005618,cell wall
+Rv2304c,GO:0006107,oxaloacetate metabolic process
+Rv2305,GO:0005886,plasma membrane
+Rv2306B,GO:0016021,integral component of membrane
+Rv2306c,GO:0005886,plasma membrane
+Rv2307c,GO:0016021,integral component of membrane
+Rv2308,GO:0003677,DNA binding
+Rv2310,GO:0003677,DNA binding
+Rv2311,GO:0016020,membrane
+Rv2312,GO:0005886,plasma membrane
+Rv2313c,GO:0071769,mycolate cell wall layer assembly
+Rv2317,GO:0016021,integral component of membrane
+Rv2318,GO:0005886,plasma membrane
+Rv2319c,GO:0005829,cytosol
+Rv2320c,GO:0016021,integral component of membrane
+Rv2321c,GO:0042802,identical protein binding
+Rv2323c,GO:0016787,hydrolase activity
+Rv2325c,GO:0016021,integral component of membrane
+Rv2326c,ABC) transporter comple,ATP-binding cassette 
+Rv2328,GO:0016021,integral component of membrane
+Rv2330c,GO:0016020,membrane
+Rv2331,GO:0005886,plasma membrane
+Rv2332,GO:0005829,cytosol
+Rv2333c,GO:0016021,integral component of membrane
+Rv2334,GO:0005829,cytosol
+Rv2335,GO:0005829,cytosol
+Rv2339,GO:0016021,integral component of membrane
+Rv2343c,GO:1990077,primosome complex
+Rv2344c,GO:0005886,plasma membrane
+Rv2345,GO:0016021,integral component of membrane
+Rv2346c,GO:0005886,plasma membrane
+Rv2347c,GO:0005576,extracellular region
+Rv2348c,GO:0016021,integral component of membrane
+Rv2349c,GO:0052008,disruption by symbiont of host cellular component
+Rv2350c,GO:0016020,membrane
+Rv2351c,GO:0016020,membrane
+Rv2352c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2353c,GO:0016020,membrane
+Rv2356c,GO:0016021,integral component of membrane
+Rv2357c,GO:1990742,microvesicle
+Rv2358,GO:0010043,response to zinc ion
+Rv2359,GO:0032993,protein-DNA complex
+Rv2361c,GO:0016020,membrane
+Rv2362c,GO:0043590,bacterial nucleoid
+Rv2363,GO:0043864,indoleacetamide hydrolase activity
+Rv2364c,GO:0016020,membrane
+Rv2366c,GO:0016021,integral component of membrane
+Rv2367c,GO:0005737,cytoplasm
+Rv2368c,GO:0005886,plasma membrane
+Rv2369c,GO:0016021,integral component of membrane
+Rv2372c,GO:0005737,cytoplasm
+Rv2373c,GO:0005737,cytoplasm
+Rv2374c,GO:0005886,plasma membrane
+Rv2376c,GO:0005618,cell wall
+Rv2377c,GO:0005829,cytosol
+Rv2378c,GO:0055114,oxidation-reduction process
+Rv2379c,GO:0005886,plasma membrane
+Rv2380c,GO:0016021,integral component of membrane
+Rv2383c,GO:0005886,plasma membrane
+Rv2385,GO:0016787,hydrolase activity
+Rv2386c,GO:0005886,plasma membrane
+Rv2388c,GO:0005737,cytoplasm
+Rv2389c,GO:0016021,integral component of membrane
+Rv2391,GO:0005829,cytosol
+Rv2392,GO:0005886,plasma membrane
+Rv2395A,GO:0097041,phenolic phthiocerol biosynthetic process
+Rv2395B,GO:0003677,DNA binding
+Rv2396,GO:0005886,plasma membrane
+Rv2397c,ABC) transporter comple,ATP-binding cassette 
+Rv2401A,GO:0016021,integral component of membrane
+Rv2402,GO:0005886,plasma membrane
+Rv2404c,GO:0016020,membrane
+Rv2405,GO:0005886,plasma membrane
+Rv2407,GO:0042779,tRNA 3'-trailer cleavage
+Rv2408,GO:0030430,host cell cytoplasm
+Rv2411c,GO:0005886,plasma membrane
+Rv2412,GO:0015935,small ribosomal subunit
+Rv2413c,GO:0009360,DNA polymerase III complex
+Rv2416c,GO:0097691,bacterial extracellular vesicle
+Rv2417c,GO:0005886,plasma membrane
+Rv2419c,GO:0016311,dephosphorylation
+Rv2421c,GO:0019363,pyridine nucleotide biosynthetic process
+Rv2424c,GO:0006313,"transposition, DNA-mediated"
+Rv2427c,GO:0005886,plasma membrane
+Rv2428,GO:0005886,plasma membrane
+Rv2429,GO:0005886,plasma membrane
+Rv2436,GO:0005829,cytosol
+Rv2438A,GO:0045893,"positive regulation of transcription, DNA-templated"
+Rv2438c,GO:0005886,plasma membrane
+Rv2439c,GO:0005829,cytosol
+Rv2440c,GO:0016020,membrane
+Rv2441c,GO:0022625,cytosolic large ribosomal subunit
+Rv2442c,GO:0005886,plasma membrane
+Rv2445c,GO:0005886,plasma membrane
+Rv2448c,GO:0005886,plasma membrane
+Rv2449c,GO:0016021,integral component of membrane
+Rv2450c,GO:0005576,extracellular region
+Rv2453c,GO:0005886,plasma membrane
+Rv2454c,GO:0005829,cytosol
+Rv2455c,GO:0005886,plasma membrane
+Rv2456c,GO:0016021,integral component of membrane
+Rv2457c,GO:0005618,cell wall
+Rv2459,GO:0016021,integral component of membrane
+Rv2460c,GO:0009368,endopeptidase Clp complex
+Rv2461c,GO:0009368,endopeptidase Clp complex
+Rv2462c,GO:0005886,plasma membrane
+Rv2464c,GO:0034599,cellular response to oxidative stress
+Rv2465c,GO:0005576,extracellular region
+Rv2468c,GO:0005886,plasma membrane
+Rv2470,GO:0016020,membrane
+Rv2471,GO:0005886,plasma membrane
+Rv2474c,GO:0005737,cytoplasm
+Rv2476c,GO:0005886,plasma membrane
+Rv2477c,GO:0005886,plasma membrane
+Rv2482c,GO:0016020,membrane
+Rv2484c,GO:0005886,plasma membrane
+Rv2486,GO:0006631,fatty acid metabolic process
+Rv2487c,GO:0008156,negative regulation of DNA replication
+Rv2488c,GO:0005886,plasma membrane
+Rv2490c,GO:0005737,cytoplasm
+Rv2493,GO:0009056,catabolic process
+Rv2494,GO:0005576,extracellular region
+Rv2495c,GO:0005886,plasma membrane
+Rv2496c,GO:0005886,plasma membrane
+Rv2497c,GO:0055114,oxidation-reduction process
+Rv2498c,GO:0006107,oxaloacetate metabolic process
+Rv2499c,GO:0008152,metabolic process
+Rv2501c,GO:0005886,plasma membrane
+Rv2503c,GO:0001666,response to hypoxia
+Rv2504c,GO:0016740,transferase activity
+Rv2507,GO:0016021,integral component of membrane
+Rv2511,GO:0005737,cytoplasm
+Rv2521,GO:0005886,plasma membrane
+Rv2522c,GO:0005829,cytosol
+Rv2523c,GO:0005737,cytoplasm
+Rv2526,GO:0016021,integral component of membrane
+Rv2527,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv2530A,GO:0045927,positive regulation of growth
+Rv2530c,GO:0005576,extracellular region
+Rv2533c,GO:0005829,cytosol
+Rv2534c,GO:0005737,cytoplasm
+Rv2537c,GO:0005829,cytosol
+Rv2538c,GO:0005886,plasma membrane
+Rv2539c,GO:0005829,cytosol
+Rv2540c,GO:0005829,cytosol
+Rv2541,GO:0005886,plasma membrane
+Rv2543,GO:0016020,membrane
+Rv2544,GO:0016020,membrane
+Rv2545,GO:0005618,cell wall
+Rv2546,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv2547,GO:0045927,positive regulation of growth
+Rv2548,GO:0005576,extracellular region
+Rv2549c,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv2550c,GO:0045927,positive regulation of growth
+Rv2552c,GO:0005829,cytosol
+Rv2554c,GO:0005829,cytosol
+Rv2555c,GO:0005886,plasma membrane
+Rv2556c,GO:0005618,cell wall
+Rv2557,GO:0009267,cellular response to starvation
+Rv2558,GO:0009267,cellular response to starvation
+Rv2559c,GO:0043085,positive regulation of catalytic activity
+Rv2560,GO:0016021,integral component of membrane
+Rv2561,GO:0045893,"positive regulation of transcription, DNA-templated"
+Rv2563,GO:0016021,integral component of membrane
+Rv2564,GO:0005886,plasma membrane
+Rv2565,GO:0005829,cytosol
+Rv2566,GO:0005829,cytosol
+Rv2567,GO:0005886,plasma membrane
+Rv2568c,GO:0005886,plasma membrane
+Rv2569c,GO:0005886,plasma membrane
+Rv2570,GO:0071766,Actinobacterium-type cell wall biogenesis
+Rv2571c,GO:0016021,integral component of membrane
+Rv2572c,GO:0005737,cytoplasm
+Rv2573,GO:0005829,cytosol
+Rv2574,GO:0005886,plasma membrane
+Rv2575,GO:0016021,integral component of membrane
+Rv2576c,GO:0016021,integral component of membrane
+Rv2577,GO:0005886,plasma membrane
+Rv2578c,GO:0016021,integral component of membrane
+Rv2579,GO:0005886,plasma membrane
+Rv2580c,GO:0005886,plasma membrane
+Rv2581c,GO:0046872,metal ion binding
+Rv2582,GO:0005887,integral component of plasma membrane
+Rv2583c,GO:0005886,plasma membrane
+Rv2584c,GO:0005886,plasma membrane
+Rv2585c,GO:0030288,outer membrane-bounded periplasmic space
+Rv2586c,GO:0016021,integral component of membrane
+Rv2587c,GO:0016021,integral component of membrane
+Rv2588c,GO:0016021,integral component of membrane
+Rv2589,GO:0005886,plasma membrane
+Rv2591,GO:0005618,cell wall
+Rv2592c,GO:0032508,DNA duplex unwinding
+Rv2593c,GO:0009379,Holliday junction helicase complex
+Rv2594c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2595,GO:0005515,protein binding
+Rv2596,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv2597,GO:0016021,integral component of membrane
+Rv2598,GO:0005886,plasma membrane
+Rv2599,GO:0016021,integral component of membrane
+Rv2600,GO:0016021,integral component of membrane
+Rv2601,GO:0016021,integral component of membrane
+Rv2601A,GO:0045927,positive regulation of growth
+Rv2602,GO:0005576,extracellular region
+Rv2603c,GO:0005829,cytosol
+Rv2604c,GO:1903600,glutaminase complex
+Rv2606c,GO:0005886,plasma membrane
+Rv2607,GO:0055114,oxidation-reduction process
+Rv2608,GO:0052559,induction by symbiont of host immune response
+Rv2610c,GO:0016020,membrane
+Rv2611c,GO:0016021,integral component of membrane
+Rv2612c,GO:0016021,integral component of membrane
+Rv2613c,GO:0005886,plasma membrane
+Rv2614c,GO:0005886,plasma membrane
+Rv2615c,GO:0016021,integral component of membrane
+Rv2618,ABC) transporter comple,ATP-binding cassette 
+Rv2623,GO:0005886,plasma membrane
+Rv2624c,GO:0005886,plasma membrane
+Rv2625c,GO:0016021,integral component of membrane
+Rv2626c,GO:0005886,plasma membrane
+Rv2627c,GO:0005886,plasma membrane
+Rv2628,GO:0005576,extracellular region
+Rv2629,GO:0005886,plasma membrane
+Rv2630,GO:0008033,tRNA processing
+Rv2631,GO:0005618,cell wall
+Rv2632c,GO:0005618,cell wall
+Rv2633c,GO:0005829,cytosol
+Rv2634c,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv2635,GO:0006635,fatty acid beta-oxidation
+Rv2636,GO:0016740,transferase activity
+Rv2637,GO:0016021,integral component of membrane
+Rv2639c,GO:0016021,integral component of membrane
+Rv2641,GO:0046686,response to cadmium ion
+Rv2644c,GO:0005886,plasma membrane
+Rv2645,GO:0006355,"regulation of transcription, DNA-templated"
+Rv2647,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv2652c,GO:0005737,cytoplasm
+Rv2653c,GO:0045926,negative regulation of growth
+Rv2654c,GO:0045927,positive regulation of growth
+Rv2656c,GO:0016021,integral component of membrane
+Rv2657c,GO:0003677,DNA binding
+Rv2658c,GO:0030288,outer membrane-bounded periplasmic space
+Rv2659c,GO:0075713,establishment of integrated proviral latency
+Rv2661c,GO:0016021,integral component of membrane
+Rv2666,GO:0032196,transposition
+Rv2667,GO:0005829,cytosol
+Rv2669,GO:0005737,cytoplasm
+Rv2672,GO:0005576,extracellular region
+Rv2673,GO:0016021,integral component of membrane
+Rv2676c,GO:0005886,plasma membrane
+Rv2677c,GO:0016020,membrane
+Rv2678c,GO:0005829,cytosol
+Rv2680,GO:0016787,hydrolase activity
+Rv2682c,GO:0005829,cytosol
+Rv2683,GO:0005886,plasma membrane
+Rv2684,GO:0016021,integral component of membrane
+Rv2685,GO:0016021,integral component of membrane
+Rv2686c,GO:0016021,integral component of membrane
+Rv2687c,GO:0016021,integral component of membrane
+Rv2688c,GO:0016020,membrane
+Rv2692,GO:0005886,plasma membrane
+Rv2697c,GO:0046081,dUTP catabolic process
+Rv2701c,GO:0046855,inositol phosphate dephosphorylation
+Rv2702,GO:0051156,glucose 6-phosphate metabolic process
+Rv2703,GO:0005886,plasma membrane
+Rv2705c,GO:0016021,integral component of membrane
+Rv2706c,GO:0022625,cytosolic large ribosomal subunit
+Rv2708c,GO:0016021,integral component of membrane
+Rv2709,GO:0016021,integral component of membrane
+Rv2710,GO:0005886,plasma membrane
+Rv2711,GO:0005886,plasma membrane
+Rv2713,GO:0005886,plasma membrane
+Rv2715,GO:0005886,plasma membrane
+Rv2716,GO:0009058,biosynthetic process
+Rv2717c,GO:0046907,intracellular transport
+Rv2718c,GO:0005829,cytosol
+Rv2720,GO:0005618,cell wall
+Rv2723,GO:0016021,integral component of membrane
+Rv2725c,GO:0005886,plasma membrane
+Rv2726c,GO:0005886,plasma membrane
+Rv2727c,GO:0008033,tRNA processing
+Rv2732c,GO:0016021,integral component of membrane
+Rv2733c,GO:0005829,cytosol
+Rv2735c,GO:0005737,cytoplasm
+Rv2736c,GO:0005886,plasma membrane
+Rv2737c,GO:0005829,cytosol
+Rv2740,GO:0005886,plasma membrane
+Rv2741,GO:0044164,host cell cytosol
+Rv2742A,GO:0016021,integral component of membrane
+Rv2744c,GO:0005886,plasma membrane
+Rv2745c,GO:0090062,regulation of trehalose metabolic process
+Rv2746c,GO:0016021,integral component of membrane
+Rv2747,GO:0005737,cytoplasm
+Rv2748c,GO:0016021,integral component of membrane
+Rv2750,GO:0055114,oxidation-reduction process
+Rv2752c,GO:0005737,cytoplasm
+Rv2753c,GO:0005886,plasma membrane
+Rv2754c,GO:0032259,methylation
+Rv2757c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv2758c,GO:0045927,positive regulation of growth
+Rv2759c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv2760c,GO:0005886,plasma membrane
+Rv2763c,GO:0005829,cytosol
+Rv2764c,GO:0005829,cytosol
+Rv2765,GO:0016787,hydrolase activity
+Rv2767c,GO:0016021,integral component of membrane
+Rv2770c,GO:0005886,plasma membrane
+Rv2773c,GO:0005886,plasma membrane
+Rv2775,GO:0005829,cytosol
+Rv2776c,GO:0055114,oxidation-reduction process
+Rv2777c,GO:0016020,membrane
+Rv2780,GO:0005886,plasma membrane
+Rv2782c,GO:0005886,plasma membrane
+Rv2783c,GO:0005886,plasma membrane
+Rv2785c,GO:0022627,cytosolic small ribosomal subunit
+Rv2786c,GO:0016310,phosphorylation
+Rv2793c,GO:0005618,cell wall
+Rv2797c,GO:0005886,plasma membrane
+Rv2799,GO:0016021,integral component of membrane
+Rv2801A,GO:0045927,positive regulation of growth
+Rv2801c,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv2804c,GO:0032259,methylation
+Rv2805,GO:0016310,phosphorylation
+Rv2808,GO:0005829,cytosol
+Rv2810c,GO:0005829,cytosol
+Rv2816c,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+Rv2817c,GO:0005618,cell wall
+Rv2818c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2819c,GO:0005886,plasma membrane
+Rv2820c,GO:0051607,defense response to virus
+Rv2821c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2822c,GO:0051607,defense response to virus
+Rv2823c,GO:0005886,plasma membrane
+Rv2824c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2825c,GO:0005576,extracellular region
+Rv2826c,GO:0005886,plasma membrane
+Rv2829c,GO:0005576,extracellular region
+Rv2830c,GO:0045727,positive regulation of translation
+Rv2837c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2838c,GO:0005829,cytosol
+Rv2839c,GO:0005886,plasma membrane
+Rv2840c,GO:0005618,cell wall
+Rv2841c,GO:0005886,plasma membrane
+Rv2842c,GO:0005886,plasma membrane
+Rv2843,GO:0016021,integral component of membrane
+Rv2845c,GO:0005886,plasma membrane
+Rv2846c,GO:0016021,integral component of membrane
+Rv2848c,GO:0005886,plasma membrane
+Rv2850c,GO:0016887,ATPase activity
+Rv2851c,GO:0016747,"transferase activity, transferring acyl groups other than amino-acyl groups"
+Rv2852c,GO:0005886,plasma membrane
+Rv2853,GO:0034081,polyketide synthase complex
+Rv2854,GO:0016020,membrane
+Rv2855,GO:0005829,cytosol
+Rv2857c,GO:0016020,membrane
+Rv2859c,GO:0006598,polyamine catabolic process
+Rv2861c,GO:0070084,protein initiator methionine removal
+Rv2862A,GO:0005886,plasma membrane
+Rv2863,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv2865,GO:0045927,positive regulation of growth
+Rv2866,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2868c,GO:0005886,plasma membrane
+Rv2869c,GO:0016021,integral component of membrane
+Rv2870c,GO:0055114,oxidation-reduction process
+Rv2871,GO:0005886,plasma membrane
+Rv2872,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv2873,GO:0016020,membrane
+Rv2874,GO:0016021,integral component of membrane
+Rv2875,GO:0005615,extracellular space
+Rv2876,GO:0016021,integral component of membrane
+Rv2878c,GO:0005737,cytoplasm
+Rv2879c,GO:0005886,plasma membrane
+Rv2881c,GO:0016021,integral component of membrane
+Rv2882c,GO:0005886,plasma membrane
+Rv2883c,GO:0005886,plasma membrane
+Rv2884,GO:0032993,protein-DNA complex
+Rv2885c,GO:0005886,plasma membrane
+Rv2886c,GO:0005886,plasma membrane
+Rv2887,GO:0006950,response to stress
+Rv2888c,GO:0005886,plasma membrane
+Rv2889c,GO:0005886,plasma membrane
+Rv2890c,GO:0022627,cytosolic small ribosomal subunit
+Rv2891,GO:0005886,plasma membrane
+Rv2892c,GO:0016021,integral component of membrane
+Rv2894c,GO:0005886,plasma membrane
+Rv2895c,GO:0005886,plasma membrane
+Rv2896c,GO:0009294,DNA mediated transformation
+Rv2897c,GO:0005886,plasma membrane
+Rv2898c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv2899c,GO:0005737,cytoplasm
+Rv2900c,GO:0005886,plasma membrane
+Rv2901c,GO:0005886,plasma membrane
+Rv2902c,GO:0032299,ribonuclease H2 complex
+Rv2903c,GO:0016021,integral component of membrane
+Rv2904c,GO:0022625,cytosolic large ribosomal subunit
+Rv2905,GO:0016020,membrane
+Rv2906c,GO:0005829,cytosol
+Rv2907c,GO:0005840,ribosome
+Rv2908c,GO:0003723,RNA binding
+Rv2909c,GO:0015935,small ribosomal subunit
+Rv2910c,GO:0016021,integral component of membrane
+Rv2912c,GO:0005829,cytosol
+Rv2913c,GO:0005829,cytosol
+Rv2914c,GO:0016021,integral component of membrane
+Rv2915c,GO:0050270,S-adenosylhomocysteine deaminase activity
+Rv2916c,GO:1990904,ribonucleoprotein complex
+Rv2917,GO:0005886,plasma membrane
+Rv2918c,GO:0005886,plasma membrane
+Rv2919c,GO:0005886,plasma membrane
+Rv2920c,GO:0016021,integral component of membrane
+Rv2921c,GO:0031226,intrinsic component of plasma membrane
+Rv2922A,GO:0016787,hydrolase activity
+Rv2922c,GO:0005886,plasma membrane
+Rv2923c,GO:0005886,plasma membrane
+Rv2924c,GO:0005886,plasma membrane
+Rv2925c,GO:0005737,cytoplasm
+Rv2926c,GO:0016021,integral component of membrane
+Rv2927c,GO:0005886,plasma membrane
+Rv2928,GO:0005886,plasma membrane
+Rv2929,GO:0044119,growth of symbiont in host cell
+Rv2930,GO:0005886,plasma membrane
+Rv2931,GO:0034081,polyketide synthase complex
+Rv2932,GO:0034081,polyketide synthase complex
+Rv2933,GO:0034081,polyketide synthase complex
+Rv2934,GO:0034081,polyketide synthase complex
+Rv2935,GO:0034081,polyketide synthase complex
+Rv2936,GO:0016020,membrane
+Rv2937,ABC) transporter comple,ATP-binding cassette 
+Rv2938,ABC) transporter comple,ATP-binding cassette 
+Rv2939,GO:0005829,cytosol
+Rv2941,GO:0005886,plasma membrane
+Rv2942,GO:0016021,integral component of membrane
+Rv2943A,GO:0006271,DNA strand elongation involved in DNA replication
+Rv2944,GO:0006271,DNA strand elongation involved in DNA replication
+Rv2945c,GO:0016020,membrane
+Rv2946c,GO:0005886,plasma membrane
+Rv2947c,GO:0005829,cytosol
+Rv2948c,GO:0097041,phenolic phthiocerol biosynthetic process
+Rv2949c,GO:0072330,monocarboxylic acid biosynthetic process
+Rv2950c,GO:0097040,phthiocerol biosynthetic process
+Rv2951c,GO:0005886,plasma membrane
+Rv2952,GO:0005886,plasma membrane
+Rv2953,GO:0005886,plasma membrane
+Rv2957,GO:0009247,glycolipid biosynthetic process
+Rv2958c,GO:0043231,intracellular membrane-bounded organelle
+Rv2959c,GO:0005886,plasma membrane
+Rv2962c,GO:0043231,intracellular membrane-bounded organelle
+Rv2964,GO:0009058,biosynthetic process
+Rv2965c,GO:0005737,cytoplasm
+Rv2971,GO:0005886,plasma membrane
+Rv2973c,GO:0005886,plasma membrane
+Rv2976c,GO:0005737,cytoplasm
+Rv2977c,GO:0016310,phosphorylation
+Rv2980,GO:0016021,integral component of membrane
+Rv2981c,GO:0005886,plasma membrane
+Rv2982c,GO:0009331,glycerol-3-phosphate dehydrogenase complex
+Rv2983,GO:0052645,F420-0 metabolic process
+Rv2984,GO:0009358,polyphosphate kinase complex
+Rv2985,GO:0006974,cellular response to DNA damage stimulus
+Rv2986c,GO:0032993,protein-DNA complex
+Rv2987c,GO:0009316,3-isopropylmalate dehydratase complex
+Rv2988c,GO:0005618,cell wall
+Rv2992c,GO:0005886,plasma membrane
+Rv2993c,GO:0018773,acetylpyruvate hydrolase activity
+Rv2994,GO:0016021,integral component of membrane
+Rv2995c,GO:0005737,cytoplasm
+Rv2996c,GO:0005886,plasma membrane
+Rv2998,GO:0005886,plasma membrane
+Rv3001c,GO:0005886,plasma membrane
+Rv3002c,GO:0005948,acetolactate synthase complex
+Rv3003c,GO:0005618,cell wall
+Rv3004,GO:0005576,extracellular region
+Rv3006,GO:0003824,catalytic activity
+Rv3009c,GO:0005886,plasma membrane
+Rv3010c,GO:0005945,6-phosphofructokinase complex
+Rv3011c,Gln) amidotransferase comple,glutamyl-tRNA
+Rv3012c,GO:0005618,cell wall
+Rv3013,GO:0005829,cytosol
+Rv3014c,GO:0005886,plasma membrane
+Rv3017c,GO:0005576,extracellular region
+Rv3018A,GO:0009379,Holliday junction helicase complex
+Rv3018c,GO:0044119,growth of symbiont in host cell
+Rv3019c,GO:0032991,protein-containing complex
+Rv3021c/Rv3022c,GO:0009338,exodeoxyribonuclease V complex
+Rv3022A,GO:0005975,carbohydrate metabolic process
+Rv3024c,GO:0005737,cytoplasm
+Rv3025c,GO:0016226,iron-sulfur cluster assembly
+Rv3028c,GO:0005886,plasma membrane
+Rv3029c,GO:0005886,plasma membrane
+Rv3030,GO:0005886,plasma membrane
+Rv3031,GO:0005886,plasma membrane
+Rv3032,GO:0009103,lipopolysaccharide biosynthetic process
+Rv3034c,GO:0005886,plasma membrane
+Rv3037c,GO:0032259,methylation
+Rv3039c,GO:0005886,plasma membrane
+Rv3041c,ABC) transporter comple,ATP-binding cassette 
+Rv3042c,GO:0044164,host cell cytosol
+Rv3043c,GO:0070469,respirasome
+Rv3045,GO:0005886,plasma membrane
+Rv3048c,GO:0005971,ribonucleoside-diphosphate reductase complex
+Rv3051c,GO:0005971,ribonucleoside-diphosphate reductase complex
+Rv3052c,GO:0006464,cellular protein modification process
+Rv3054c,GO:0005829,cytosol
+Rv3056,GO:0005886,plasma membrane
+Rv3059,GO:0055114,oxidation-reduction process
+Rv3062,GO:0005737,cytoplasm
+Rv3063,GO:0016021,integral component of membrane
+Rv3065,GO:0016021,integral component of membrane
+Rv3068c,GO:0005829,cytosol
+Rv3069,GO:0016021,integral component of membrane
+Rv3070,GO:0016021,integral component of membrane
+Rv3071,GO:0005829,cytosol
+Rv3073c,GO:0005886,plasma membrane
+Rv3075c,GO:0006107,oxaloacetate metabolic process
+Rv3080c,GO:0016020,membrane
+Rv3082c,GO:0005829,cytosol
+Rv3083,GO:0005618,cell wall
+Rv3084,GO:0005886,plasma membrane
+Rv3085,GO:0055114,oxidation-reduction process
+Rv3086,GO:0005829,cytosol
+Rv3087,GO:0005886,plasma membrane
+Rv3088,GO:0005886,plasma membrane
+Rv3089,GO:0016020,membrane
+Rv3095,GO:0003677,DNA binding
+Rv3098c,GO:0009368,endopeptidase Clp complex
+Rv3100c,GO:0005829,cytosol
+Rv3101c,GO:0016021,integral component of membrane
+Rv3105c,GO:0005737,cytoplasm
+Rv3106,GO:0005618,cell wall
+Rv3108,GO:0019540,siderophore biosynthetic process from catechol
+Rv3109,GO:0019008,molybdopterin synthase complex
+Rv3111,GO:0005576,extracellular region
+Rv3118,GO:0008156,negative regulation of DNA replication
+Rv3119,GO:0005829,cytosol
+Rv3121,GO:0016021,integral component of membrane
+Rv3124,GO:0032324,molybdopterin cofactor biosynthetic process
+Rv3125c,GO:0016020,membrane
+Rv3126c,GO:0005618,cell wall
+Rv3127,GO:0005886,plasma membrane
+Rv3129,GO:0048037,cofactor binding
+Rv3130c,GO:0005886,plasma membrane
+Rv3131,GO:0005886,plasma membrane
+Rv3132c,GO:0016021,integral component of membrane
+Rv3133c,GO:0072493,host cell endosome lumen
+Rv3134c,GO:0005886,plasma membrane
+Rv3135,GO:0046081,dUTP catabolic process
+Rv3136,GO:0005618,cell wall
+Rv3137,GO:0005886,plasma membrane
+Rv3143,GO:0005618,cell wall
+Rv3145,GO:0016021,integral component of membrane
+Rv3146,GO:0045272,plasma membrane respiratory chain complex I
+Rv3147,GO:0016020,membrane
+Rv3148,GO:0016020,membrane
+Rv3149,GO:0045272,plasma membrane respiratory chain complex I
+Rv3150,GO:0045272,plasma membrane respiratory chain complex I
+Rv3151,GO:0016020,membrane
+Rv3152,GO:0016021,integral component of membrane
+Rv3153,GO:0045272,plasma membrane respiratory chain complex I
+Rv3155,GO:0030964,NADH dehydrogenase complex
+Rv3156,GO:0016021,integral component of membrane
+Rv3157,GO:0045272,plasma membrane respiratory chain complex I
+Rv3158,GO:0016021,integral component of membrane
+Rv3168,GO:0046677,response to antibiotic
+Rv3169,GO:0005886,plasma membrane
+Rv3170,GO:0005886,plasma membrane
+Rv3171c,GO:0005886,plasma membrane
+Rv3172c,GO:0016740,transferase activity
+Rv3178,GO:0016020,membrane
+Rv3180c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv3181c,GO:0005886,plasma membrane
+Rv3193c,GO:0016021,integral component of membrane
+Rv3195,GO:0005886,plasma membrane
+Rv3196,GO:0005618,cell wall
+Rv3196A,GO:0005886,plasma membrane
+Rv3197A,GO:0005737,cytoplasm
+Rv3198A,GO:0005623,cell
+Rv3198c,GO:0033202,DNA helicase complex
+Rv3199c,GO:0005886,plasma membrane
+Rv3201c,GO:0005886,plasma membrane
+Rv3202A,GO:0016021,integral component of membrane
+Rv3203,GO:0071468,cellular response to acidic pH
+Rv3205c,GO:0005886,plasma membrane
+Rv3206c,GO:0016021,integral component of membrane
+Rv3207c,GO:0016021,integral component of membrane
+Rv3215,GO:0009697,salicylic acid biosynthetic process
+Rv3219,GO:0005737,cytoplasm
+Rv3220c,GO:0046777,protein autophosphorylation
+Rv3221A,GO:1903507,negative regulation of nucleic acid-templated transcription
+Rv3221c,GO:0016021,integral component of membrane
+Rv3223c,GO:0005618,cell wall
+Rv3227,GO:0005886,plasma membrane
+Rv3229c,GO:0016020,membrane
+Rv3230c,GO:0016020,membrane
+Rv3231c,GO:0055114,oxidation-reduction process
+Rv3232c,GO:0005886,plasma membrane
+Rv3233c,GO:0005886,plasma membrane
+Rv3234c,GO:0005886,plasma membrane
+Rv3235,GO:0005829,cytosol
+Rv3240c,GO:0031522,cell envelope Sec protein transport complex
+Rv3241c,GO:0022627,cytosolic small ribosomal subunit
+Rv3244c,GO:0016020,membrane
+Rv3245c,GO:0016021,integral component of membrane
+Rv3246c,GO:0032993,protein-DNA complex
+Rv3247c,GO:0005829,cytosol
+Rv3248c,GO:0005886,plasma membrane
+Rv3260c,GO:0005737,cytoplasm
+Rv3261,GO:0052645,F420-0 metabolic process
+Rv3262,GO:0005886,plasma membrane
+Rv3263,GO:0005886,plasma membrane
+Rv3265c,GO:0005886,plasma membrane
+Rv3266c,GO:0005829,cytosol
+Rv3267,GO:0005886,plasma membrane
+Rv3270,GO:0016021,integral component of membrane
+Rv3273,GO:0016021,integral component of membrane
+Rv3274c,GO:0005886,plasma membrane
+Rv3275c,GO:0006189,'de novo' IMP biosynthetic process
+Rv3276c,GO:0005886,plasma membrane
+Rv3280,GO:0032991,protein-containing complex
+Rv3282,GO:0005737,cytoplasm
+Rv3283,GO:0005886,plasma membrane
+Rv3284,GO:0055114,oxidation-reduction process
+Rv3286c,GO:2000142,"regulation of DNA-templated transcription, initiation"
+Rv3287c,GO:0045892,"negative regulation of transcription, DNA-templated"
+Rv3288c,GO:0016021,integral component of membrane
+Rv3290c,GO:0017000,antibiotic biosynthetic process
+Rv3292,GO:0051536,iron-sulfur cluster binding
+Rv3293,GO:0055114,oxidation-reduction process
+Rv3297,GO:0008152,metabolic process
+Rv3299c,GO:0005829,cytosol
+Rv3300c,GO:0005886,plasma membrane
+Rv3301c,GO:0005886,plasma membrane
+Rv3302c,GO:0009331,glycerol-3-phosphate dehydrogenase complex
+Rv3303c,GO:0005623,cell
+Rv3307,GO:0005737,cytoplasm
+Rv3309c,GO:0005886,plasma membrane
+Rv3312A,GO:0009289,pilus
+Rv3313c,GO:0005829,cytosol
+Rv3314c,GO:0005829,cytosol
+Rv3315c,GO:0005886,plasma membrane
+Rv3318,GO:0016020,membrane
+Rv3320c,GO:0005576,extracellular region
+Rv3321c,GO:0052572,response to host immune response
+Rv3324c,GO:0006777,Mo-molybdopterin cofactor biosynthetic process
+Rv3328c,GO:2000142,"regulation of DNA-templated transcription, initiation"
+Rv3331,GO:0016021,integral component of membrane
+Rv3336c,GO:0005886,plasma membrane
+Rv3337,GO:0016021,integral component of membrane
+Rv3338,GO:0005576,extracellular region
+Rv3339c,GO:0005886,plasma membrane
+Rv3340,GO:0019346,transsulfuration
+Rv3341,GO:0005886,plasma membrane
+Rv3342,GO:0032259,methylation
+Rv3343c,GO:0052170,suppression by symbiont of host innate immune response
+Rv3344c,GO:0005886,plasma membrane
+Rv3345c,GO:0003677,DNA binding
+Rv3350c,GO:0005618,cell wall
+Rv3356c,GO:0005886,plasma membrane
+Rv3357,GO:0006355,"regulation of transcription, DNA-templated"
+Rv3358,GO:1903507,negative regulation of nucleic acid-templated transcription
+Rv3367,GO:0016787,hydrolase activity
+Rv3369,GO:0005576,extracellular region
+Rv3370c,GO:0005886,plasma membrane
+Rv3371,GO:0005886,plasma membrane
+Rv3372,GO:0005886,plasma membrane
+Rv3375,GO:0005829,cytosol
+Rv3376,GO:0016311,dephosphorylation
+Rv3377c,GO:0052572,response to host immune response
+Rv3378c,GO:0052572,response to host immune response
+Rv3382c,GO:0055114,oxidation-reduction process
+Rv3384c,GO:0005886,plasma membrane
+Rv3385c,GO:0045927,positive regulation of growth
+Rv3388,GO:0016021,integral component of membrane
+Rv3392c,GO:0005886,plasma membrane
+Rv3395c,GO:0016021,integral component of membrane
+Rv3396c,GO:0005829,cytosol
+Rv3397c,GO:0016117,carotenoid biosynthetic process
+Rv3398c,GO:0005737,cytoplasm
+Rv3399,GO:0032259,methylation
+Rv3400,GO:0016787,hydrolase activity
+Rv3401,GO:0005886,plasma membrane
+Rv3402c,GO:0005576,extracellular region
+Rv3403c,GO:0016021,integral component of membrane
+Rv3404c,GO:0005829,cytosol
+Rv3405c,GO:0006355,"regulation of transcription, DNA-templated"
+Rv3406,GO:0005886,plasma membrane
+Rv3407,GO:0045927,positive regulation of growth
+Rv3408,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv3409c,GO:0055114,oxidation-reduction process
+Rv3410c,GO:0005886,plasma membrane
+Rv3411c,GO:0005886,plasma membrane
+Rv3412,GO:0009368,endopeptidase Clp complex
+Rv3413c,GO:0016021,integral component of membrane
+Rv3414c,GO:2000142,"regulation of DNA-templated transcription, initiation"
+Rv3416,GO:0005737,cytoplasm
+Rv3417c,GO:1990220,GroEL-GroES complex
+Rv3418c,GO:0005886,plasma membrane
+Rv3419c,GO:0005737,cytoplasm
+Rv3421c,GO:0005618,cell wall
+Rv3422c,GO:0005737,cytoplasm
+Rv3423.1,GO:0042025,host cell nucleus
+Rv3423c,GO:0030632,D-alanine biosynthetic process
+Rv3424c,GO:0005886,plasma membrane
+Rv3425,GO:0009986,cell surface
+Rv3426,GO:0005886,plasma membrane
+Rv3427c,GO:0005886,plasma membrane
+Rv3428c,GO:0005886,plasma membrane
+Rv3429,GO:0032324,molybdopterin cofactor biosynthetic process
+Rv3433c,GO:0110051,metabolite repair
+Rv3434c,GO:0016021,integral component of membrane
+Rv3436c,GO:0005886,plasma membrane
+Rv3441c,GO:0005829,cytosol
+Rv3442c,GO:0022627,cytosolic small ribosomal subunit
+Rv3443c,GO:0022625,cytosolic large ribosomal subunit
+Rv3447c,GO:0016021,integral component of membrane
+Rv3448,GO:0016021,integral component of membrane
+Rv3450c,GO:0016021,integral component of membrane
+Rv3451,GO:0005576,extracellular region
+Rv3454,GO:0016021,integral component of membrane
+Rv3455c,GO:0005618,cell wall
+Rv3456c,GO:0015934,large ribosomal subunit
+Rv3457c,GO:0005886,plasma membrane
+Rv3458c,GO:0015935,small ribosomal subunit
+Rv3459c,GO:0022627,cytosolic small ribosomal subunit
+Rv3460c,GO:0015935,small ribosomal subunit
+Rv3461c,GO:0005840,ribosome
+Rv3462c,GO:0005886,plasma membrane
+Rv3464,GO:0005618,cell wall
+Rv3465,GO:0045226,extracellular polysaccharide biosynthetic process
+Rv3470c,GO:0009099,valine biosynthetic process
+Rv3479,GO:0016021,integral component of membrane
+Rv3480c,GO:0005886,plasma membrane
+Rv3485c,GO:0005886,plasma membrane
+Rv3487c,GO:0052572,response to host immune response
+Rv3490,GO:0005886,plasma membrane
+Rv3496c,GO:0005618,cell wall
+Rv3506,GO:0005886,plasma membrane
+Rv3507,GO:0005886,plasma membrane
+Rv3508,GO:0016021,integral component of membrane
+Rv3509c,GO:0005886,plasma membrane
+Rv3511,GO:0016021,integral component of membrane
+Rv3512,GO:0031012,extracellular matrix
+Rv3514,GO:0005886,plasma membrane
+Rv3515c,GO:0005618,cell wall
+Rv3516,GO:0052572,response to host immune response
+Rv3518c,GO:0005618,cell wall
+Rv3520c,GO:0005886,plasma membrane
+Rv3521,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv3526,GO:0070723,response to cholesterol
+Rv3532,GO:0005886,plasma membrane
+Rv3533c,GO:0005886,plasma membrane
+Rv3534c,GO:0005618,cell wall
+Rv3535c,GO:0055114,oxidation-reduction process
+Rv3537,GO:0005886,plasma membrane
+Rv3539,GO:0005886,plasma membrane
+Rv3542c,GO:0016021,integral component of membrane
+Rv3543c,GO:0055114,oxidation-reduction process
+Rv3545c,GO:0055114,oxidation-reduction process
+Rv3547,GO:0016020,membrane
+Rv3551,GO:0044117,growth of symbiont in host
+Rv3552,GO:0044117,growth of symbiont in host
+Rv3554,GO:0016021,integral component of membrane
+Rv3557c,GO:0006355,"regulation of transcription, DNA-templated"
+Rv3563,GO:0055114,oxidation-reduction process
+Rv3566c,GO:0005886,plasma membrane
+Rv3567c,GO:0055114,oxidation-reduction process
+Rv3568c,GO:0070723,response to cholesterol
+Rv3569c,GO:0005886,plasma membrane
+Rv3570c,GO:0005886,plasma membrane
+Rv3571,GO:0071766,Actinobacterium-type cell wall biogenesis
+Rv3574,GO:0006355,"regulation of transcription, DNA-templated"
+Rv3577,GO:0005886,plasma membrane
+Rv3579c,GO:0005829,cytosol
+Rv3580c,GO:0005829,cytosol
+Rv3581c,GO:0051483,"terpenoid biosynthetic process, mevalonate-independent"
+Rv3582c,GO:0005886,plasma membrane
+Rv3583c,GO:0040009,regulation of growth rate
+Rv3584,GO:0016020,membrane
+Rv3585,GO:0005829,cytosol
+Rv3586,GO:0019932,second-messenger-mediated signaling
+Rv3587c,GO:0016021,integral component of membrane
+Rv3588c,GO:0015976,carbon utilization
+Rv3589,GO:0005886,plasma membrane
+Rv3590c,GO:0005737,cytoplasm
+Rv3591c,GO:0016787,hydrolase activity
+Rv3592,GO:0005886,plasma membrane
+Rv3595c,GO:0005886,plasma membrane
+Rv3596c,GO:0005886,plasma membrane
+Rv3597c,GO:0009295,nucleoid
+Rv3598c,GO:0005829,cytosol
+Rv3600c,GO:0005886,plasma membrane
+Rv3601c,GO:0005829,cytosol
+Rv3602c,GO:0005829,cytosol
+Rv3606c,GO:0046656,folic acid biosynthetic process
+Rv3607c,GO:0005737,cytoplasm
+Rv3608c,GO:0005829,cytosol
+Rv3609c,GO:0005737,cytoplasm
+Rv3610c,GO:0016021,integral component of membrane
+Rv3611,GO:0032259,methylation
+Rv3614c,GO:0005886,plasma membrane
+Rv3615c,GO:0005618,cell wall
+Rv3616c,GO:0005886,plasma membrane
+Rv3619c,GO:0005618,cell wall
+Rv3620c,GO:0005576,extracellular region
+Rv3621c,GO:0016021,integral component of membrane
+Rv3624c,GO:0005737,cytoplasm
+Rv3625c,GO:0005737,cytoplasm
+Rv3627c,GO:0005576,extracellular region
+Rv3628,GO:0044228,host cell surface
+Rv3630,GO:0016021,integral component of membrane
+Rv3631,GO:0005886,plasma membrane
+Rv3633,GO:0005886,plasma membrane
+Rv3634c,GO:0005886,plasma membrane
+Rv3644c,GO:0005829,cytosol
+Rv3645,GO:0016021,integral component of membrane
+Rv3646c,GO:0005886,plasma membrane
+Rv3648c,GO:0005737,cytoplasm
+Rv3653,GO:0009986,cell surface
+Rv3654c,GO:0030430,host cell cytoplasm
+Rv3655c,GO:0030430,host cell cytoplasm
+Rv3657c,GO:0016021,integral component of membrane
+Rv3659c,GO:0005737,cytoplasm
+Rv3660c,GO:0009898,cytoplasmic side of plasma membrane
+Rv3661,GO:0016021,integral component of membrane
+Rv3664c,GO:0016021,integral component of membrane
+Rv3667,GO:0005886,plasma membrane
+Rv3671c,GO:0016021,integral component of membrane
+Rv3673c,GO:0016021,integral component of membrane
+Rv3674c,GO:0005886,plasma membrane
+Rv3676,GO:0005886,plasma membrane
+Rv3679,GO:0005886,plasma membrane
+Rv3681c,GO:0005737,cytoplasm
+Rv3684,GO:0005886,plasma membrane
+Rv3685c,GO:0005886,plasma membrane
+Rv3687c,GO:0045893,"positive regulation of transcription, DNA-templated"
+Rv3691,GO:0016021,integral component of membrane
+Rv3692,GO:0016887,ATPase activity
+Rv3696c,GO:0005829,cytosol
+Rv3697A,GO:0044205,'de novo' UMP biosynthetic process
+Rv3697c,GO:0090501,RNA phosphodiester bond hydrolysis
+Rv3698,GO:0003824,catalytic activity
+Rv3700c,GO:0052704,"ergothioneine biosynthesis from histidine via N-alpha,N-alpha,N-alpha-trimethyl-L-histidine"
+Rv3701c,GO:0005886,plasma membrane
+Rv3702c,GO:0061672,glutathione hydrolase complex
+Rv3703c,GO:0055114,oxidation-reduction process
+Rv3704c,GO:0005886,plasma membrane
+Rv3706c,GO:0016021,integral component of membrane
+Rv3707c,GO:0005886,plasma membrane
+Rv3708c,GO:0005886,plasma membrane
+Rv3709c,GO:0005886,plasma membrane
+Rv3710,GO:0005886,plasma membrane
+Rv3713,GO:0009236,cobalamin biosynthetic process
+Rv3715c,GO:0006974,cellular response to DNA damage stimulus
+Rv3716c,GO:0043590,bacterial nucleoid
+Rv3717,GO:0042597,periplasmic space
+Rv3721c,GO:0009360,DNA polymerase III complex
+Rv3724A,GO:0016787,hydrolase activity
+Rv3724B,GO:0016787,hydrolase activity
+Rv3727,GO:0005886,plasma membrane
+Rv3728,GO:0016021,integral component of membrane
+Rv3729,GO:0051536,iron-sulfur cluster binding
+Rv3731,GO:0005737,cytoplasm
+Rv3734c,GO:0005886,plasma membrane
+Rv3738c,GO:0016021,integral component of membrane
+Rv3740c,GO:0005886,plasma membrane
+Rv3743c,GO:0016021,integral component of membrane
+Rv3744,GO:0006355,"regulation of transcription, DNA-templated"
+Rv3749c,GO:0090305,nucleic acid phosphodiester bond hydrolysis
+Rv3753c,GO:0005737,cytoplasm
+Rv3760,GO:0016021,integral component of membrane
+Rv3762c,GO:0018909,dodecyl sulfate metabolic process
+Rv3763,GO:0097691,bacterial extracellular vesicle
+Rv3764c,GO:0016021,integral component of membrane
+Rv3765c,GO:0032993,protein-DNA complex
+Rv3767c,GO:0005886,plasma membrane
+Rv3772,GO:0009058,biosynthetic process
+Rv3777,GO:0005886,plasma membrane
+Rv3778c,GO:0005886,plasma membrane
+Rv3780,GO:0022624,proteasome accessory complex
+Rv3782,GO:0016020,membrane
+Rv3785,GO:0005829,cytosol
+Rv3786c,GO:0005886,plasma membrane
+Rv3787c,GO:0032259,methylation
+Rv3788,GO:0032784,"regulation of DNA-templated transcription, elongation"
+Rv3789,GO:0016021,integral component of membrane
+Rv3790,GO:0042597,periplasmic space
+Rv3791,GO:0042597,periplasmic space
+Rv3792,GO:0016021,integral component of membrane
+Rv3793,GO:0016021,integral component of membrane
+Rv3794,GO:0016021,integral component of membrane
+Rv3795,GO:0016021,integral component of membrane
+Rv3801c,GO:0005886,plasma membrane
+Rv3803c,GO:0005576,extracellular region
+Rv3804c,GO:0005886,plasma membrane
+Rv3805c,GO:0016021,integral component of membrane
+Rv3806c,GO:0016021,integral component of membrane
+Rv3807c,GO:0016021,integral component of membrane
+Rv3808c,GO:0016020,membrane
+Rv3809c,GO:0005886,plasma membrane
+Rv3810,GO:0016021,integral component of membrane
+Rv3818,GO:0055114,oxidation-reduction process
+Rv3820c,GO:0046506,sulfolipid biosynthetic process
+Rv3823c,GO:0016021,integral component of membrane
+Rv3824c,GO:0046506,sulfolipid biosynthetic process
+Rv3825c,GO:0005886,plasma membrane
+Rv3826,GO:0016021,integral component of membrane
+Rv3827c,GO:0005886,plasma membrane
+Rv3828c,GO:0006310,DNA recombination
+Rv3834c,GO:0005886,plasma membrane
+Rv3835,GO:0016021,integral component of membrane
+Rv3838c,GO:0005737,cytoplasm
+Rv3841,GO:0005886,plasma membrane
+Rv3842c,GO:0006629,lipid metabolic process
+Rv3846,GO:0042597,periplasmic space
+Rv3848,GO:0016021,integral component of membrane
+Rv3849,GO:0009295,nucleoid
+Rv3853,GO:0051252,regulation of RNA metabolic process
+Rv3854c,GO:0016020,membrane
+Rv3855,GO:0005829,cytosol
+Rv3858c,GO:0016020,membrane
+Rv3859c,GO:0005886,plasma membrane
+Rv3861,GO:0005618,cell wall
+Rv3862c,GO:0005737,cytoplasm
+Rv3863,GO:0005886,plasma membrane
+Rv3864,GO:0016021,integral component of membrane
+Rv3865,GO:0005618,cell wall
+Rv3866,GO:0005886,plasma membrane
+Rv3867,GO:0005886,plasma membrane
+Rv3868,GO:0005886,plasma membrane
+Rv3869,GO:0016021,integral component of membrane
+Rv3870,GO:0016021,integral component of membrane
+Rv3871,GO:0005886,plasma membrane
+Rv3872,GO:0009986,cell surface
+Rv3873,GO:0016020,membrane
+Rv3874,GO:0044228,host cell surface
+Rv3875,GO:0044228,host cell surface
+Rv3876,GO:0009898,cytoplasmic side of plasma membrane
+Rv3877,GO:0016021,integral component of membrane
+Rv3878,GO:0005576,extracellular region
+Rv3879c,GO:0005886,plasma membrane
+Rv3880c,GO:0005886,plasma membrane
+Rv3881c,GO:0005576,extracellular region
+Rv3882c,GO:0016021,integral component of membrane
+Rv3884c,GO:0005737,cytoplasm
+Rv3885c,GO:0016021,integral component of membrane
+Rv3886c,GO:0016021,integral component of membrane
+Rv3887c,GO:0016021,integral component of membrane
+Rv3889c,GO:0005737,cytoplasm
+Rv3890c,GO:0005576,extracellular region
+Rv3891c,GO:0005576,extracellular region
+Rv3892c,GO:0005886,plasma membrane
+Rv3895c,GO:0016021,integral component of membrane
+Rv3896c,GO:0032259,methylation
+Rv3903c,GO:0046930,pore complex
+Rv3904c,GO:0005576,extracellular region
+Rv3905c,GO:0005576,extracellular region
+Rv3908,GO:0046872,metal ion binding
+Rv3910,GO:0016021,integral component of membrane
+Rv3911,GO:0005886,plasma membrane
+Rv3912,GO:0016021,integral component of membrane
+Rv3913,GO:0005829,cytosol
+Rv3914,GO:0005886,plasma membrane
+Rv3915,GO:0042597,periplasmic space
+Rv3916c,GO:0005886,plasma membrane
+Rv3917c,GO:0060187,cell pole
+Rv3918c,GO:0043590,bacterial nucleoid
+Rv3919c,GO:0005886,plasma membrane
+Rv3920c,GO:0005886,plasma membrane
+Rv3921c,GO:0016021,integral component of membrane
+Rv3922c,GO:0016020,membrane
+Rv3923c,GO:0030677,ribonuclease P complex
+Rv3924c,GO:0005840,ribosome

@@ -1,0 +1,20 @@
+name: modulome
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - tqdm
+  - biopython
+  - pandas
+  - scipy
+  - numpy
+  - seaborn
+  - jupyter
+  - matplotlib
+  - scikit-learn=0.20.3
+  - jupyter_nbextensions_configurator
+  - python-wget
+  - beautifulsoup4
+  - multiqc
+prefix: /home/anand/miniconda3/envs/modulome

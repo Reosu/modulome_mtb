@@ -1,81 +1,81 @@
 ,name,TF,Regulator,Function,Category,n_genes,precision,recall
-SigH,Sigma Factor H,Rv3223c,,,Virulence/Persistence,,,
-Polyketide Synthase Complex ,Polyketide Synthase Complex ,,,,Fatty Acid/Cholestrol,,,
-IniR,IniR,Rv0339c,,,Antibiotic,,,
-PyrR,PyrR,Rv1379,,,Nucleic Acids,,,
-WhiB4,WhiB4,Rv3681c,,,Redox,,,
-DevR-1,DevR/DosR 1,Rv3133c,,,Redox,,,
-MarR,MarR,Rv1404,,,Acid Stress,,,
-GroEL-GroES Complex,GroEL-GroES Complex,Rv1189,,,Amino Acids,,,
-IdeR,IdeR,Rv2711,,,Metal Related,,,
-SigK,Sigma Factor K,Rv2711,,,Unknown Function,,,
-RicR,RicR,Rv0190,,,Metal Related,,,
-EccE1 KO,EccE1 Gene KO,,,,KO,,,
-Mycofactocin Synthesis Pathway,Mycofactocin Synthesis Pathway,,,,Fatty Acid/Cholestrol,,,
-SG_1,Single Gene 1,,,,Single Gene,,,
-SG_2,Single Gene 2,,,,Single Gene,,,
-BkaR,BkaR,Rv2506,,,Central Carbon,,,
-Mce3R,Mce3R,Rv1963c ,,,Virulence/Persistence,,,
-VirS,VirS,Rv3082c,,,Redox,,,
-Unc_1,Uncharacterized 1,,,,Uncharacterized,,,
-WhiB6,WhiB7,Rv3862c,,,Redox,,,
-FasR,FasR,Rv3208,,,Fatty Acid/Cholestrol,,,
-MprA,MprA,Rv0981 ,,,Virulence/Persistence,,,
-SG_3,Single Gene 3,,,,Single Gene,,,
-PrpR,PrpR,Rv1129c,,,Central Carbon,,,
-Salicylate Induced,Salicylate Induced iModulon,,,,Metal Related,,,
-Rv0078+Rv2034,Rv0078+Rv2035,Rv0078+Rv2034,,,Antibiotic,,,
-EspL KO,EspL Gene Knockout,,,,KO,,,
-Unc_2,Uncharacterized 2,,,,Uncharacterized,,,
-WhiB1,WhiB2,Rv3219,,,Redox,,,
-Blal,Blal,Rv1846c,,,Antibiotic,,,
-HPT-2b Induced,HPT-2b Induced,,,,Metal Related,,,
-ArgR,ArgR,Rv1657,,,Amino Acids,,,
-Unc_3,Uncharacterized 3,,,,Uncharacterized,,,
-SG_4,Single Gene 4,,,,Single Gene,,,
-MbcA+Rv3249c+Rv3066,MbcA+Rv3249c+Rv3067,Rv1990c+Rv3249c+Rv3066,,,Virulence/Persistence,,,
-Unc_4,Uncharacterized 4,,,,Uncharacterized,,,
-Fumarate Reductase,Fumarate Reductase,,,,Central Carbon,,,
-Rv3095,Rv3096,Rv3095,,,Unknown Function,,,
-SG_5,Single Gene 5,,,,Single Gene,,,
-SigC,SigC,Rv2069,,,Virulence/Persistence,,,
-KstR2,KstR2,Rv3557c ,,,Fatty Acid/Cholestrol,,,
-Unc_6,Uncharacterized 6,,,,Uncharacterized,,,
-Nicotinate Metabolism,Nicotinate Metabolism,,,,Central Carbon,,,
-LysG,LysG,Rv1985c,,,Amino Acids,,,
-SG_6,Single Gene 6,,,,Single Gene,,,
-SigD,SigD,Rv3414c,,,Virulence/Persistence,,,
-Rv2621c,Rv2621c,Rv2621c,,,Unknown Function,,,
-SG_7,Single Gene 7,,,,Single Gene,,,
-Leucine Related,Leucine Related,,,,Amino Acids,,,
-Rv1828/SigH,Rv1828/SigH,Rv1828/Rv3223c,,,Redox,,,
-Unc_7,Uncharacterized 7,,,,Uncharacterized,,,
-PhoP,PhoP,Rv0757,,,Virulence/Persistence,,,
-DevR-2,DevR-2,Rv3133c,,,Redox,,,
-Rv1776c+WhiB4,Rv1776c+WhiB4,Rv1776c+Rv3681c ,,,Redox,,,
-Unc_8,Uncharacterized 8,,,,Uncharacterized,,,
-WhiB7,WhiB7,Rv3197A,,,Antibiotic,,,
-Fatty Acid Biosynthesis,Fatty Acid Biosynthesis,Rv1033c+Rv1776c+Rv3681c ,,,Fatty Acid/Cholestrol,,,
-SG_8,Single Gene 8,,,,Single Gene,,,
-Zur,Zur,Rv2359,,,Metal Related,,,
-Rv0576,Rv0576,Rv0576,,,Virulence/Persistence,,,
-Rv0681,Rv0681,Rv0681,,,Unknown Function,,,
-Nucleic Acid Hydrolysis ,Nucleic Acid Hydrolysis ,,,,Nucleic Acids,,,
-Rv2488c,Rv2488c,Rv2488c,,,Virulence/Persistence,,,
-SG_9,Single Gene 9,,,,Single Gene,,,
-Mce1R,Mce1R,Rv0165c ,,,Virulence/Persistence,,,
-SG_10,Single Gene 10,,,,Single Gene,,,
-M-box,M-box,,,,Metal Related,,,
-Peptidoglycan Biosynthesis,Peptidoglycan Biosynthesis,,,,Central Carbon,,,
-Sulfur Metabolism,Sulfur Metabolism,,,,Sulfur Metabolism,,,
-Rv0135+Rv1019,Rv0135+Rv1019,Rv0135c+Rv1019,,,Nucleic Acids,,,
-Lsr2,Lsr2,Rv3597c,,,Antibiotic,,,
-PDIM;PGL Synthesis,PDIM;PGL Synthesis,,,,Virulence/Persistence,,,
-Unc_9,Uncharacterized 9,,,,Uncharacterized,,,
-SG_11,Single Gene 11,,,,Single Gene,,,
-SG_12,Single Gene 12,,,,Single Gene,,,
-Unc_10,Uncharacterized 10,,,,Uncharacterized,,,
-SG_13,Single Gene 13,,,,Single Gene,,,
-Central Carbon Metabolism,Central Carbon Metabolism,,,,Central Carbon,,,
-Positive Regulation of Growth,Positive Regulation of Growth,,,,Growth,,,
-WhiB4/IdeR,WhiB4/IdeR,Rv3681c/Rv2711,,,Redox,,,
+SigH,SigH,Rv3223c,,,Virulence/Persistence,45,0.082191780821918,0.8
+Polyketide Synthase Complex,Polyketide Synthase Complex,,,,Fatty Acid/Cholestrol,2,0.333333333333333,1
+IniR,IniR,Rv0339c,,,Antibiotic,3,0.1,1
+PyrR,PyrR,Rv1379,,,Nucleic Acids,44,0,0
+WhiB4,WhiB4,Rv3681c,,,Redox,95,0.184834123222749,0.410526315789474
+DevR-1,DevR-1,Rv3133c,,,Redox,22,0.037037037037037,0.5
+MarR,MarR,Rv1404,,,Acid Stress,16,0,0
+GroEL-GroES Complex,GroEL-GroES Complex,Rv1189,,,Amino Acids,8,0.071428571428572,0.75
+IdeR,IdeR,Rv2711,,,Metal Related,44,0.840909090909091,0.840909090909091
+SigK,SigK,Rv2711,,,Unknown Function,8,0.411764705882353,0.875
+RicR,RicR,Rv0190,,,Metal Related,14,0.571428571428571,0.571428571428571
+EccE1 KO,EccE1 KO,,,,KO,2,0,0
+Mycofactocin Synthesis Pathway,Mycofactocin Synthesis Pathway,,,,Fatty Acid/Cholestrol,6,0.833333333333333,0.833333333333333
+SG_1,SG_1,,,,Single Gene,3,0,0
+SG_2,SG_2,,,,Single Gene,2,0,0
+BkaR,BkaR,Rv2506,,,Central Carbon,8,0.162162162162162,0.75
+Mce3R,Mce3R,Rv1963c ,,,Virulence/Persistence,15,0.5,0.8
+VirS,VirS,Rv3082c,,,Redox,7,0.875,1
+Unc_1,Unc_1,,,,Uncharacterized,3,0,0
+WhiB6,WhiB6,Rv3862c,,,Redox,16,0.333333333333333,0.3125
+FasR,FasR,Rv3208,,,Fatty Acid/Cholestrol,12,1,0.416666666666667
+MprA,MprA,Rv0981 ,,,Virulence/Persistence,7,0.023569023569024,1
+SG_3,SG_3,,,,Single Gene,9,0,0
+PrpR,PrpR,Rv1129c,,,Central Carbon,5,0,0
+Salicylate Induced,Salicylate Induced,,,,Metal Related,2,0,0
+Rv0078+Rv2034,Rv0078+Rv2034,Rv0078+Rv2034,,,Antibiotic,3,0,0
+EspL KO,EspL KO,,,,KO,2,0,0
+Unc_2,Unc_2,,,,Uncharacterized,11,0,0
+WhiB1,WhiB1,Rv3219,,,Redox,32,0.422222222222222,0.59375
+Blal,Blal,Rv1846c,,,Antibiotic,11,0,0
+HPT-2b Induced,HPT-2b Induced,,,,Metal Related,13,0.423076923076923,0.846153846153846
+ArgR,ArgR,Rv1657,,,Amino Acids,9,0.875,0.777777777777778
+Unc_3,Unc_3,,,,Uncharacterized,16,0,0
+SG_4,SG_4,,,,Single Gene,5,0,0
+MbcA+Rv3249c+Rv3066,MbcA+Rv3249c+Rv3066,Rv1990c+Rv3249c+Rv3066,,,Virulence/Persistence,3,0,0
+Unc_4,Unc_4,,,,Uncharacterized,22,0,0
+Fumarate Reductase,Fumarate Reductase,,,,Central Carbon,33,0.5,0.5
+Rv3095,Rv3095,Rv3095,,,Unknown Function,3,0.6,1
+SG_5,SG_5,,,,Single Gene,4,0,0
+SigC,SigC,Rv2069,,,Virulence/Persistence,5,0,0
+KstR2,KstR2,Rv3557c ,,,Fatty Acid/Cholestrol,14,0.344827586206897,0.714285714285714
+Unc_5,Unc_5,,,,Uncharacterized,10,0,0
+Nicotinate Metabolism,Nicotinate Metabolism,,,,Central Carbon,10,0.15,0.230769230769231
+LysG,LysG,Rv1985c,,,Amino Acids,7,0.056451612903226,1
+SG_6,SG_6,,,,Single Gene,1,0,0
+SigD,SigD,Rv3414c,,,Virulence/Persistence,55,0,0
+Rv2621c,Rv2621c,Rv2621c,,,Unknown Function,6,0.4,1
+SG_7,SG_7,,,,Single Gene,1,0,0
+Leucine Related,Leucine Related,,,,Amino Acids,4,0.2,0.5
+Rv1828/SigH,Rv1828/SigH,Rv1828/Rv3223c,,,Redox,63,0.111872146118721,0.777777777777778
+Unc_6,Unc_6,,,,Uncharacterized,11,0,0
+PhoP,PhoP,Rv0757,,,Virulence/Persistence,23,0.073891625615764,0.652173913043478
+DevR-2,DevR-2,Rv3133c,,,Redox,37,0.050505050505051,0.405405405405405
+Rv1776c+WhiB4,Rv1776c+WhiB4,Rv1776c+Rv3681c ,,,Redox,21,0.071090047393365,0.714285714285714
+Unc_7,Unc_7,,,,Uncharacterized,15,0,0
+WhiB7,WhiB7,Rv3197A,,,Antibiotic,8,0.666666666666667,0.75
+Fatty Acid Biosynthesis,Fatty Acid Biosynthesis,Rv1033c+Rv1776c+Rv3681c ,,,Fatty Acid/Cholestrol,21,0.04739336492891,0.476190476190476
+SG_8,SG_8,,,,Single Gene,3,0,0
+Zur,Zur,Rv2359,,,Metal Related,20,0.666666666666667,0.7
+Rv0576,Rv0576,Rv0576,,,Virulence/Persistence,52,0.203389830508475,0.230769230769231
+Rv0681,Rv0681,Rv0681,,,Unknown Function,27,0.695652173913043,0.592592592592593
+Nucleic Acid Hydrolysis ,Nucleic Acid Hydrolysis ,,,,Nucleic Acids,11,1,0.068965517241379
+Rv2488c,Rv2488c,Rv2488c,,,Virulence/Persistence,12,0.75,0.25
+SG_9,SG_9,,,,Single Gene,9,0,0
+Mce1R,Mce1R,Rv0165c ,,,Virulence/Persistence,15,0.01948051948052,1
+SG_10,SG_10,,,,Single Gene,1,0,0
+M-box,M-box,,,,Metal Related,6,0.714285714285714,0.833333333333333
+Peptidoglycan Biosynthesis,Peptidoglycan Biosynthesis,,,,Central Carbon,8,0,0
+Sulfur Metabolism,Sulfur Metabolism,,,,Sulfur Metabolism,10,0.125,0.157894736842105
+Rv0135+Rv1019,Rv0135+Rv1019,Rv0135c+Rv1019,,,Nucleic Acids,2,1,1
+Lsr2,Lsr2,Rv3597c,,,Antibiotic,18,0,0
+PDIM;PGL Synthesis,PDIM;PGL Synthesis,,,,Virulence/Persistence,10,0,0
+Unc_8,Unc_8,,,,Uncharacterized,11,0,0
+SG_11,SG_11,,,,Single Gene,9,0,0
+SG_12,SG_12,,,,Single Gene,3,0,0
+Unc_9,Unc_9,,,,Uncharacterized,24,0,0
+SG_13,SG_13,,,,Single Gene,5,0,0
+Central Carbon Metabolism,Central Carbon Metabolism,,,,Central Carbon,28,0,0
+Positive Regulation of Growth,Positive Regulation of Growth,,,,Growth,26,0.366666666666667,0.333333333333333
+WhiB4/IdeR,WhiB4/IdeR,Rv3681c/Rv2711,,,Redox,16,0.230769230769231,0.375

@@ -1,6 +1,6 @@
 names
 SigH
-Polyketide Synthase Complex 
+Polyketide Synthase Complex
 IniR
 PyrR
 WhiB4
@@ -40,7 +40,7 @@ Rv3095
 SG_5
 SigC
 KstR2
-Unc_6
+Unc_5
 Nicotinate Metabolism
 LysG
 SG_6
@@ -49,11 +49,11 @@ Rv2621c
 SG_7
 Leucine Related
 Rv1828/SigH
-Unc_7
+Unc_6
 PhoP
 DevR-2
 Rv1776c+WhiB4
-Unc_8
+Unc_7
 WhiB7
 Fatty Acid Biosynthesis
 SG_8
@@ -71,10 +71,10 @@ Sulfur Metabolism
 Rv0135+Rv1019
 Lsr2
 PDIM;PGL Synthesis
-Unc_10
+Unc_8
 SG_11
 SG_12
-Unc_11
+Unc_9
 SG_13
 Central Carbon Metabolism
 Positive Regulation of Growth

@@ -194,7 +194,7 @@ Rv0186A,mymT,NC_000962.3,,218390,218551,-,metallothionein,No COG annotation,P9WK
 Rv0187,Rv0187,NC_000962.3,,218705,219367,+,O-methyltransferase,Function unknown,O07431,Op130
 Rv0188,Rv0188,NC_000962.3,,219486,219917,+,transmembrane protein,Function unknown,O07432,Op131
 Rv0189c,ilvD,NC_000962.3,,219996,221723,-,dihydroxy-acid dehydratase,Amino acid transport and metabolism,P9WKJ5,Op132
-Rv0190,Rv0190,NC_000962.3,,221871,222161,+,hypothetical protein,Function unknown,O07434,Op133
+Rv0190,ricR,NC_000962.3,,221871,222161,+,hypothetical protein,Function unknown,O07434,Op133
 Rv0191,Rv0191,NC_000962.3,,222289,223530,+,MFS-type transporter,Amino acid transport and metabolism,P9WJX7,Op134
 Rv0192,Rv0192,NC_000962.3,,223564,224664,+,hypothetical protein,Function unknown,O07436,Op134
 Rv0193c,Rv0193c,NC_000962.3,,224724,226571,-,hypothetical protein,No COG annotation,O07437,Op135
@@ -343,7 +343,7 @@ Rv0335c,PE6,NC_000962.3,,399535,400050,-,PE family protein PE6,Lipid transport a
 Rv0336,Rv0336,NC_000962.3,,400192,401703,+,hypothetical protein,Defense mechanisms,O33266,Op231
 Rv0337c,aspC,NC_000962.3,,401873,403162,-,aspartate aminotransferase,Amino acid transport and metabolism,P9WQ91,Op232
 Rv0338c,Rv0338c,NC_000962.3,,403193,405841,-,iron-sulfur-binding reductase,Energy production and conversion,O33268,Op232
-Rv0339c,Rv0339c,NC_000962.3,,405950,408448,-,transcriptional regulator,Transcription,O33269,Op233
+Rv0339c,iniR,NC_000962.3,,405950,408448,-,transcriptional regulator,Transcription,O33269,Op233
 Rv0340,Rv0340,NC_000962.3,,408634,409173,+,hypothetical protein,No COG annotation,O33270,Op234
 Rv0341,iniB,NC_000962.3,,409362,410801,+,isoniazid inducible protein IniB,No COG annotation,P9WJ97,Op235
 Rv0342,iniA,NC_000962.3,,410838,412760,+,isoniazid inductible protein IniA,Function unknown,P9WJ99,Op235
@@ -1123,7 +1123,7 @@ Rv1125,Rv1125,NC_000962.3,,1248082,1249326,+,hypothetical protein,"Secondary met
 Rv1126c,Rv1126c,NC_000962.3,,1249330,1249935,-,hypothetical protein,No COG annotation,O06578,Op734
 Rv1127c,ppdK,NC_000962.3,,1249932,1251404,-,pyruvate%2C phosphate dikinase PpdK,Carbohydrate transport and metabolism,O06579,Op734
 Rv1128c,Rv1128c,NC_000962.3,,1251617,1252972,-,hypothetical protein,Defense mechanisms,P9WM57,Op735
-Rv1129c,Rv1129c,NC_000962.3,,1253074,1254534,-,transcriptional regulator,Transcription,O06581,Op736
+Rv1129c,prpR,NC_000962.3,,1253074,1254534,-,transcriptional regulator,Transcription,O06581,Op736
 Rv1130,prpD,NC_000962.3,,1254555,1256135,+,2-methylcitrate dehydratase,Function unknown,O06582,Op737
 Rv1131,prpC,NC_000962.3,,1256132,1257313,+,methylcitrate synthase PrpC,Energy production and conversion,I6Y9Q3,Op737
 Rv1132,Rv1132,NC_000962.3,,1257325,1259055,+,hypothetical protein,Function unknown,O06583,Op737
@@ -1400,7 +1400,7 @@ Rv1400c,lipI,NC_000962.3,,1575834,1576796,-,lipase,Lipid transport and metabolis
 Rv1401,Rv1401,NC_000962.3,,1576930,1577532,+,membrane protein,Function unknown,P9WG51,Op903
 Rv1402,priA,NC_000962.3,,1577613,1579580,+,primosomal protein N',"Replication, recombination and repair",P9WMQ9,Op904
 Rv1403c,Rv1403c,NC_000962.3,,1579598,1580422,-,methyltransferase,"Secondary metabolites biosynthesis, transport, and catabolism",P9WLY9,Op905
-Rv1404,Rv1404,NC_000962.3,,1580591,1581073,+,transcriptional regulator,Transcription,P71672,Op906
+Rv1404,marR,NC_000962.3,,1580591,1581073,+,transcriptional regulator,Transcription,P71672,Op906
 Rv1405c,Rv1405c,NC_000962.3,,1581145,1581969,-,methyltransferase,"Secondary metabolites biosynthesis, transport, and catabolism",P9WLY7,Op907
 Rv1406,fmt,NC_000962.3,,1582166,1583104,+,methionyl-tRNA formyltransferase,"Translation, ribosomal structure and biogenesis",P9WND3,Op908
 Rv1407,fmu,NC_000962.3,,1583101,1584474,+,16S rRNA m5C967 methyltransferase,"Translation, ribosomal structure and biogenesis",P9WGX3,Op908
@@ -1975,12 +1975,12 @@ Rv1982A,vapB36,NC_000962.3,,2225841,2226101,-,antitoxin VapB36,Function unknown,
 Rv1983,PE_PGRS35,NC_000962.3,,2226244,2227920,+,PE-PGRS family protein PE_PGRS35,Lipid transport and metabolism,P9WIF1,Op1241
 Rv1984c,cfp21,NC_000962.3,,2227908,2228561,-,cutinase,Cell wall/membrane/envelope biogenesis,P9WP43,Op1242
 RV1984a,RV1984a,NC_000962.3,,2228676,2228906,+,hypothetical protein,Function unknown,UPI00000D2C7C,Op1243
-Rv1985c,Rv1985c,NC_000962.3,,2228991,2229902,-,HTH-type transcriptional regulator,Transcription,P9WMF5,Op1244
+Rv1985c,lysG,NC_000962.3,,2228991,2229902,-,HTH-type transcriptional regulator,Transcription,P9WMF5,Op1244
 Rv1986,Rv1986,NC_000962.3,,2230011,2230610,+,amino acid transporter,Function unknown,P9WK31,Op1245
 Rv1987,Rv1987,NC_000962.3,,2231026,2231454,+,chitinase,Carbohydrate transport and metabolism,P9WLQ1,Op1246
 Rv1988,erm(37),NC_000962.3,,2231680,2232219,+,23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(37),"Translation, ribosomal structure and biogenesis",Q10838,Op1247
 Rv1989c,Rv1989c,NC_000962.3,,2232739,2233299,-,hypothetical protein,Function unknown,P9WLP9,Op1248
-Rv1990c,Rv1990c,NC_000962.3,,2233296,2233637,-,transcriptional regulator,Transcription,P9WLP7,Op1248
+Rv1990c,mbcA,NC_000962.3,,2233296,2233637,-,transcriptional regulator,Transcription,P9WLP7,Op1248
 Rv1991c,mazF6,NC_000962.3,,2234305,2234649,-,mRNA interferase MazF6,"Replication, recombination and repair",P9WII3,Op1249
 Rv1991A,mazE6,NC_000962.3,,2234643,2234891,-,antitoxin MazE6,Transcription,P9WJ87,Op1249
 Rv1992c,ctpG,NC_000962.3,,2234991,2237306,-,cation transporter ATPase G,Inorganic ion transport and metabolism,P9WPS7,Op1250
@@ -2494,7 +2494,7 @@ Rv2502c,accD1,NC_000962.3,,2816885,2818474,-,acetyl-/propionyl-CoA carboxylase s
 Rv2503c,scoB,NC_000962.3,,2818471,2819127,-,succinyl-CoA:3-ketoacid-CoA transferase subunit B,Lipid transport and metabolism,P9WPW3,Op1579
 Rv2504c,scoA,NC_000962.3,,2819124,2819870,-,succinyl-CoA:3-ketoacid-CoA transferase subunit A,Lipid transport and metabolism,P9WPW5,Op1579
 Rv2505c,fadD35,NC_000962.3,,2819953,2821596,-,fatty-acid--CoA ligase FadD35,Lipid transport and metabolism,I6Y0X0,Op1579
-Rv2506,Rv2506,NC_000962.3,,2821712,2822359,+,TetR family transcriptional regulator,Transcription,O06169,Op1580
+Rv2506,bkaR,NC_000962.3,,2821712,2822359,+,TetR family transcriptional regulator,Transcription,O06169,Op1580
 Rv2507,Rv2507,NC_000962.3,,2822438,2823259,+,hypothetical protein,Function unknown,O06170,Op1581
 Rv2508c,Rv2508c,NC_000962.3,,2823256,2824593,-,integral membrane protein,Function unknown,O06171,Op1582
 Rv2509,Rv2509,NC_000962.3,,2824678,2825484,+,short-chain type dehydrogenase/reductase,Inorganic ion transport and metabolism,I6Y9I3,Op1583
@@ -3199,7 +3199,7 @@ Rv3204,Rv3204,NC_000962.3,,3581315,3581620,+,DNA-methyltransferase,"Replication,
 Rv3205c,Rv3205c,NC_000962.3,,3581627,3582505,-,hypothetical protein,Function unknown,O05861,Op2007
 Rv3206c,moeB1,NC_000962.3,,3582532,3583710,-,adenylyltransferase/sulfurtransferase MoeZ,Coenzyme transport and metabolism,P9WMN7,Op2007
 Rv3207c,Rv3207c,NC_000962.3,,3583801,3584658,-,hypothetical protein,Cell wall/membrane/envelope biogenesis,O05859,Op2008
-Rv3208,Rv3208,NC_000962.3,,3585004,3585690,+,TetR family transcriptional regulator,Transcription,O05858,Op2009
+Rv3208,fasR,NC_000962.3,,3585004,3585690,+,TetR family transcriptional regulator,Transcription,O05858,Op2009
 Rv3208A,TB9.4,NC_000962.3,,3585677,3585949,-,hypothetical protein,Function unknown,Q6MWZ8,Op2010
 Rv3209,Rv3209,NC_000962.3,,3586274,3586834,+,hypothetical protein,No COG annotation,O05857,Op2011
 Rv3210c,Rv3210c,NC_000962.3,,3586844,3587539,-,hypothetical protein,Function unknown,O05856,Op2012
@@ -3539,7 +3539,7 @@ Rv3553,Rv3553,NC_000962.3,,3991621,3992688,+,oxidoreductase,Function unknown,P71
 Rv3554,fdxB,NC_000962.3,,3992685,3994742,+,electron transfer protein FdxB,Energy production and conversion,P71846,Op2220
 Rv3555c,Rv3555c,NC_000962.3,,3994830,3995699,-,hypothetical protein,Function unknown,P96837,Op2221
 Rv3556c,fadA6,NC_000962.3,,3995804,3996964,-,acetyl-CoA acetyltransferase FadA,Lipid transport and metabolism,I6XHJ3,Op2222
-Rv3557c,Rv3557c,NC_000962.3,,3997029,3997631,-,HTH-type transcriptional regulator KstR2,Transcription,P9WMB9,Op2223
+Rv3557c,kstR2,NC_000962.3,,3997029,3997631,-,HTH-type transcriptional regulator KstR2,Transcription,P9WMB9,Op2223
 Rv3558,PPE64,NC_000962.3,,3997980,3999638,+,PPE family protein PPE64,Cell motility,Q6MWW0,Op2224
 Rv3559c,Rv3559c,NC_000962.3,,3999647,4000435,-,oxidoreductase,Lipid transport and metabolism,I6YCF0,Op2225
 Rv3560c,fadE30,NC_000962.3,,4000432,4001589,-,acyl-CoA dehydrogenase FadE30,Lipid transport and metabolism,I6Y3V5,Op2225

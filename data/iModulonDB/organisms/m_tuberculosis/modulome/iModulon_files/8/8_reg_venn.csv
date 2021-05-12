@@ -1,0 +1,11 @@
+,Value,list
+TF,ideR,
+reg_genes,44,['ppiA' 'cyp123' 'frdA' 'yrbE2A' 'eccE3' 'eccA3' 'ldtA']
+comp_genes,44,['Rv1342c' 'Rv1847' 'Rv2622' 'Rv0481c' 'hisG' 'Rv1520' 'Rv0449c']
+both_genes,37,"['mmpL4' 'mbtK' 'esxG' 'hisE' 'irtB' 'mbtC' 'mycP3' 'mbtN' 'eccC3' 'PPE37'
+ 'Rv3840' 'Rv1519' 'mbtG' 'PE5' 'mbtA' 'mbtL' 'mbtJ' 'Rv2377c' 'irtA'
+ 'Rv3402c' 'espG3' 'mmpS4' 'bfrB' 'mbtE' 'PPE4' 'Rv3403c' 'Rv3839' 'mbtI'
+ 'lprD' 'eccB3' 'mbtB' 'mbtM' 'Rv0338c' 'mbtD' 'eccD3' 'mbtF' 'esxH']"
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

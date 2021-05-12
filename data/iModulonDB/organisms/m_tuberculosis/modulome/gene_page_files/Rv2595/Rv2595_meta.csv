@@ -1,0 +1,8 @@
+,0
+gene_id,Rv2595
+name,vapB40
+operon,Op1637
+gene_product,antitoxin VapB40
+COG,Transcription
+regulator,"Rv0324,Rv2720 "
+link,"<a href=""https://mycobrowser.epfl.ch/genes/Rv2595"">External Database</a>"

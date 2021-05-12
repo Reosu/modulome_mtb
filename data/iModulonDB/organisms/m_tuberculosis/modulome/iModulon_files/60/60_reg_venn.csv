@@ -1,0 +1,10 @@
+,Value,list
+TF,Rv0681,
+reg_genes,23,['Rv3519' 'kshB' 'ltp2' 'cyp142' 'Rv1817' 'fadE28' 'Rv3160c']
+comp_genes,27,"['Rv1894c' 'Rv3531c' 'Rv3566A' 'hsaC' 'nat' 'kshA' 'hsaD' 'kstR' 'fadD18'
+ 'Rv3527' 'hsaB']"
+both_genes,16,"['echA19' 'fadA5' 'hsaE' 'hsaF' 'cyp125' 'fadE29' 'Rv3542c' 'Rv3530c'
+ 'kstD' 'fadD19' 'Rv3538' 'hsaG' 'Rv3529c' 'hsaA' 'Rv3541c' 'PPE62']"
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

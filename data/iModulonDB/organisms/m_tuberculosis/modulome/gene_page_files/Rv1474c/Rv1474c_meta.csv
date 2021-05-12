@@ -1,0 +1,8 @@
+,0
+gene_id,Rv1474c
+name,Rv1474c
+operon,Op945
+gene_product,transcriptional regulator
+COG,Transcription
+regulator,"Rv0135c,csoR,Rv1776c,Rv1816,kstR"
+link,"<a href=""https://mycobrowser.epfl.ch/genes/Rv1474c"">External Database</a>"

@@ -1,0 +1,11 @@
+,0
+name,MbcA+Rv3249c+Rv3066
+TF,mbcA+Rv3249c+Rv3066
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/mbcA"" target=""_blank"">mbcA</a> and <a href=""https://mycobrowser.epfl.ch/genes/Rv3249c"" target=""_blank"">Rv3249c</a> and <a href=""https://mycobrowser.epfl.ch/genes/Rv3066"" target=""_blank"">Rv3066</a>"
+Function,"iModulon that maps to the intersection of the Rv1990c, Rv3249c, and Rv3066 regulons"
+Category,Virulence/Persistence
+has_venn,True
+scatter,3
+has_meme,False
+precision,0.0
+recall,0.0

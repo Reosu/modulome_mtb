@@ -1,0 +1,11 @@
+,0
+name,Rv0576
+TF,Rv0576
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/Rv0576"" target=""_blank"">Rv0576</a>"
+Function,Possible ArsR family transcription factor that regulates genes related to virulence
+Category,Virulence/Persistence
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.2033898305
+recall,0.2307692308

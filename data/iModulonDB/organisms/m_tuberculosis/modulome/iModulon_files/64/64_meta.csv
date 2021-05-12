@@ -1,0 +1,11 @@
+,0
+name,Mce1R
+TF,mce1R
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/mce1R"" target=""_blank"">mce1R</a>"
+Function,Transcription factor that regulates the mce1 virulence operon
+Category,Virulence/Persistence
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.0194805195
+recall,1.0

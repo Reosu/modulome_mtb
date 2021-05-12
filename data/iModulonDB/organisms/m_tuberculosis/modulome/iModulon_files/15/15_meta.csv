@@ -1,0 +1,11 @@
+,0
+name,BkaR
+TF,bkaR
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/bkaR"" target=""_blank"">bkaR</a>"
+Function,Transcription factor that regulates genes related to branched-chain keto-acid metabolism
+Category,Central Carbon
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.16216216220000002
+recall,0.75

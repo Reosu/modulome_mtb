@@ -1,0 +1,9 @@
+,Value,list
+TF,sigK,
+reg_genes,17,"['Rv3902c' 'fbpB' 'hspX' 'sigK' 'pks6' 'Rv3839' 'Rv2978c' 'whiB4' 'PPE37'
+ 'rpfC']"
+comp_genes,8,['mpt83']
+both_genes,7,['dipZ' 'mpt70' 'ufaA1' 'Rv0446c' 'Rv0449c' 'Rv2876' 'Rv0448c']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

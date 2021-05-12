@@ -1,0 +1,81 @@
+k,Name,Regulator,Function,Category,n_genes,precision,recall,category_num
+0,SigH,sigH,Sigma Factor involved in heat shock and oxidative stress response,Virulence/Persistence,45,0.0821917808,0.8,0
+1,Polyketide Synthase Complex,,KEGG Map related to the synthesis of type II polyketide backbone ,Fatty Acid/Cholestrol,2,0.33333333330000003,1.0,1
+2,IniR,iniR,Transcription factor that regulates the expression of the ini operon (iniBAC),Antibiotic,3,0.1,1.0,2
+3,PyrR,pyrR,Transcription factor that regulates the expression of pyrimidine nucleotide operons,Nucleic Acids,44,0.0,0.0,3
+4,WhiB4,whiB4,Redox-Responsive transcription regulator that regulates protection response during infection,Redox,95,0.1848341232,0.41052631580000004,4
+5,DevR-1,devR,Transcription factor that is one of the primary regulators of hypoxia onset response,Redox,22,0.037037037,0.5,5
+6,MarR,marR,Transcription factor that regulates the response to acid stress,Acid Stress,16,0.0,0.0,6
+7,GroEL-GroES Complex,,Gene Ontology Term specific to the bacterial chaperonin complex,Amino Acids,8,0.0714285714,0.75,7
+8,IdeR,ideR,Metal-Dependent DNA-Binding protein that controls genes related to iron metabolism,Metal Related,44,0.8409090909,0.8409090909,8
+9,SigK,sigK,Sigma Factor involved in the production of antigenic proteins,Unknown Function,8,0.4117647059,0.875,9
+10,RicR,ricR,Copper responsive transcription factor that regulates metal metabolism genes,Metal Related,14,0.5714285714,0.5714285714,10
+11,EccE1 KO,,Single Gene iModulon that captures EccE1 knockout,KO,2,0.0,0.0,11
+12,Mycofactocin Synthesis Pathway,,Manually annotated iModulon that captures multiple genes associated with mycofactocin metabolism,Fatty Acid/Cholestrol,6,0.8333333333,0.8333333333,12
+13,SG_1,,Single Gene iModulon 1,Single Gene,3,0.0,0.0,13
+14,SG_2,,Single Gene iModulon 2,Single Gene,2,0.0,0.0,14
+15,BkaR,bkaR,Transcription factor that regulates genes related to branched-chain keto-acid metabolism,Central Carbon,8,0.16216216220000002,0.75,15
+16,Mce3R,mce3R,Transcription factor that regulates the mce3 virulence operon,Virulence/Persistence,15,0.5,0.8,16
+17,VirS,virS,Transcription factor that is activated and responds to acidic environments,Redox,7,0.875,1.0,17
+18,Unc_1,,Uncharacterized iModulon 1,Uncharacterized,3,0.0,0.0,18
+19,WhiB6,whiB6,Transcription factor that regulates ESX-1 system membrane transport proteins,Redox,16,0.33333333330000003,0.3125,19
+20,FasR,fasR,Transcription factor that controls the expression of fatty acid metabolism genes,Fatty Acid/Cholestrol,12,1.0,0.4166666667,20
+21,MprA,mprA,Transcription factor that regulates multiple stress responsive genes,Virulence/Persistence,7,0.023569023600000003,1.0,21
+22,SG_3,,Single Gene iModulon 3,Single Gene,9,0.0,0.0,22
+23,PrpR,prpR,Transcription factor that is involved in catabolism of short chain fatty acids via gloxylate and methylcitrate cycle,Central Carbon,5,0.0,0.0,23
+24,Salicylate Induced,,Manually annotated iModulon where genes were found to change expression when exposed to salicylate,Metal Related,2,0.0,0.0,24
+25,Rv0078+Rv2034,Rv0078 and Rv2034,iModulon that maps to the intersection of the Rv0078 and Rv2034 regulon,Antibiotic,3,0.0,0.0,25
+26,EspL KO,,Single Gene iModulon that captures EspL knockout,KO,2,0.0,0.0,26
+27,Unc_2,,Uncharacterized iModulon 2,Uncharacterized,11,0.0,0.0,27
+28,WhiB1,whiB1,"Transcription repressor that is redox responsive, found to be nitric oxide sensitive",Redox,32,0.4222222222,0.59375,28
+29,Blal,blaI,"Transcription regulator that regulates genes associated with antibiotic transport, detoxification, and cell wall function",Antibiotic,11,0.0,0.0,29
+30,HPT-2b Induced,,iModulon regulates many genes that are activated by HPT-2b (1-hydroxy-5-R-pyridine-2(1H)-thiones),Metal Related,13,0.4230769231,0.8461538462,30
+31,ArgR,argR,Transcription factor that regulates the L-arginine biosynthesis pathways,Amino Acids,9,0.875,0.7777777778,31
+32,Unc_3,,Uncharacterized iModulon 3,Uncharacterized,16,0.0,0.0,32
+33,SG_4,,Single Gene iModulon 4,Single Gene,5,0.0,0.0,33
+34,MbcA+Rv3249c+Rv3066,mbcA and Rv3249c and Rv3066,"iModulon that maps to the intersection of the Rv1990c, Rv3249c, and Rv3066 regulons",Virulence/Persistence,3,0.0,0.0,34
+35,Unc_4,,Uncharacterized iModulon 4,Uncharacterized,22,0.0,0.0,35
+36,Fumarate Reductase,,iModulon enriched with the Fumarate Reductase Gene Ontology term,Central Carbon,33,0.5,0.5,36
+37,Rv3095,Rv3095,iModulon labeled with predicted regulon with unknown function,Unknown Function,3,0.6000000000000001,1.0,37
+38,SG_5,,Single Gene iModulon 5,Single Gene,4,0.0,0.0,38
+39,SigC,sigC,Sigma Factor that plays a role in organism virulence and lethality,Virulence/Persistence,5,0.0,0.0,39
+40,KstR2,kstR2,Transcription factor that regulates a small regulon related to cholesterol utilization,Fatty Acid/Cholestrol,14,0.34482758620000004,0.7142857143,40
+41,Unc_5,,Uncharacterized iModulon 5,Uncharacterized,10,0.0,0.0,41
+42,Nicotinate Metabolism,,iModulon enriched with the nicotinate and nicotinamide metabolism KEGG pathway,Central Carbon,10,0.15,0.2307692308,42
+43,LysG,lsyG,Transcription factor that controls the expression of LysE and requires lysine or histidine for activation ,Amino Acids,7,0.0564516129,1.0,43
+44,SG_6,,Single Genes iModulon 6,Single Gene,1,0.0,0.0,44
+45,SigD,sigD,Sigma Factor that governs the expression of ribosomal genes and plays a role in virulence,Virulence/Persistence,55,0.0,0.0,45
+46,Rv2621c,Rv2621c,iModulon labeled with predicted regulon with unknown function,Unknown Function,6,0.4,1.0,46
+47,SG_7,,Single Gene iModulon 7,Single Gene,1,0.0,0.0,47
+48,Leucine Related,,Manually annotated iModulon with gene related to leucine metabolism,Amino Acids,4,0.2,0.5,48
+49,Rv1828/SigH,Rv1828 or sigH,iModulon that maps to the union of the Rv1828 and Rv3223c regulons,Redox,63,0.1118721461,0.7777777778,49
+50,Unc_6,,Uncharacterized iModulon 6,Uncharacterized,11,0.0,0.0,50
+51,PhoP,phoP,"Transcription factor that controls response to redox/acid stress, hypoxia, and virulence",Virulence/Persistence,23,0.0738916256,0.652173913,51
+52,DevR-2,devR,Transcription factor that is one of the primary regulators of hypoxia onset response,Redox,37,0.0505050505,0.40540540540000003,52
+53,Rv1776c+WhiB4,Rv1776c and whiB4 ,iModulon that maps to the intersection of the Rv1776c and Rv3681c regulon,Redox,21,0.07109004740000001,0.7142857143,53
+54,Unc_7,,Uncharacterized iModulon 7,Uncharacterized,15,0.0,0.0,54
+55,WhiB7,whiB7,Transcription factor that connects systems for redox homeostasis and antibiotic resistance,Antibiotic,8,0.6666666667000001,0.75,55
+56,Fatty Acid Biosynthesis,trcR and Rv1776c and whiB4 ,"iModulon that maps to the intersection of the Rv1033c, Rv1776c, and Rv3681c regulons",Fatty Acid/Cholestrol,21,0.0473933649,0.4761904762,56
+57,SG_8,,Single Gene iModulon 8,Single Gene,3,0.0,0.0,57
+58,Zur,zur,Transcription factor that is activated by and regulates the metabolism of zinc,Metal Related,20,0.6666666667000001,0.7000000000000001,58
+59,Rv0576,Rv0576,Possible ArsR family transcription factor that regulates genes related to virulence,Virulence/Persistence,52,0.2033898305,0.2307692308,59
+60,Rv0681,Rv0681,"Transcription with previously unknown function, regulates core fatty acid response",Unknown Function,27,0.6956521739,0.5925925926,60
+61,Nucleic Acid Hydrolysis ,,iModulon enriched with the Nucleic Acid Hydrolysis KEGG pathway,Nucleic Acids,11,1.0,0.0689655172,61
+62,Rv2488c,Rv2488c,LuxR family transcription factor that regulates genes associated with virulence,Virulence/Persistence,12,0.75,0.25,62
+63,SG_9,,Single Gene iModulon 9,Single Gene,9,0.0,0.0,63
+64,Mce1R,mce1R,Transcription factor that regulates the mce1 virulence operon,Virulence/Persistence,15,0.0194805195,1.0,64
+65,SG_10,,Single Gene iModulon 10,Single Gene,1,0.0,0.0,65
+66,M-box,,Magnesium activated non-coding sRNA that regulates the function of genes associated with metal metabolism and virulence,Metal Related,6,0.7142857143,0.8333333333,66
+67,Peptidoglycan Biosynthesis,,iModulon enriched with the Peptidoglycan biosyntehsis KEGG pathway,Central Carbon,8,0.0,0.0,67
+68,Sulfur Metabolism,,Kegg Map that displays the transport and metabolism of sulfur,Sulfur Metabolism,10,0.125,0.15789473680000002,68
+69,Rv0135+Rv1019,Rv0135c and Rv1019,iModulon that maps to the intersection of the Rv0135c and Rv1019 regulons,Nucleic Acids,2,1.0,1.0,69
+70,Lsr2,lsr2,Sequence independent transcription factor that controls a wide variety of genes,Antibiotic,18,0.0,0.0,70
+71,PDIM;PGL Synthesis,,Manually annotated iModulon that captures genes associated with PDIM and PGL synthesis,Virulence/Persistence,10,0.0,0.0,71
+72,Unc_8,,Uncharacterized iModulon 8,Uncharacterized,11,0.0,0.0,72
+73,SG_11,,Single Gene iModulon 11,Single Gene,9,0.0,0.0,73
+74,SG_12,,Single Gene iModulon 12,Single Gene,3,0.0,0.0,74
+75,Unc_9,,Uncharacterized iModulon 9,Uncharacterized,24,0.0,0.0,75
+76,SG_13,,Single Gene iModulon 13,Single Gene,5,0.0,0.0,76
+77,Central Carbon Metabolism,,iModulon enriched with the Central Carbon Metabolism KEGG pathway,Central Carbon,28,0.0,0.0,77
+78,Positive Regulation of Growth,,iModulon enriched with the Positive Regulation of Growth Gene Ontology term,Growth,26,0.36666666670000003,0.33333333330000003,78
+79,WhiB4/IdeR,whiB4 or ideR,iModulon that maps to the union of the Rv3681c and Rv2711 regulons,Redox,16,0.2307692308,0.375,79

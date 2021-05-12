@@ -1,0 +1,11 @@
+,0
+name,VirS
+TF,virS
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/virS"" target=""_blank"">virS</a>"
+Function,Transcription factor that is activated and responds to acidic environments
+Category,Redox
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.875
+recall,1.0

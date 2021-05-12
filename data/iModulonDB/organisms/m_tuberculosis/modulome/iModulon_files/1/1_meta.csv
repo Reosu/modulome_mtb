@@ -1,0 +1,11 @@
+,0
+name,Polyketide Synthase Complex
+TF,
+Regulator,
+Function,KEGG Map related to the synthesis of type II polyketide backbone 
+Category,Fatty Acid/Cholestrol
+has_venn,False
+scatter,0
+has_meme,False
+precision,0.33333333330000003
+recall,1.0

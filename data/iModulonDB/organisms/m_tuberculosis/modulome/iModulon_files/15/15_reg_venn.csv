@@ -1,0 +1,11 @@
+,Value,list
+TF,bkaR,
+reg_genes,37,"['Rv3377c' 'Rv3902c' 'Rv0011c' 'Rv3230c' 'canB' 'Rv3415c' 'eis' 'Rv2735c'
+ 'fadA4' 'Rv2161c' 'Rv1359' 'bkdC' 'Rv3587c' 'Rv3160c' 'bkdB' 'PPE54'
+ 'PE_PGRS41' 'Rv0988' 'Rv3755c' 'Rv0458' 'fadE23' 'prcA' 'bkdA' 'Rv0987'
+ 'Rv1290A' 'esxA' 'fadD28' 'PPE53' 'Rv1358' 'Rv1290c' 'mazF1']"
+comp_genes,8,['fadD35' 'scoA']
+both_genes,6,['scoB' 'accD1' 'Rv2499c' 'fadE19' 'accA1' 'citE']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

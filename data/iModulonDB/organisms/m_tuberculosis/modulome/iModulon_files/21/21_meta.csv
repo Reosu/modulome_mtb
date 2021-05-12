@@ -1,0 +1,11 @@
+,0
+name,MprA
+TF,mprA
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/mprA"" target=""_blank"">mprA</a>"
+Function,Transcription factor that regulates multiple stress responsive genes
+Category,Virulence/Persistence
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.023569023600000003
+recall,1.0

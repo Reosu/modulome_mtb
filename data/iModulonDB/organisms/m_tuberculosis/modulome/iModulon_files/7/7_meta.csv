@@ -1,0 +1,11 @@
+,0
+name,GroEL-GroES Complex
+TF,
+Regulator,
+Function,Gene Ontology Term specific to the bacterial chaperonin complex
+Category,Amino Acids
+has_venn,False
+scatter,0
+has_meme,False
+precision,0.0714285714
+recall,0.75

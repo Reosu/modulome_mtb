@@ -1,0 +1,11 @@
+,0
+name,EspL KO
+TF,
+Regulator,
+Function,Single Gene iModulon that captures EspL knockout
+Category,KO
+has_venn,False
+scatter,0
+has_meme,False
+precision,0.0
+recall,0.0

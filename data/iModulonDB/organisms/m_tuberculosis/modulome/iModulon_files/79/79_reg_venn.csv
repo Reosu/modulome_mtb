@@ -1,0 +1,37 @@
+,Value,list
+TF,whiB4/ideR,
+reg_genes,252,"['Rv2216' 'Rv2885c' 'Rv0412c' 'Rv2035' 'fadD23' 'Rv2331' 'leuC' 'sigH'
+ 'hddA' 'mbtN' 'narK1' 'Rv1519' 'lhr' 'Rv3531c' 'Rv3767c' 'Rv0605'
+ 'Rv1462' 'mbtL' 'mbtA' 'nrdF1' 'Rv2989' 'Rv2016' 'Rv0885' 'fadD21'
+ 'Rv1767' 'thiL' 'PPE38' 'cysA1' 'Rv2978c' 'Rv3555c' 'Rv2015c' 'Rv2517c'
+ 'rubA' 'Rv3191c' 'sigB' 'Rv3403c' 'Rv2169c' 'fmt' 'Rv0184' 'Rv2827c'
+ 'Rv3202c' 'yrbE3A' 'Rv3173c' 'Rv2659c' 'Rv2722' 'Rv1674c' 'Rv3312A'
+ 'PE35' 'Rv3686c' 'Rv0694' 'eccD3' 'ndh' 'ahpC' 'Rv2792c' 'pks3' 'ppsA'
+ 'iniB' 'hspR' 'nrdF2' 'hisE' 'dnaK' 'Rv2312' 'Rv2622' 'Rv0692' 'Rv3467'
+ 'Rv3484' 'htpX' 'recA' 'Rv2050' 'Rv2734' 'mbtJ' 'Rv1465' 'cyp123' 'irtA'
+ 'Rv3242c' 'Rv0324' 'fadD9' 'rubB' 'Rv1289' 'Rv0607' 'espG3' 'Rv0145'
+ 'uvrA' 'Rv1907c' 'groES' 'alkA' 'fadE10' '35kd_ag' 'alkB' 'yrbE2A'
+ 'Rv2204c' 'Rv1012' 'Rv1184c' 'Rv2024c' 'nirD' 'Rv0146' 'lprD' 'Rv1805c'
+ 'Rv2617c' 'Rv2640c' 'Rv3517' 'Rv1833c' 'mbtB' 'Rv0987' 'Rv2706c'
+ 'Rv3828c' 'trxB2' 'fbpD' 'mbtM' 'katG' 'Rv0331' 'Rv0693' 'fadE22'
+ 'Rv1277' 'PE20' 'fas' 'mmpL8' 'whiB4' 'esxH' 'Rv2516c' 'Rv0250c' 'mbtK'
+ 'Rv1573' 'fxsA' 'mec' 'PPE20' 'ahpD' 'Rv2979c' 'Rv3249c' 'nrdB' 'Rv2699c'
+ 'Rv1466' 'Rv1588c' 'Rv1593c' 'eccC3' 'Rv3527' 'Rv0326' 'Rv3822' 'fadD19'
+ 'PE5' 'Rv3827c' 'Rv2377c' 'ppiA' 'frdA' 'Rv1592c' 'Rv1461' 'Rv1073'
+ 'Rv0839' 'kasB' 'espF' 'Rv0794c' 'Rv0147' 'pks16' 'ideR' 'mmpS4'
+ 'Rv1342c' 'clpP1' 'pks6' 'Rv1671' 'efpA' 'icl1' 'Rv3074' 'grpE' 'eccCa1'
+ 'bglS' 'csd' 'fadE23' 'eccB3' 'Rv2791c' 'cysO' 'Rv1587c' 'kasA' 'acpM'
+ 'tgs4' 'moeB1' 'recX' 'Rv0338c' 'Rv0068' 'radA' 'clgR' 'eccA3' 'hsp'
+ 'Rv3201c' 'Rv3586' 'Rv1463' 'mmpL4' 'esxG' 'leuD' 'Rv0325' 'Rv3222c'
+ 'Rv3902c' 'Rv0181c' 'clpB' 'Rv1072' 'irtB' 'fadB2' 'Rv2719c' 'mbtC'
+ 'mycP3' 'Rv1200' 'Rv3415c' 'Rv1278' 'Rv2620c' 'fadE24' 'mbtG' 'Rv2366c'
+ 'Rv2743c' 'Rv3402c' 'Rv2331A' 'cmtR' 'drrA' 'trxC' 'dnaJ2' 'PPE68' 'bfrB'
+ 'mbtE' 'ltp1' 'PPE19' 'lysS' 'PPE4' 'dnaJ1' 'Rv0654' 'Rv3334' 'mbtI'
+ 'clpP2' 'Rv1049' 'Rv1875' 'ldtA' 'rpiB' 'ogt' 'fabD' 'Rv3226c' 'glnH'
+ 'mbtD' 'eccE3' 'mbtF' 'pks2' 'Rv1128c' 'PPE3']"
+comp_genes,16,['papA4' 'thiX' 'Rv0142']
+both_genes,13,"['Rv1673c' 'whiB6' 'trxB1' 'cysW' 'Rv3463' 'Rv3839' 'furA' 'cysT' 'Rv0140'
+ 'PPE37' 'Rv3054c' 'Rv3840' 'Rv2466c']"
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

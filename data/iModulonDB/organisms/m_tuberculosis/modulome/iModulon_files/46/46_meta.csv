@@ -1,0 +1,11 @@
+,0
+name,Rv2621c
+TF,Rv2621c
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/Rv2621c"" target=""_blank"">Rv2621c</a>"
+Function,iModulon labeled with predicted regulon with unknown function
+Category,Unknown Function
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.4
+recall,1.0

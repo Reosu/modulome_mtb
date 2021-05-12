@@ -1,0 +1,10 @@
+,Value,list
+TF,sigC,
+reg_genes,22,"['mmpL4' 'papA1' 'Rv3902c' 'mce1B' 'fbpA' 'mce1D' 'fadD26' 'espK' 'Rv0987'
+ 'PE35' 'nrp' 'moeW' 'mmpL8' 'Rv0175' 'Rv2336' 'lprK' 'fadD29' 'PPE3'
+ 'Rv1502']"
+comp_genes,5,['Rv0097' 'PPE1']
+both_genes,3,['fadD10' 'Rv0100' 'fcoT']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

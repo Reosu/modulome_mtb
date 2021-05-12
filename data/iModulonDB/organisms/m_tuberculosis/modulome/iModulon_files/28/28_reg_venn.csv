@@ -1,0 +1,12 @@
+,Value,list
+TF,whiB1,
+reg_genes,45,"['phoP' 'rpmJ' 'hemB' 'rpmG2' 'hadC' 'drrA' 'panB' 'Rv0996' 'usfY' 'pepR'
+ 'cyp121' 'drrB' 'hadA' 'Rv0634c' 'rsbW' 'Rv0513' 'Rv3463' 'PE12' 'ppsD'
+ 'papA5' 'hadB' 'Rv0514' 'Rv0998' 'greA' 'ppsE' 'drrC']"
+comp_genes,32,"['rpsD' 'rplN' 'rpoA' 'rplL' 'Rv3920c' 'rpsJ' 'Rv3921c' 'rpoC' 'rplQ'
+ 'rpsM' 'rplJ' 'rpoB' 'rpsK']"
+both_genes,19,"['rplD' 'rplR' 'rplX' 'rpmD' 'rpsN1' 'rplE' 'rplP' 'rplC' 'rpsS' 'rpsE'
+ 'rpmC' 'rplB' 'rplV' 'rpsH' 'rpsQ' 'rplF' 'rplO' 'rpsC' 'rplW']"
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

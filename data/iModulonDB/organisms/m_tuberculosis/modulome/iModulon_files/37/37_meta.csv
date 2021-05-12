@@ -1,0 +1,11 @@
+,0
+name,Rv3095
+TF,Rv3095
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/Rv3095"" target=""_blank"">Rv3095</a>"
+Function,iModulon labeled with predicted regulon with unknown function
+Category,Unknown Function
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.6000000000000001
+recall,1.0

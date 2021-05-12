@@ -1,0 +1,41 @@
+,Value,list
+TF,mprA,
+reg_genes,297,"['mce1F' 'nuoE' 'Rv1957' 'Rv1217c' 'sthA' 'iniC' 'cyp142' 'Rv0612' 'nuoJ'
+ 'Rv3767c' 'Rv2021c' 'mmsA' 'Rv0690c' 'Rv1767' 'oxcA' 'Rv1395' 'Rv0079'
+ 'Rv2172c' 'atpH' 'Rv2517c' 'Rv3354' 'Rv2251' 'Rv0263c' 'Rv3612c' 'Rv0313'
+ 'PE_PGRS32' 'che1' 'vapC15' 'Rv0695' 'mas' 'kstD' 'PE35' 'Rv0694' 'eccD3'
+ 'nirB' 'ahpC' 'Rv3269' 'Rv0383c' 'Rv1738' 'pks3' 'Rv2742c' 'iniB' 'ppsA'
+ 'Rv3094c' 'Rv3137' 'Rv2656c' 'Rv1042c' 'Rv1533' 'Rv2622' 'ethA' 'Rv1895'
+ 'Rv2663' 'mce1D' 'Rv2030c' 'nuoH' 'fadD5' 'Rv3054c' 'vapB46' 'nuoK'
+ 'Rv0080' 'espG3' 'Rv0574c' 'PPE36' 'esxN' 'desA1' 'alkB' 'Rv2076c' 'mez'
+ 'acg' 'mbtB' 'Rv2617c' 'Rv2011c' 'vapB15' 'eccC2' 'ppsB' 'PE20' 'Rv2662'
+ 'esxH' 'Rv2516c' 'papA4' 'Rv2515c' 'Rv3249c' 'Rv3093c' 'Rv2022c' 'fadD19'
+ 'Rv2377c' 'Rv1592c' 'atpA' 'kasB' 'Rv0826' 'PPE10' 'Rv0465c' 'rplB'
+ 'Rv0839' 'fdxA' 'Rv3168' 'pepR' 'ideR' 'nuoI' 'Rv3603c' 'Rv3355c' 'mgtA'
+ 'Rv3633' 'espC' 'papA1' 'iniA' 'Rv0463' 'Rv0628c' 'acrA1' 'ethR' 'pfkB'
+ 'Rv1874' 'Rv3182' 'PE_PGRS11' 'mmpL4' 'Rv2077c' 'Rv0275c' 'mce1B' 'aac'
+ 'irtB' 'Rv2190c' 'Rv3660c' 'atpD' 'mbtG' 'cyp130' 'PE22' 'Rv0042c' 'mbtE'
+ 'PPE19' 'PPE4' 'Rv3502c' 'Rv2657c' 'Rv3833' 'atpB' 'mbtI' 'Rv1986'
+ 'Rv2004c' 'esxO' 'Rv3837c' 'Rv1875' 'ilvC' 'bfrA' 'whiB6' 'Rv0843' 'pks2'
+ 'nuoB' 'Rv0047c' 'Rv2464c' 'Rv2035' 'narK2' 'Rv0264c' 'sigH' 'atpF'
+ 'Rv3840' 'mbtL' 'Rv3183' 'Rv2989' 'panC' 'Rv1733c' 'Rv0572c' 'Rv0885'
+ 'Rv2619c' 'panB' 'Rv1149' 'mce1A' 'drrB' 'lpqD' 'Rv0784' 'rubA' 'Rv0991c'
+ 'PPE50' 'Rv3403c' 'fadA5' 'fdxB' 'Rv2827c' 'yrbE3A' 'fadE26' 'Rv2466c'
+ 'pks9' 'Rv2012' 'Rv2705c' 'TB31.7' 'hsaG' 'Rv1041c' 'esxI' 'Rv1778c'
+ 'pstA2' 'mmsB' 'Rv0232' 'irtA' 'rubB' 'ephA' 'Rv2600' 'yjcE' 'lipQ'
+ 'higB' 'Rv3903c' 'atpE' 'ispD' 'Rv0094c' 'sirA' 'lprD' 'espK' 'nuoM'
+ 'PPE8' 'desA2' 'katG' 'cysH' 'mmpL8' 'Rv3675' 'esxR' 'drrC' 'mbtK'
+ 'Rv0249c' 'ahpD' 'Rv1534' 'Rv3600c' 'Rv2028c' 'Rv2669' 'Rv0302' 'pks16'
+ 'PE34' 'panD' 'Rv1929c' 'Rv1342c' 'efpA' 'icl1' 'espA' 'Rv2074' 'fadE23'
+ 'Rv0696' 'ppsD' 'kasA' 'lipF' 'scoA' 'Rv2075c' 'acpM' 'prpC' 'Rv1686c'
+ 'nanT' 'virS' 'Rv0990c' 'prpD' 'narX' 'nrdZ' 'Rv1894c' 'Rv2943'
+ 'PE_PGRS14' 'Rv2005c' 'clpB' 'ppsC' 'PPE34' 'PPE30' 'Rv1312' 'mbtC'
+ 'modC' 'Rv0140' 'pstC1' 'pks4' 'esxV' 'PPE37' 'Rv2620c' 'fadE24' 'mkl'
+ 'Rv3437' 'drrA' 'arsA' 'hsaA' 'papA3' 'PPE60' 'metC' 'Rv0268c' 'Rv0569'
+ 'Rv3180c' 'trxB1' 'yrbE1A' 'Rv3839' 'Rv3524' 'Rv1194c' 'Rv2621c' 'rpiB'
+ 'Rv2034' 'kmtR' 'mbtD' 'eccE3' 'mgtC' 'lprQ' 'ligB' 'esxQ' 'fadE9']"
+comp_genes,0,[]
+both_genes,0,['esxJ' 'esxK' 'esxL' 'esxW' 'PPE18' 'PE13' 'esxP']
+reg_genes2,0,
+comp_genes2,7,
+both_genes2,0,

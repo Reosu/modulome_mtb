@@ -1,0 +1,11 @@
+,0
+name,SigK
+TF,sigK
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/sigK"" target=""_blank"">sigK</a>"
+Function,Sigma Factor involved in the production of antigenic proteins
+Category,Unknown Function
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.4117647059
+recall,0.875

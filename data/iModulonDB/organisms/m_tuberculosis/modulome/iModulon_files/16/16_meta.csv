@@ -1,0 +1,11 @@
+,0
+name,Mce3R
+TF,mce3R
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/mce3R"" target=""_blank"">mce3R</a>"
+Function,Transcription factor that regulates the mce3 virulence operon
+Category,Virulence/Persistence
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.5
+recall,0.8

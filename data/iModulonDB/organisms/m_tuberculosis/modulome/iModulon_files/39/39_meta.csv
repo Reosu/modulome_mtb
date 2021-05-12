@@ -1,0 +1,11 @@
+,0
+name,SigC
+TF,sigC
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/sigC"" target=""_blank"">sigC</a>"
+Function,Sigma Factor that plays a role in organism virulence and lethality
+Category,Virulence/Persistence
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.0
+recall,0.0

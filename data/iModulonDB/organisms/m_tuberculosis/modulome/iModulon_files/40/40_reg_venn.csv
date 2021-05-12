@@ -1,0 +1,11 @@
+,Value,list
+TF,kstR2,
+reg_genes,29,"['Rv0793' 'Rv1583c' 'Rv1582c' 'Rv1584c' 'aspB' 'PPE64' 'Rv0791c' 'Rv0831c'
+ 'Rv1232c' 'Rv3773c' 'Rv0790c' 'Rv1587c' 'Rv1586c' 'Rv1754c' 'echA21'
+ 'Rv0792c' 'mmpL8' 'dcd' 'lipE']"
+comp_genes,14,['fadD3' 'fadE30' 'echA20' 'Rv3549c']
+both_genes,10,"['Rv3552' 'fadE32' 'fadA6' 'Rv3548c' 'fadE33' 'Rv3559c' 'kstR2' 'Rv3553'
+ 'fadE31' 'Rv3551']"
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

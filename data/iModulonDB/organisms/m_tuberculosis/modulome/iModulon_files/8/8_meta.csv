@@ -1,0 +1,11 @@
+,0
+name,IdeR
+TF,ideR
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/ideR"" target=""_blank"">ideR</a>"
+Function,Metal-Dependent DNA-Binding protein that controls genes related to iron metabolism
+Category,Metal Related
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.8409090909
+recall,0.8409090909

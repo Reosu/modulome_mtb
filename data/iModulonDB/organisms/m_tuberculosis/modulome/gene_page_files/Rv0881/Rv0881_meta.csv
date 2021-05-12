@@ -1,0 +1,8 @@
+,0
+gene_id,Rv0881
+name,Rv0881
+operon,Op571
+gene_product,tRNA/rRNA methyltransferase
+COG,"Translation, ribosomal structure and biogenesis"
+regulator,"sigH,Rv3249c"
+link,"<a href=""https://mycobrowser.epfl.ch/genes/Rv0881"">External Database</a>"

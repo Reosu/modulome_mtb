@@ -1,0 +1,11 @@
+,0
+name,Central Carbon Metabolism
+TF,
+Regulator,
+Function,iModulon enriched with the Central Carbon Metabolism KEGG pathway
+Category,Central Carbon
+has_venn,False
+scatter,0
+has_meme,False
+precision,0.0
+recall,0.0

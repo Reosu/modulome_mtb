@@ -1,0 +1,9 @@
+,Value,list
+TF,prpR,
+reg_genes,16,"['pdxH' 'icl1' 'PPE34' 'kstR' 'cyp135A1' 'pgi' 'espK' 'Rv3767c' 'argC'
+ 'PPE6' 'Rv3916c' 'PPE5' 'accA3']"
+comp_genes,5,['Rv1128c' 'Rv1132']
+both_genes,3,['prpD' 'prpR' 'prpC']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

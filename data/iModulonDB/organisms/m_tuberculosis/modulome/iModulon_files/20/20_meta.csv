@@ -1,0 +1,11 @@
+,0
+name,FasR
+TF,fasR
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/fasR"" target=""_blank"">fasR</a>"
+Function,Transcription factor that controls the expression of fatty acid metabolism genes
+Category,Fatty Acid/Cholestrol
+has_venn,True
+scatter,1
+has_meme,False
+precision,1.0
+recall,0.4166666667

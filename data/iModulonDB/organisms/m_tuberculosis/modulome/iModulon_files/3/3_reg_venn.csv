@@ -1,0 +1,16 @@
+,Value,list
+TF,pyrR,
+reg_genes,38,"['umaA' 'phoP' 'Rv0197' 'PPE17' 'Rv3660c' 'Rv3613c' 'fadD5' 'sigE' 'lsr2'
+ 'rpsO' 'mihF' 'mce3R' 'rplB' 'dnaA' 'mce3A' 'espC' 'mce3B' 'espD'
+ 'Rv3612c' 'lipX' 'Rv3714c' 'espA' 'Rv3202c' 'hupB' 'Rv1587c' 'Rv0196'
+ 'esxB' 'dnaN' 'mce3C' 'rpsR1' 'esxA' 'phoR' 'mce3D' 'dnaE2']"
+comp_genes,44,"['Rv2077c' 'Rv1573' 'moaX' 'Rv1580c' 'Rv3143' 'Rv2017' 'Rv1575' 'Rv3829c'
+ 'Rv3322c' 'Rv1579c' 'Rv1581c' 'Rv3831' 'Rv0073' 'Rv0826' 'Rv2818c'
+ 'Rv0072' 'PE22' 'PPE36' 'Rv2658c' 'Rv1760' 'Rv1574' 'Rv2159c' 'moaC3'
+ 'Rv2819c' 'Rv1577c' 'Rv2478c' 'wag22' 'vapB47' 'bpoA' 'Rv1578c' 'Rv0071'
+ 'Rv1576c' 'Rv2659c' 'vapC47' 'Rv1761c' 'Rv1585c' 'PPE39' 'spoU' 'vapC17'
+ 'Rv1762c']"
+both_genes,4,['Rv1583c' 'Rv1582c' 'Rv1586c' 'Rv1584c']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

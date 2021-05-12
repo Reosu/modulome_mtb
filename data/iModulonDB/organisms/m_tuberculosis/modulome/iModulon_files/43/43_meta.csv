@@ -1,0 +1,11 @@
+,0
+name,LysG
+TF,lsyG
+Regulator,lsyG
+Function,Transcription factor that controls the expression of LysE and requires lysine or histidine for activation 
+Category,Amino Acids
+has_venn,True
+scatter,0
+has_meme,False
+precision,0.0564516129
+recall,1.0

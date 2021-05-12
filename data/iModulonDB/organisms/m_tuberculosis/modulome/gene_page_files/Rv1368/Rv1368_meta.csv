@@ -1,0 +1,8 @@
+,0
+gene_id,Rv1368
+name,lprF
+operon,Op887
+gene_product,lipoprotein LprF
+COG,Function unknown
+regulator,"csoR,Rv1776c,devR"
+link,"<a href=""https://mycobrowser.epfl.ch/genes/Rv1368"">External Database</a>"

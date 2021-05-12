@@ -1,0 +1,16 @@
+,Value,list
+TF,sigI,
+reg_genes,84,"['Rv1779c' 'cyp141' 'moaB1' 'cyp121' 'glyS' 'fadE23' 'mmpL8' 'deaD' 'lipP'
+ 'Rv1585c' 'Rv1303' 'metE' 'PPE24' 'mce1B' 'moeW' 'Rv2184c' 'Rv3289c'
+ 'Rv1461' 'mce1D' 'qcrC' 'Rv2800' 'plcA' 'Rv1588c' 'atpE' 'sdaA' 'gltS'
+ 'PE_PGRS34' 'mce1C' 'lat' 'Rv0988' 'pks6' 'mce3D' 'PPE20' 'Rv1770' 'espK'
+ 'PPE37' 'proS' 'fadD5' 'mce1A' 'katG' 'Rv0111' 'guaB2' 'rpfB' 'yrbE1B'
+ 'atpG' 'ctaE' 'mmpL4' 'fadD23' 'dinX' 'Rv0368c' 'Rv3074' 'hemL' 'pntB'
+ 'Rv1765c' 'bfrB' 'atpH' 'Rv1500' 'atpD' 'mprB' 'argG' 'ureC' 'manB'
+ 'nadC' 'mce1F' 'ctaC' 'lppT' 'lprK' 'Rv3446c' 'PPE5' 'Rv0071' 'Rv0826'
+ 'coaE' 'atpA' 'Rv0528' 'atpB' 'qcrA' 'wag31' 'PPE3']"
+comp_genes,8,['Rv0047c' 'Rv0991c']
+both_genes,6,['grpE' 'dnaJ1' 'groES' 'groEL2' 'dnaK' 'groEL1']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

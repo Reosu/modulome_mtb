@@ -1,0 +1,8 @@
+,0
+gene_id,Rv2506
+name,bkaR
+operon,Op1580
+gene_product,TetR family transcriptional regulator
+COG,Transcription
+regulator,"Rv0678,Rv1776c"
+link,"<a href=""https://mycobrowser.epfl.ch/genes/Rv2506"">External Database</a>"

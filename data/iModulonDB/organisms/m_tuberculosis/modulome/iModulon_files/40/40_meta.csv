@@ -1,0 +1,11 @@
+,0
+name,KstR2
+TF,kstR2
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/kstR2"" target=""_blank"">kstR2</a>"
+Function,Transcription factor that regulates a small regulon related to cholesterol utilization
+Category,Fatty Acid/Cholestrol
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.34482758620000004
+recall,0.7142857143

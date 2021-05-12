@@ -1,0 +1,11 @@
+,0
+name,RicR
+TF,ricR
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/ricR"" target=""_blank"">ricR</a>"
+Function,Copper responsive transcription factor that regulates metal metabolism genes
+Category,Metal Related
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.5714285714
+recall,0.5714285714

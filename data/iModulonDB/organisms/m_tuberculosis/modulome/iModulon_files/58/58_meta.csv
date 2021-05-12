@@ -1,0 +1,11 @@
+,0
+name,Zur
+TF,zur
+Regulator,"<a href=""https://mycobrowser.epfl.ch/genes/zur"" target=""_blank"">zur</a>"
+Function,Transcription factor that is activated by and regulates the metabolism of zinc
+Category,Metal Related
+has_venn,True
+scatter,1
+has_meme,False
+precision,0.6666666667000001
+recall,0.7000000000000001

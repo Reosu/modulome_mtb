@@ -1,21 +1,21 @@
 ,Value,list
 TF,marR,
-reg_genes,108,"['Rv1957' 'Rv3378c' 'Rv0197' 'ggtB' 'PPE20' 'Rv2955c' 'Rv0745' 'Rv0585c'
- 'Rv3613c' 'Rv3821' 'rplC' 'Rv1948c' 'Rv3531c' 'Rv3822' 'pncB2' 'dnaB'
- 'Rv1733c' 'lpqW' 'rplB' 'PPE42' 'nuoI' 'otsB2' 'Rv2631' 'rpsQ' 'Rv3618'
- 'Rv0849' 'rpsC' 'whiB2' 'PE29' 'espC' 'Rv1929c' 'Rv3191c' 'wag22' 'pks12'
- 'pdxH' 'Rv1954c' 'PPE67' 'Rv1928c' 'Rv3612c' 'Rv1178' 'espD' 'murI'
- 'Rv2827c' 'espA' 'che1' 'Rv3811' 'Rv3530c' 'Rv0196' 'rpsS' 'Rv1930c'
- 'glgA' 'Rv0694' 'Rv1637c' 'Rv2407' 'Rv3371' 'Rv3529c' 'Rv2395' 'Rv3748'
- 'Rv2826c' 'vapC40' 'Rv1255c' 'moaX' 'parA' 'rplL' 'Rv2197c' 'Rv0030'
- 'Rv0890c' 'higA' 'Rv1337' 'Rv0584' 'Rv0743c' 'rplV' 'ephA' 'Rv2336'
- 'papA3' 'dnaA' 'mmpL3' 'uvrA' 'higB' 'atpE' 'PPE35' 'rplW' 'Rv1251c'
- 'Rv2597' 'lysS' 'rplD' 'snzP' 'sirA' 'fadD34' 'Rv1194c' 'rplP' 'alaS'
- 'Rv0891c' 'fmu' 'rpmC' 'whiB6' 'Rv3190c' 'Rv0892' 'cysH' 'glyA1' 'parB'
- 'dnaE2']"
-comp_genes,16,"['PE34' 'Rv1403c' 'Rv1507A' 'Rv0195' 'Rv1116' 'Rv1375' 'Rv2390c' 'Rv1405c'
- 'Rv1682' 'PPE61']"
-both_genes,6,['rpfD' 'PPE23' 'PPE11' 'Rv0575c' 'Rv1376' 'Rv3745c']
+reg_genes,108,"['lpqW' 'murI' 'che1' 'whiB2' 'Rv0585c' 'PE29' 'moaX' 'rplV' 'Rv3821'
+ 'dnaB' 'Rv2197c' 'Rv0891c' 'pdxH' 'Rv1251c' 'dnaA' 'pncB2' 'Rv0849'
+ 'fadD34' 'vapC40' 'uvrA' 'Rv1733c' 'Rv1930c' 'ephA' 'papA3' 'Rv0892'
+ 'sirA' 'PPE42' 'Rv2336' 'parB' 'Rv1194c' 'Rv2395' 'Rv1178' 'espD'
+ 'Rv3613c' 'rplW' 'rplC' 'Rv1337' 'Rv3190c' 'Rv0745' 'Rv0890c' 'Rv0743c'
+ 'espA' 'PPE20' 'glyA1' 'Rv2407' 'rpsS' 'Rv1954c' 'nuoI' 'alaS' 'Rv3191c'
+ 'mmpL3' 'Rv2631' 'Rv3530c' 'Rv2597' 'Rv3618' 'Rv3529c' 'rpsC' 'atpE'
+ 'Rv3748' 'Rv3531c' 'Rv3612c' 'Rv0197' 'rplD' 'espC' 'cysH' 'PPE67'
+ 'Rv1255c' 'rplB' 'Rv0584' 'Rv0694' 'higA' 'otsB2' 'Rv2955c' 'Rv3378c'
+ 'Rv1928c' 'Rv2827c' 'rpsQ' 'rpmC' 'Rv1948c' 'Rv3811' 'Rv3371' 'higB'
+ 'snzP' 'wag22' 'ggtB' 'Rv0030' 'lysS' 'Rv1929c' 'glgA' 'Rv1637c' 'PPE35'
+ 'pks12' 'dnaE2' 'rplP' 'Rv1957' 'fmu' 'whiB6' 'Rv0196' 'parA' 'rplL'
+ 'Rv2826c' 'Rv3822']"
+comp_genes,16,"['PE34' 'Rv1682' 'Rv2390c' 'Rv0195' 'Rv1403c' 'Rv1375' 'Rv1507A' 'Rv1116'
+ 'PPE61' 'Rv1405c']"
+both_genes,6,['Rv0575c' 'Rv3745c' 'Rv1376' 'rpfD' 'PPE11' 'PPE23']
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

@@ -2,7 +2,7 @@
 TF,virS,
 reg_genes,8,['Rv3742c']
 comp_genes,0,[]
-both_genes,0,['Rv3083' 'tgs4' 'Rv3087' 'fadD13' 'Rv3085' 'adhD' 'lipR']
+both_genes,0,['Rv3085' 'lipR' 'Rv3087' 'adhD' 'tgs4' 'Rv3083' 'fadD13']
 reg_genes2,0,
 comp_genes2,7,
 both_genes2,0,

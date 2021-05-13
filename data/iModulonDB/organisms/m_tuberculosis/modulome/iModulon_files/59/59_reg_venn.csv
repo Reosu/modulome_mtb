@@ -1,19 +1,19 @@
 ,Value,list
 TF,Rv0576,
-reg_genes,59,"['Rv0922' 'Rv3902c' 'acyP' 'Rv0061c' 'vapC2' 'Rv0575c' 'TB27.3' 'mmsB'
- 'eis' 'Rv3528c' 'Rv2033c' 'Rv0920c' 'Rv1199c' 'Rv1461' 'blaI' 'Rv2331A'
- 'vapB42' 'lpqH' 'Rv3023c' 'lprN' 'Rv2415c' 'Rv0268c' 'Rv1739c' 'ispD'
- 'Rv3115' 'Rv1847' 'ispF' 'pks6' 'Rv3064c' 'blaR' 'Rv1520' 'Rv1875'
- 'fadD22' 'Rv0269c' 'Rv0987' 'lipY' 'papA5' 'lipL' 'guaB1' 'Rv2414c'
- 'gnd1' 'Rv1498c' 'Rv0303' 'cobC' 'Rv2512c' 'mce4F' 'Rv1047']"
-comp_genes,52,"['Rv0793' 'Rv2622' 'clpB' 'Rv1895' 'Rv2620c' 'Rv3054c' 'Rv0836c' 'Rv0791c'
- 'cyp130' 'Rv2016' 'ald' 'Rv2619c' 'Rv3168' 'Rv0837c' 'Rv3167c' 'Rv0991c'
- 'alkB' 'yrbE2A' 'Rv0654' 'Rv0790c' 'Rv3833' 'Rv3463' 'lipX' 'Rv3334'
- 'Rv1048c' 'Rv2913c' 'Rv1586c' 'Rv2466c' 'Rv2621c' 'Rv2012' 'Rv1674c'
- 'Rv1585c' 'Rv0331' 'Rv2025c' 'Rv1286' 'Rv0792c' 'PE15' 'Rv2662' 'Rv2912c'
- 'Rv2516c']"
-both_genes,12,"['cyp51' 'Rv0762c' 'cyp123' 'Rv2035' 'Rv0769' 'Rv0765c' 'Rv0771' 'Rv2036'
- 'Rv0767c' 'aldA' 'Rv0763c' 'Rv0770']"
+reg_genes,59,"['Rv2415c' 'Rv3023c' 'lipL' 'vapC2' 'mce4F' 'lpqH' 'guaB1' 'fadD22'
+ 'Rv0269c' 'Rv1739c' 'cobC' 'ispF' 'Rv1498c' 'Rv2033c' 'papA5' 'gnd1'
+ 'Rv2512c' 'Rv3115' 'Rv1520' 'lprN' 'blaI' 'Rv3528c' 'Rv1047' 'Rv0268c'
+ 'acyP' 'Rv1199c' 'Rv2331A' 'Rv0303' 'ispD' 'Rv2414c' 'Rv0920c' 'TB27.3'
+ 'mmsB' 'Rv1461' 'Rv3064c' 'lipY' 'eis' 'blaR' 'vapB42' 'Rv1847' 'Rv1875'
+ 'pks6' 'Rv0922' 'Rv0061c' 'Rv0575c' 'Rv0987' 'Rv3902c']"
+comp_genes,52,"['yrbE2A' 'Rv2516c' 'clpB' 'Rv2913c' 'Rv3833' 'Rv2025c' 'Rv1048c'
+ 'Rv2912c' 'Rv0991c' 'Rv2622' 'Rv1586c' 'Rv2466c' 'Rv3463' 'Rv0837c'
+ 'Rv2662' 'Rv0790c' 'Rv3054c' 'Rv0791c' 'Rv3334' 'PE15' 'Rv1674c' 'Rv1286'
+ 'Rv1585c' 'alkB' 'Rv0331' 'Rv0792c' 'Rv2620c' 'Rv2016' 'cyp130' 'lipX'
+ 'Rv2621c' 'ald' 'Rv3167c' 'Rv3168' 'Rv0793' 'Rv1895' 'Rv2619c' 'Rv0654'
+ 'Rv0836c' 'Rv2012']"
+both_genes,12,"['Rv0770' 'Rv0763c' 'Rv2035' 'cyp123' 'Rv0765c' 'Rv0762c' 'Rv2036'
+ 'Rv0771' 'cyp51' 'Rv0769' 'Rv0767c' 'aldA']"
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

@@ -1,7 +1,7 @@
 ,Value,list
 TF,lsyG,
 reg_genes,0,[]
-comp_genes,7,['Rv0083' 'hycQ' 'Rv0082' 'hycE' 'hycP' 'hycD' 'Rv0081']
+comp_genes,7,['hycP' 'Rv0081' 'hycQ' 'Rv0082' 'hycE' 'Rv0083' 'hycD']
 both_genes,0,[]
 reg_genes2,0,
 comp_genes2,0,

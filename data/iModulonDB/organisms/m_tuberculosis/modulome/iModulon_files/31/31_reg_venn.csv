@@ -2,7 +2,7 @@
 TF,argR,
 reg_genes,8,['PE_PGRS30']
 comp_genes,9,['argH' 'ald']
-both_genes,7,['argJ' 'argR' 'argF' 'argD' 'argB' 'argG' 'argC']
+both_genes,7,['argD' 'argB' 'argJ' 'argF' 'argR' 'argC' 'argG']
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

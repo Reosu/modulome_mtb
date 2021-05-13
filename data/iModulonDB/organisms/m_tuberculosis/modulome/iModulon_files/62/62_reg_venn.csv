@@ -1,9 +1,9 @@
 ,Value,list
 TF,Rv2488c,
 reg_genes,4,['Rv2488c']
-comp_genes,12,"['mmpS5' 'mmpL5' 'Rv0678' 'Rv0452' 'PPE53' 'Rv3161c' 'mmpS4' 'Rv1219c'
- 'Rv3160c']"
-both_genes,3,['Rv1217c' 'Rv1216c' 'Rv1218c']
+comp_genes,12,"['Rv1219c' 'mmpL5' 'Rv0452' 'mmpS5' 'Rv0678' 'PPE53' 'Rv3160c' 'mmpS4'
+ 'Rv3161c']"
+both_genes,3,['Rv1218c' 'Rv1217c' 'Rv1216c']
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

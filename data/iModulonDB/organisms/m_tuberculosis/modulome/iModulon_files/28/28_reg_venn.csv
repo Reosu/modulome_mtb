@@ -1,12 +1,12 @@
 ,Value,list
 TF,whiB1,
-reg_genes,45,"['phoP' 'rpmJ' 'hemB' 'rpmG2' 'hadC' 'drrA' 'panB' 'Rv0996' 'usfY' 'pepR'
- 'cyp121' 'drrB' 'hadA' 'Rv0634c' 'rsbW' 'Rv0513' 'Rv3463' 'PE12' 'ppsD'
- 'papA5' 'hadB' 'Rv0514' 'Rv0998' 'greA' 'ppsE' 'drrC']"
-comp_genes,32,"['rpsD' 'rplN' 'rpoA' 'rplL' 'Rv3920c' 'rpsJ' 'Rv3921c' 'rpoC' 'rplQ'
- 'rpsM' 'rplJ' 'rpoB' 'rpsK']"
-both_genes,19,"['rplD' 'rplR' 'rplX' 'rpmD' 'rpsN1' 'rplE' 'rplP' 'rplC' 'rpsS' 'rpsE'
- 'rpmC' 'rplB' 'rplV' 'rpsH' 'rpsQ' 'rplF' 'rplO' 'rpsC' 'rplW']"
+reg_genes,45,"['Rv0514' 'pepR' 'phoP' 'greA' 'hadA' 'Rv3463' 'papA5' 'drrC' 'rpmJ'
+ 'Rv0996' 'hemB' 'PE12' 'drrA' 'Rv0513' 'Rv0634c' 'drrB' 'panB' 'rsbW'
+ 'ppsE' 'rpmG2' 'ppsD' 'hadC' 'cyp121' 'Rv0998' 'usfY' 'hadB']"
+comp_genes,32,"['rpoB' 'rplQ' 'rplJ' 'Rv3920c' 'rpsJ' 'rpsK' 'rplN' 'rpsD' 'rpsM'
+ 'Rv3921c' 'rplL' 'rpoA' 'rpoC']"
+both_genes,19,"['rpsC' 'rplD' 'rpmD' 'rplE' 'rplV' 'rplW' 'rpsN1' 'rplF' 'rpsE' 'rplB'
+ 'rplC' 'rplR' 'rplX' 'rpsQ' 'rplP' 'rpsH' 'rpmC' 'rpsS' 'rplO']"
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

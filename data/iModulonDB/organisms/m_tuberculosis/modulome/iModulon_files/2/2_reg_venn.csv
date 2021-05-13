@@ -1,11 +1,11 @@
 ,Value,list
 TF,iniR,
-reg_genes,30,"['PPE55' 'PPE54' 'Rv3705A' 'Rv1702c' 'rpoA' 'PE_PGRS60' 'plcB' 'PE_PGRS46'
- 'Rv3466' 'Rv3660c' 'Rv3427c' 'Rv3349c' 'espI' 'Rv2795c' 'Rv1754c' 'moxR2'
- 'mycP2' 'ogt' 'Rv2797c' 'PPE24' 'PPE14' 'pks7' 'PE_PGRS50' 'PPE38'
- 'Rv2203' 'Rv2721c' 'Rv2081c']"
+reg_genes,30,"['Rv2721c' 'PPE54' 'PPE14' 'Rv2203' 'mycP2' 'PPE38' 'plcB' 'ogt'
+ 'PE_PGRS46' 'espI' 'Rv2081c' 'Rv3660c' 'Rv3705A' 'PPE55' 'pks7' 'Rv1702c'
+ 'Rv3466' 'Rv1754c' 'Rv3427c' 'PE_PGRS60' 'PPE24' 'moxR2' 'Rv2795c'
+ 'Rv3349c' 'PE_PGRS50' 'Rv2797c' 'rpoA']"
 comp_genes,0,[]
-both_genes,0,['iniB' 'iniC' 'iniA']
+both_genes,0,['iniC' 'iniB' 'iniA']
 reg_genes2,0,
 comp_genes2,3,
 both_genes2,0,

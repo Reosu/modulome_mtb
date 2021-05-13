@@ -1,16 +1,16 @@
 ,Value,list
 TF,Rv1776c+whiB4 ,
-reg_genes,67,"['Rv2885c' 'mec' 'sigH' 'hddA' 'Rv1593c' 'lhr' 'Rv1592c' 'Rv2016' 'Rv0839'
- 'fadD21' 'kasB' 'Rv0794c' 'Rv0147' 'pks16' 'Rv3555c' 'Rv2015c' 'Rv3191c'
- 'Rv1342c' 'pks6' 'fmt' 'eccCa1' 'Rv3202c' 'yrbE3A' 'cysO' 'kasA' 'acpM'
- 'tgs4' 'Rv0068' 'ndh' 'ppsA' 'iniB' 'nrdF2' 'Rv3222c' 'Rv0181c' 'fadB2'
- 'Rv2719c' 'drrA' 'trxC' 'fadD9' 'dnaJ2' 'Rv0145' 'PPE68' 'Rv0654' 'trxB1'
- 'Rv1184c' 'Rv2024c' 'Rv1049' 'Rv1833c' 'ldtA' 'trxB2' 'ogt' 'fabD' 'glnH'
- 'fadE22' 'fas' 'pks2']"
-comp_genes,21,"['sigB' 'ppm1' 'Rv2052c' 'clpB' 'Rv2693c' 'clgR' 'Rv3837c' 'Rv2742c'
- 'Rv2694c' 'Rv0250c']"
-both_genes,11,"['hspR' '35kd_ag' 'fxsA' 'Rv2743c' 'dnaK' 'dnaJ1' 'Rv1073' 'Rv1072' 'grpE'
- 'hsp' 'htpX']"
+reg_genes,67,"['Rv0068' 'Rv0794c' 'glnH' 'Rv1049' 'trxC' 'Rv3555c' 'Rv2719c' 'nrdF2'
+ 'Rv2015c' 'fmt' 'kasB' 'ndh' 'Rv2016' 'kasA' 'fadD21' 'Rv1184c' 'Rv0839'
+ 'Rv0145' 'Rv3222c' 'pks16' 'Rv2885c' 'fadB2' 'iniB' 'Rv0181c' 'pks6'
+ 'fadD9' 'Rv0654' 'Rv3191c' 'tgs4' 'dnaJ2' 'pks2' 'lhr' 'cysO' 'Rv1342c'
+ 'mec' 'eccCa1' 'Rv3202c' 'sigH' 'ldtA' 'drrA' 'Rv0147' 'Rv1593c' 'yrbE3A'
+ 'PPE68' 'fas' 'ogt' 'hddA' 'fadE22' 'Rv2024c' 'ppsA' 'acpM' 'trxB1'
+ 'trxB2' 'fabD' 'Rv1592c' 'Rv1833c']"
+comp_genes,21,"['Rv3837c' 'ppm1' 'sigB' 'clpB' 'Rv2052c' 'Rv2694c' 'Rv0250c' 'clgR'
+ 'Rv2742c' 'Rv2693c']"
+both_genes,11,"['hspR' 'Rv2743c' 'fxsA' 'dnaK' '35kd_ag' 'grpE' 'Rv1072' 'htpX' 'dnaJ1'
+ 'hsp' 'Rv1073']"
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

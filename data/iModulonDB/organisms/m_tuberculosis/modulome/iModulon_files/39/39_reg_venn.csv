@@ -1,10 +1,10 @@
 ,Value,list
 TF,sigC,
-reg_genes,22,"['mmpL4' 'papA1' 'Rv3902c' 'mce1B' 'fbpA' 'mce1D' 'fadD26' 'espK' 'Rv0987'
- 'PE35' 'nrp' 'moeW' 'mmpL8' 'Rv0175' 'Rv2336' 'lprK' 'fadD29' 'PPE3'
- 'Rv1502']"
+reg_genes,22,"['fadD26' 'moeW' 'Rv2336' 'PE35' 'lprK' 'mmpL8' 'PPE3' 'mmpL4' 'mce1B'
+ 'Rv1502' 'nrp' 'mce1D' 'espK' 'papA1' 'Rv0175' 'fadD29' 'fbpA' 'Rv0987'
+ 'Rv3902c']"
 comp_genes,5,['Rv0097' 'PPE1']
-both_genes,3,['fadD10' 'Rv0100' 'fcoT']
+both_genes,3,['fcoT' 'fadD10' 'Rv0100']
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

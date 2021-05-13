@@ -2,63 +2,16 @@
 thresh,-0.14267388607493,0.14267388607493,8,,,,,,,,,,,,,,,,,
 unreg,0,0,18,1361,1278,26,2,0,0,0,0,0,0,0,0,0,1,0,0,0
 Rv3066,0,0,0,14,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-mbcA,0,0,3,199,185,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rv3249c,0,1,4,336,279,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rv3066 and mbcA,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mbcA,0,0,3,199,185,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rv3066 and Rv3249c,0,0,0,19,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-mbcA and Rv3249c,0,0,0,85,52,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-"Rv3066, mbcA, and Rv3249c",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rv3066 and mbcA,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rv3249c and mbcA,0,0,0,85,52,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rv3066, Rv3249c, and mbcA",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 unreg_genes,[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],['mmr'],[],[],[]
 Rv3066_genes,[],[],[],"['Rv2478c' 'Rv3661' 'ldtA' 'mce1D' 'phoT' 'Rv2260' 'mshD' 'PPE50' 'moaB1'
  'Rv0412c' 'Rv3909' 'Rv3351c' 'Rv2407' 'dfp']","['Rv2676c' 'Rv1535' 'tesB2' 'Rv2263' 'acrA1' 'Rv2406c' 'PE35' 'mutT3'
  'Rv2675c' 'Rv3660c' 'lpqD' 'Rv2257c' 'Rv2258c' 'fdxD' 'vapC46']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]
-mbcA_genes,[],[],['Rv3845' 'Rv1774' 'Rv1775'],"['vapB42' 'mgtC' 'Rv2657c' 'Rv1773c' 'Rv3740c' 'Rv3182' 'Rv1972' 'Rv0145'
- 'lprM' 'Rv0193c' 'Rv2415c' 'Rv2767c' 'Rv1812c' 'Rv0197' 'lppF' 'Rv0745'
- 'rpmB1' 'eccE2' 'Rv3600c' 'Rv2779c' 'pks7' 'rslA' 'Rv3527' 'Rv1313c'
- 'gmhB' 'Rv2766c' 'Rv0097' 'Rv2423' 'Rv2719c' 'trpC' 'gatC' 'Rv2147c'
- 'Rv3633' 'PE_PGRS17' 'mhpE' 'vapC42' 'Rv3730c' 'hisF' 'Rv0150c' 'dnaA'
- 'Rv0648' 'mmpL8' 'fadD18' 'mcr' 'Rv2256c' 'glcB' 'rpfC' 'fabH' 'cysE'
- 'Rv1873' 'cyp124' 'cpsY' 'mntH' 'Rv1875' 'dxs2' 'Rv0519c' 'Rv1744c'
- 'hsdS' 'ufaA1' 'PE_PGRS16' 'Rv0852' 'lhr' 'deoC' 'Rv0474' 'ftsX'
- 'Rv3668c' 'moaX' 'Rv3239c' 'Rv1989c' 'PE_PGRS22' 'modA' 'egtD' 'Rv3241c'
- 'Rv1975' 'Rv1836c' 'lpqC' 'ctpV' 'pknL' 'yrbE3A' 'lppH' 'Rv1111c' 'hycE'
- 'ctpE' 'Rv3677c' 'Rv0925c' 'PPE61' 'Rv3840' 'Rv2369c' 'vapB21' 'aac'
- 'phoH1' 'Rv3525c' 'lipD' 'Rv3200c' 'mrr' 'PPE24' 'recA' 'Rv1041c' 'esxO'
- 'hycQ' 'Rv3242c' 'Rv0470A' 'Rv2223c' 'galE1' 'Rv2254c' 'xseA' 'eccA5'
- 'Rv3363c' 'Rv1610' 'Rv1883c' 'pks2' 'nirD' 'Rv0263c' 'mtrB' 'Rv3038c'
- 'fas' 'ctpB' 'Rv2183c' 'spoU' 'Rv1482c' 'mmaA2' 'Rv0093c' 'Rv3202c'
- 'oplA' 'mmpS3' 'trpB' 'mce3D' 'atsB' 'purE' 'nadR' 'PE_PGRS42' 'rplM'
- 'mycP5' 'Rv1026' 'Rv0738' 'Rv0359' 'lpqW' 'esxL' 'esxI' 'Rv2197c'
- 'Rv0072' 'plcB' 'Rv0910' 'Rv0999' 'Rv2712c' 'Rv3349c' 'Rv2265' 'Rv2336'
- 'Rv1147' 'Rv2179c' 'Rv1510' 'Rv0487' 'gmhA' 'lgt' 'Rv0385' 'kshA'
- 'PE_PGRS35' 'Rv1043c' 'Rv2574' 'bisC' 'Rv3201c' 'mmpL4' 'PE_PGRS15'
- 'Rv0421c' 'oppA' 'Rv2248' 'pfkA' 'Rv3295' 'pmmA' 'Rv1145' 'nusB'
- 'Rv3190c' 'esxK' 'Rv3311' 'Rv3577' 'atpF' 'ggtA' 'Rv1044' 'gpgS' 'xseB'
- 'rskA' 'gabD1' 'fadE22' 'Rv3678c' 'Rv0196' 'Rv1215c' 'Rv0435c' 'prrB'
- 'Rv3180c' 'menA' 'Rv3090' 'vapC33' 'trpA' 'Rv3732' 'Rv3160c' 'lpqA'
- 'plcC' 'Rv2424c' 'whiB3']","['fadD4' 'vapB41' 'panB' 'proC' 'glpQ1' 'dnaG' 'Rv2345' 'hemZ' 'fadE1'
- 'etgB' 'Rv2571c' 'Rv3856c' 'sigK' 'esxJ' 'egtC' 'Rv3848' 'atsA' 'Rv0634c'
- 'ligC' 'Rv3725' 'lipG' 'Rv0911' 'PPE21' 'lpqP' 'arcA' 'Rv2190c' 'PPE10'
- 'Rv3632' 'moaE1' 'Rv1045' 'ltp4' 'cmtR' 'Rv0472c' 'Rv1760' 'ctpH'
- 'Rv3226c' 'Rv0088' 'ribF' 'pks12' 'Rv1508c' 'moxR2' 'lexA' 'Rv0021c'
- 'embR' 'esxV' 'mce3B' 'Rv2026c' 'Rv1378c' 'Rv0996' 'mmpL6' 'rpsI' 'hisI'
- 'Rv3669' 'inhA' 'Rv2600' 'Rv3435c' 'Rv3196' 'Rv2488c' 'eccD2' 'mazF6'
- 'Rv0743c' 'pntAb' 'Rv2568c' 'gshA' 'eccA2' 'echA10' 'pntB' 'pykA' 'efp'
- 'Rv2972c' 'Rv3735' 'ptbB' 'Rv0191' 'lysG' 'fadD32' 'mmpL9' 'Rv1144'
- 'aroA' 'treS' 'Rv2990c' 'mshA' 'stp' 'vapC37' 'secA2' 'pheA' 'Rv1882c'
- 'mycP2' 'eccC4' 'Rv1226c' 'whiB7' 'Rv1146' 'Rv0194' 'Rv3753c' 'Rv3786c'
- 'nei' 'mce3R' 'mce3F' 'Rv1987' 'egtE' 'Rv2508c' 'Rv3736' 'Rv1973'
- 'Rv3645' 'Rv3635' 'aroB' 'Rv0494' 'Rv0674' 'vapB32' 'PPE65' 'yrbE3B'
- 'higB' 'mas' 'moaC3' 'glpQ2' 'Rv2189c' 'Rv2787' 'oppD' 'echA11' 'mesJ'
- 'Rv1509' 'Rv0420c' 'Rv0811c' 'Rv0104' 'Rv3888c' 'fadE35' 'pgsA2' 'Rv1117'
- 'Rv3434c' 'Rv2573' 'Rv2305' 'TB18.6' 'aroD' 'Rv3727' 'fadE25' 'Rv2413c'
- 'dgt' 'rfbE' 'Rv1000c' 'fadE8' 'fgd2' 'Rv3230c' 'Rv1112' 'Rv0776c'
- 'Rv2414c' 'Rv1118c' 'ephF' 'Rv3839' 'glnE' 'recF' 'Rv0851c' 'glfT1'
- 'sirR' 'Rv2165c' 'ftsK' 'Rv0373c' 'bcpB' 'mmpS2' 'tyrA' 'dnaE2' 'desA3'
- 'Rv0749A' 'fadB' 'Rv3198A' 'Rv1974' 'Rv0106' 'cyp138' 'fabD2' 'Rv0750'
- 'Rv2311' 'mce3A' 'echA4' 'icl1' 'Rv0448c' 'Rv0997' 'Rv0998' 'pntAa'
- 'moeB2' 'Rv1976c' 'Rv3678A' 'Rv3902c' 'eccD4' 'pks1' 'Rv0575c' 'vapC6'
- 'Rv2730']",['Rv0195' 'Rv0737' 'cyp132' 'Rv2250c' 'glpD1'],[],[],[],[],[],[],[],[],[],[],[],[],[],[]
 Rv3249c_genes,[],['Rv3249c'],['rubB' 'Rv3587c' 'sahH' 'Rv0950c'],"['Rv1930c' 'PPE38' 'ethR' 'vapB13' 'Rv0687' 'Rv2722' 'ald' 'Rv1078' 'pdxH'
  'rpiB' 'Rv3768' 'Rv2143' 'rpsR1' 'Rv1593c' 'Rv3524' 'proA' 'murI'
  'Rv1375' 'PPE35' 'Rv3861' 'tmk' 'PPE8' 'Rv3906c' 'pbpA' 'Rv3860' 'PPE6'
@@ -133,12 +86,59 @@ Rv3249c_genes,[],['Rv3249c'],['rubB' 'Rv3587c' 'sahH' 'Rv0950c'],"['Rv1930c' 'PP
  'Rv0948c' 'Rv2219A' 'Rv1139c' 'vapC4' 'Rv2452c' 'Rv3272' 'cmaA2' 'Rv3074'
  'Rv1199c' 'Rv0992c' 'lppX' 'Rv1056' 'Rv0894' 'Rv1939' 'ino1' 'Rv1052'
  'Rv2706c' 'Rv2739c' 'Rv3023c' 'lppT']",['Rv1371' 'Rv1455' 'Rv0308' 'Rv3742c' 'alkB'],[],[],[],[],[],[],[],[],[],[],[],[],[],[]
-Rv3066 and mbcA_genes,[],[],[],['Rv0822c' 'Rv3502c'],['Rv1823' 'fhaA'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]
+mbcA_genes,[],[],['Rv3845' 'Rv1774' 'Rv1775'],"['vapB42' 'mgtC' 'Rv2657c' 'Rv1773c' 'Rv3740c' 'Rv3182' 'Rv1972' 'Rv0145'
+ 'lprM' 'Rv0193c' 'Rv2415c' 'Rv2767c' 'Rv1812c' 'Rv0197' 'lppF' 'Rv0745'
+ 'rpmB1' 'eccE2' 'Rv3600c' 'Rv2779c' 'pks7' 'rslA' 'Rv3527' 'Rv1313c'
+ 'gmhB' 'Rv2766c' 'Rv0097' 'Rv2423' 'Rv2719c' 'trpC' 'gatC' 'Rv2147c'
+ 'Rv3633' 'PE_PGRS17' 'mhpE' 'vapC42' 'Rv3730c' 'hisF' 'Rv0150c' 'dnaA'
+ 'Rv0648' 'mmpL8' 'fadD18' 'mcr' 'Rv2256c' 'glcB' 'rpfC' 'fabH' 'cysE'
+ 'Rv1873' 'cyp124' 'cpsY' 'mntH' 'Rv1875' 'dxs2' 'Rv0519c' 'Rv1744c'
+ 'hsdS' 'ufaA1' 'PE_PGRS16' 'Rv0852' 'lhr' 'deoC' 'Rv0474' 'ftsX'
+ 'Rv3668c' 'moaX' 'Rv3239c' 'Rv1989c' 'PE_PGRS22' 'modA' 'egtD' 'Rv3241c'
+ 'Rv1975' 'Rv1836c' 'lpqC' 'ctpV' 'pknL' 'yrbE3A' 'lppH' 'Rv1111c' 'hycE'
+ 'ctpE' 'Rv3677c' 'Rv0925c' 'PPE61' 'Rv3840' 'Rv2369c' 'vapB21' 'aac'
+ 'phoH1' 'Rv3525c' 'lipD' 'Rv3200c' 'mrr' 'PPE24' 'recA' 'Rv1041c' 'esxO'
+ 'hycQ' 'Rv3242c' 'Rv0470A' 'Rv2223c' 'galE1' 'Rv2254c' 'xseA' 'eccA5'
+ 'Rv3363c' 'Rv1610' 'Rv1883c' 'pks2' 'nirD' 'Rv0263c' 'mtrB' 'Rv3038c'
+ 'fas' 'ctpB' 'Rv2183c' 'spoU' 'Rv1482c' 'mmaA2' 'Rv0093c' 'Rv3202c'
+ 'oplA' 'mmpS3' 'trpB' 'mce3D' 'atsB' 'purE' 'nadR' 'PE_PGRS42' 'rplM'
+ 'mycP5' 'Rv1026' 'Rv0738' 'Rv0359' 'lpqW' 'esxL' 'esxI' 'Rv2197c'
+ 'Rv0072' 'plcB' 'Rv0910' 'Rv0999' 'Rv2712c' 'Rv3349c' 'Rv2265' 'Rv2336'
+ 'Rv1147' 'Rv2179c' 'Rv1510' 'Rv0487' 'gmhA' 'lgt' 'Rv0385' 'kshA'
+ 'PE_PGRS35' 'Rv1043c' 'Rv2574' 'bisC' 'Rv3201c' 'mmpL4' 'PE_PGRS15'
+ 'Rv0421c' 'oppA' 'Rv2248' 'pfkA' 'Rv3295' 'pmmA' 'Rv1145' 'nusB'
+ 'Rv3190c' 'esxK' 'Rv3311' 'Rv3577' 'atpF' 'ggtA' 'Rv1044' 'gpgS' 'xseB'
+ 'rskA' 'gabD1' 'fadE22' 'Rv3678c' 'Rv0196' 'Rv1215c' 'Rv0435c' 'prrB'
+ 'Rv3180c' 'menA' 'Rv3090' 'vapC33' 'trpA' 'Rv3732' 'Rv3160c' 'lpqA'
+ 'plcC' 'Rv2424c' 'whiB3']","['fadD4' 'vapB41' 'panB' 'proC' 'glpQ1' 'dnaG' 'Rv2345' 'hemZ' 'fadE1'
+ 'etgB' 'Rv2571c' 'Rv3856c' 'sigK' 'esxJ' 'egtC' 'Rv3848' 'atsA' 'Rv0634c'
+ 'ligC' 'Rv3725' 'lipG' 'Rv0911' 'PPE21' 'lpqP' 'arcA' 'Rv2190c' 'PPE10'
+ 'Rv3632' 'moaE1' 'Rv1045' 'ltp4' 'cmtR' 'Rv0472c' 'Rv1760' 'ctpH'
+ 'Rv3226c' 'Rv0088' 'ribF' 'pks12' 'Rv1508c' 'moxR2' 'lexA' 'Rv0021c'
+ 'embR' 'esxV' 'mce3B' 'Rv2026c' 'Rv1378c' 'Rv0996' 'mmpL6' 'rpsI' 'hisI'
+ 'Rv3669' 'inhA' 'Rv2600' 'Rv3435c' 'Rv3196' 'Rv2488c' 'eccD2' 'mazF6'
+ 'Rv0743c' 'pntAb' 'Rv2568c' 'gshA' 'eccA2' 'echA10' 'pntB' 'pykA' 'efp'
+ 'Rv2972c' 'Rv3735' 'ptbB' 'Rv0191' 'lysG' 'fadD32' 'mmpL9' 'Rv1144'
+ 'aroA' 'treS' 'Rv2990c' 'mshA' 'stp' 'vapC37' 'secA2' 'pheA' 'Rv1882c'
+ 'mycP2' 'eccC4' 'Rv1226c' 'whiB7' 'Rv1146' 'Rv0194' 'Rv3753c' 'Rv3786c'
+ 'nei' 'mce3R' 'mce3F' 'Rv1987' 'egtE' 'Rv2508c' 'Rv3736' 'Rv1973'
+ 'Rv3645' 'Rv3635' 'aroB' 'Rv0494' 'Rv0674' 'vapB32' 'PPE65' 'yrbE3B'
+ 'higB' 'mas' 'moaC3' 'glpQ2' 'Rv2189c' 'Rv2787' 'oppD' 'echA11' 'mesJ'
+ 'Rv1509' 'Rv0420c' 'Rv0811c' 'Rv0104' 'Rv3888c' 'fadE35' 'pgsA2' 'Rv1117'
+ 'Rv3434c' 'Rv2573' 'Rv2305' 'TB18.6' 'aroD' 'Rv3727' 'fadE25' 'Rv2413c'
+ 'dgt' 'rfbE' 'Rv1000c' 'fadE8' 'fgd2' 'Rv3230c' 'Rv1112' 'Rv0776c'
+ 'Rv2414c' 'Rv1118c' 'ephF' 'Rv3839' 'glnE' 'recF' 'Rv0851c' 'glfT1'
+ 'sirR' 'Rv2165c' 'ftsK' 'Rv0373c' 'bcpB' 'mmpS2' 'tyrA' 'dnaE2' 'desA3'
+ 'Rv0749A' 'fadB' 'Rv3198A' 'Rv1974' 'Rv0106' 'cyp138' 'fabD2' 'Rv0750'
+ 'Rv2311' 'mce3A' 'echA4' 'icl1' 'Rv0448c' 'Rv0997' 'Rv0998' 'pntAa'
+ 'moeB2' 'Rv1976c' 'Rv3678A' 'Rv3902c' 'eccD4' 'pks1' 'Rv0575c' 'vapC6'
+ 'Rv2730']",['Rv0195' 'Rv0737' 'cyp132' 'Rv2250c' 'glpD1'],[],[],[],[],[],[],[],[],[],[],[],[],[],[]
 Rv3066 and Rv3249c_genes,[],[],[],"['Rv1176c' 'Rv0176' 'Rv0177' 'Rv0175' 'Rv0178' 'lprO' 'idsB' 'qcrB' 'fhaB'
  'mce1B' 'lprK' 'mce1F' 'mce1R' 'fadD5' 'devR' 'papA5' 'devS' 'mce1C'
  'mce1A']","['pknG' 'Rv1178' 'Rv1069c' 'yrbE1B' 'PPE51' 'Rv3921c' 'Rv3134c' 'Rv2477c'
  'Rv1157c' 'fdxC']",[],[],[],[],['Rv3064c'],[],[],[],[],[],[],[],[],[],[]
-mbcA and Rv3249c_genes,[],[],[],"['glgA' 'echA17' 'Rv1871c' 'Rv0082' 'Rv0081' 'Rv0034' 'PPE5' 'embA'
+Rv3066 and mbcA_genes,[],[],[],['Rv0822c' 'Rv3502c'],['Rv1823' 'fhaA'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]
+Rv3249c and mbcA_genes,[],[],[],"['glgA' 'echA17' 'Rv1871c' 'Rv0082' 'Rv0081' 'Rv0034' 'PPE5' 'embA'
  'Rv1998c' 'Rv1993c' 'lldD2' 'Rv1225c' 'atpC' 'lpqM' 'Rv0679c' 'Rv0148'
  'Rv3033' 'pknH' 'embB' 'hsaF' 'ackA' 'Rv2721c' 'nrp' 'Rv0449c' 'mkl'
  'atpE' 'Rv1101c' 'atpA' 'Rv3091' 'fadD10' 'senX3' 'lspA' 'Rv3468c'
@@ -155,4 +155,4 @@ mbcA and Rv3249c_genes,[],[],[],"['glgA' 'echA17' 'Rv1871c' 'Rv0082' 'Rv0081' 'R
  'Rv3231c' 'nudC' 'uvrD2' 'Rv3312c' 'Rv0812' 'Rv1869c' 'cysA2' 'cysA3'
  'secE2' 'gcvB' 'kasB' 'Rv3689' 'Rv1138c' 'Rv3060c' 'Rv3719' 'Rv3485c'
  'mazF3' 'Rv2146c' 'galE3' 'trcS']",['Rv1995'],['Rv1057'],[],[],[],[],[],[],[],[],[],[],[],[],[]
-"Rv3066, mbcA, and Rv3249c_genes",[],[],[],[],[],[],[],[],[],[],[],[],['Rv3066'],[],[],[],[],[],[],[]
+"Rv3066, Rv3249c, and mbcA_genes",[],[],[],[],[],[],[],[],[],[],[],[],['Rv3066'],[],[],[],[],[],[],[]

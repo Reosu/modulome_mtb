@@ -1,11 +1,11 @@
 ,Value,list
 TF,trcR+Rv1776c+whiB4 ,
-reg_genes,18,"['ppsA' 'Rv3191c' 'nrdF2' 'Rv0654' 'pks6' 'hsp' 'Rv2719c' 'eccCa1' 'hddA'
- 'cysO' 'lhr' 'Rv0839' 'Rv0147' 'pks2' 'ndh']"
-comp_genes,21,"['Rv0412c' 'Rv0516c' 'Rv0950c' 'Rv2248' 'pknG' 'accD6' 'Rv1057' 'Rv0263c'
- 'efpA' 'fadD32' 'Rv0264c' 'pks13' 'acpM' 'proS' 'fabD' 'Rv1592c' 'pks16'
- 'fas']"
-both_genes,3,['glnH' 'kasB' 'kasA']
+reg_genes,18,"['ndh' 'pks2' 'lhr' 'Rv0839' 'hddA' 'cysO' 'ppsA' 'Rv2719c' 'eccCa1'
+ 'nrdF2' 'pks6' 'Rv0654' 'Rv3191c' 'hsp' 'Rv0147']"
+comp_genes,21,"['Rv0516c' 'Rv0412c' 'fadD32' 'proS' 'fas' 'pks13' 'pknG' 'Rv0264c'
+ 'accD6' 'efpA' 'pks16' 'Rv0263c' 'acpM' 'Rv2248' 'Rv1057' 'Rv1592c'
+ 'Rv0950c' 'fabD']"
+both_genes,3,['kasB' 'glnH' 'kasA']
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

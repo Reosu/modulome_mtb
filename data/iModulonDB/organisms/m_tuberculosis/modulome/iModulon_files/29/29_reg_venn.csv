@@ -1,10 +1,10 @@
 ,Value,list
 TF,blaI,
-reg_genes,36,"['cbs' 'eccA2' 'espG2' 'metB' 'blaC' 'Rv1312' 'atpF' 'Rv3050c' 'atpD'
- 'ccsA' 'nrdE' 'mycP2' 'atpA' 'Rv2067c' 'eccD2' 'argG' 'Rv0525' 'Rv0526'
- 'atpE' 'atpH' 'Rv3888c' 'Rv0528' 'Rv1847' 'fadE6' 'ccdA' 'Rv3921c' 'ilvC'
- 'atpG' 'argH' 'PE_PGRS27' 'atpC' 'eccE2']"
-comp_genes,11,['cydD' 'sigC' 'lat' 'blaI' 'Rv0560c' 'cydC' 'Rv1456c']
+reg_genes,36,"['Rv0525' 'atpE' 'fadE6' 'atpC' 'Rv3921c' 'eccE2' 'argG' 'atpH' 'Rv2067c'
+ 'nrdE' 'eccD2' 'eccA2' 'ilvC' 'Rv1312' 'ccdA' 'PE_PGRS27' 'atpG'
+ 'Rv3050c' 'espG2' 'cbs' 'atpA' 'Rv0526' 'blaC' 'ccsA' 'argH' 'Rv3888c'
+ 'metB' 'atpD' 'Rv0528' 'Rv1847' 'atpF' 'mycP2']"
+comp_genes,11,['Rv1456c' 'cydD' 'cydC' 'Rv0560c' 'sigC' 'blaI' 'lat']
 both_genes,4,['atpB' 'cydB' 'cydA' 'Rv1303']
 reg_genes2,0,
 comp_genes2,0,

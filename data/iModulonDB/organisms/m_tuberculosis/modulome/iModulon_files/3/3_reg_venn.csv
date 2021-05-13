@@ -1,16 +1,16 @@
 ,Value,list
 TF,pyrR,
-reg_genes,38,"['umaA' 'phoP' 'Rv0197' 'PPE17' 'Rv3660c' 'Rv3613c' 'fadD5' 'sigE' 'lsr2'
- 'rpsO' 'mihF' 'mce3R' 'rplB' 'dnaA' 'mce3A' 'espC' 'mce3B' 'espD'
- 'Rv3612c' 'lipX' 'Rv3714c' 'espA' 'Rv3202c' 'hupB' 'Rv1587c' 'Rv0196'
- 'esxB' 'dnaN' 'mce3C' 'rpsR1' 'esxA' 'phoR' 'mce3D' 'dnaE2']"
-comp_genes,44,"['Rv2077c' 'Rv1573' 'moaX' 'Rv1580c' 'Rv3143' 'Rv2017' 'Rv1575' 'Rv3829c'
- 'Rv3322c' 'Rv1579c' 'Rv1581c' 'Rv3831' 'Rv0073' 'Rv0826' 'Rv2818c'
- 'Rv0072' 'PE22' 'PPE36' 'Rv2658c' 'Rv1760' 'Rv1574' 'Rv2159c' 'moaC3'
- 'Rv2819c' 'Rv1577c' 'Rv2478c' 'wag22' 'vapB47' 'bpoA' 'Rv1578c' 'Rv0071'
- 'Rv1576c' 'Rv2659c' 'vapC47' 'Rv1761c' 'Rv1585c' 'PPE39' 'spoU' 'vapC17'
- 'Rv1762c']"
-both_genes,4,['Rv1583c' 'Rv1582c' 'Rv1586c' 'Rv1584c']
+reg_genes,38,"['PPE17' 'mihF' 'rpsO' 'Rv3612c' 'mce3R' 'Rv0197' 'espC' 'dnaN' 'rplB'
+ 'phoP' 'rpsR1' 'dnaA' 'mce3C' 'Rv3202c' 'mce3D' 'fadD5' 'mce3A' 'esxB'
+ 'umaA' 'Rv1587c' 'phoR' 'esxA' 'lipX' 'espD' 'sigE' 'Rv3613c' 'Rv3660c'
+ 'hupB' 'lsr2' 'espA' 'dnaE2' 'Rv3714c' 'Rv0196' 'mce3B']"
+comp_genes,44,"['PPE39' 'Rv1581c' 'Rv3322c' 'Rv0826' 'spoU' 'Rv1573' 'Rv1580c' 'vapC47'
+ 'Rv1576c' 'Rv1760' 'Rv1574' 'Rv2159c' 'Rv2819c' 'moaX' 'vapC17' 'Rv2658c'
+ 'Rv2478c' 'Rv3143' 'Rv2017' 'Rv1762c' 'Rv3831' 'wag22' 'Rv3829c'
+ 'Rv1585c' 'Rv1577c' 'Rv0073' 'Rv2077c' 'Rv1579c' 'Rv2659c' 'PPE36' 'PE22'
+ 'Rv1578c' 'Rv0072' 'Rv1761c' 'moaC3' 'Rv1575' 'Rv2818c' 'vapB47' 'Rv0071'
+ 'bpoA']"
+both_genes,4,['Rv1582c' 'Rv1584c' 'Rv1583c' 'Rv1586c']
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

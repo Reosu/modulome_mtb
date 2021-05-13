@@ -1,11 +1,11 @@
 ,Value,list
 TF,bkaR,
-reg_genes,37,"['Rv3377c' 'Rv3902c' 'Rv0011c' 'Rv3230c' 'canB' 'Rv3415c' 'eis' 'Rv2735c'
- 'fadA4' 'Rv2161c' 'Rv1359' 'bkdC' 'Rv3587c' 'Rv3160c' 'bkdB' 'PPE54'
- 'PE_PGRS41' 'Rv0988' 'Rv3755c' 'Rv0458' 'fadE23' 'prcA' 'bkdA' 'Rv0987'
- 'Rv1290A' 'esxA' 'fadD28' 'PPE53' 'Rv1358' 'Rv1290c' 'mazF1']"
-comp_genes,8,['fadD35' 'scoA']
-both_genes,6,['scoB' 'accD1' 'Rv2499c' 'fadE19' 'accA1' 'citE']
+reg_genes,37,"['Rv3415c' 'bkdC' 'PPE53' 'bkdA' 'Rv2735c' 'Rv3755c' 'Rv0011c' 'Rv0458'
+ 'Rv3160c' 'canB' 'fadA4' 'PE_PGRS41' 'esxA' 'PPE54' 'prcA' 'fadD28'
+ 'mazF1' 'Rv3377c' 'Rv3587c' 'Rv1358' 'Rv1290A' 'Rv1359' 'Rv2161c'
+ 'Rv1290c' 'eis' 'Rv3230c' 'Rv0988' 'fadE23' 'bkdB' 'Rv0987' 'Rv3902c']"
+comp_genes,8,['scoA' 'fadD35']
+both_genes,6,['citE' 'fadE19' 'scoB' 'accA1' 'accD1' 'Rv2499c']
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

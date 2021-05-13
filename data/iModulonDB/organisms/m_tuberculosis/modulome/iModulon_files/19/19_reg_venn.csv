@@ -1,10 +1,10 @@
 ,Value,list
 TF,whiB6,
-reg_genes,15,"['glfT1' 'Rv1871c' 'PE_PGRS41' 'vapB10' 'vapC10' 'espE' 'eccA1' 'espA'
- 'rfbE' 'espL']"
-comp_genes,16,"['Rv3289c' 'lrpA' 'lat' 'eccD1' 'Rv2422' 'thrB' 'espJ' 'usfY' 'Rv1986'
- 'espK' 'espI']"
-both_genes,5,['PE35' 'esxB' 'esxA' 'whiB6' 'PPE68']
+reg_genes,15,"['espA' 'PE_PGRS41' 'vapC10' 'eccA1' 'espL' 'vapB10' 'espE' 'rfbE'
+ 'Rv1871c' 'glfT1']"
+comp_genes,16,"['espJ' 'espK' 'lrpA' 'Rv2422' 'Rv3289c' 'eccD1' 'usfY' 'espI' 'thrB'
+ 'lat' 'Rv1986']"
+both_genes,5,['whiB6' 'esxA' 'PE35' 'esxB' 'PPE68']
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

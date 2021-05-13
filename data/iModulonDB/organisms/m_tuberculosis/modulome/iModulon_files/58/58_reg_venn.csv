@@ -1,9 +1,9 @@
 ,Value,list
 TF,zur,
-reg_genes,21,['PPE20' 'Rv1882c' 'rpmB1' 'Rv2060' 'PPE11' 'PE_PGRS4' 'Rv0987']
-comp_genes,20,['Rv2059' 'Rv0106' 'rpmB2' 'eccA3' 'PPE3' 'Rv2990c']
-both_genes,14,"['Rv0281' 'esxG' 'PE5' 'PPE4' 'rpsR2' 'rpsN2' 'espG3' 'rpmG1' 'eccD3'
- 'eccE3' 'mycP3' 'eccB3' 'eccC3' 'esxH']"
+reg_genes,21,['Rv2060' 'PPE20' 'Rv1882c' 'PPE11' 'rpmB1' 'Rv0987' 'PE_PGRS4']
+comp_genes,20,['PPE3' 'Rv2059' 'Rv0106' 'rpmB2' 'eccA3' 'Rv2990c']
+both_genes,14,"['esxG' 'eccB3' 'eccD3' 'mycP3' 'eccC3' 'PPE4' 'Rv0281' 'rpsR2' 'PE5'
+ 'esxH' 'eccE3' 'rpmG1' 'rpsN2' 'espG3']"
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

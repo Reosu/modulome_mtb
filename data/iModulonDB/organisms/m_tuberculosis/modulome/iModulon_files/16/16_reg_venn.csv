@@ -1,10 +1,10 @@
 ,Value,list
 TF,mce3R,
-reg_genes,24,"['Rv1941' 'mazF5' 'Rv1930c' 'htdZ' 'mce3R' 'mazE5' 'ribA1' 'Rv1975'
- 'fadE18' 'fadE17' 'ephB' 'Rv1931c']"
-comp_genes,15,['Rv1974' 'mce3D' 'mce3C']
-both_genes,12,"['Rv1972' 'mce3F' 'Rv1937' 'Rv1939' 'Rv1936' 'echA13' 'yrbE3A' 'yrbE3B'
- 'Rv1973' 'lprM' 'mce3A' 'mce3B']"
+reg_genes,24,"['Rv1941' 'mazF5' 'Rv1931c' 'mazE5' 'fadE17' 'ephB' 'mce3R' 'fadE18'
+ 'Rv1930c' 'ribA1' 'Rv1975' 'htdZ']"
+comp_genes,15,['mce3D' 'mce3C' 'Rv1974']
+both_genes,12,"['Rv1973' 'yrbE3B' 'echA13' 'Rv1939' 'Rv1937' 'lprM' 'Rv1972' 'Rv1936'
+ 'mce3A' 'mce3F' 'mce3B' 'yrbE3A']"
 reg_genes2,0,
 comp_genes2,0,
 both_genes2,0,

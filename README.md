@@ -6,7 +6,7 @@ Data repository for applying independent component analysis decomposition on *M.
 
 ### Installation
 
-Analysis performed in this data repository require the PyModulon package to be installed. Installation instructions can be found <a href="https://rdcu.be/9rHj">here</a>. 
+Analysis performed in this data repository require the PyModulon package to be installed. Installation instructions can be found <a href="https://github.com/SBRG/pymodulon">here</a>. 
 Once installation is complete install this repository using the following command.
 ~~~~~~~~~~~~
 git clone https://github.com/Reosu/modulome_mtb.git
@@ -22,7 +22,7 @@ cd ../data/iModulonDB
 # Run local host
 python -m http.server
 ~~~~~~~~~~~
-Once you run the following commands, navigate to localhost:8000 in your browser and enjoy the site!
+Once you run the following commands, navigate to localhost:8000 in your browser and enjoy the site! A web version of the site that contains perviously published datasets can be found <a href="https://imodulondb.org/">here</a>.
 
 ### Repsitory Structure
 + **Data**: Files created througout the ICA decomposition and analysis process
@@ -54,7 +54,7 @@ Once you run the following commands, navigate to localhost:8000 in your browser 
   + *10_Virulence* : Analysis of iModulons activated during different infecton of different host cells
   + *11_Clustering* : Notebook that performs activity clustering utilzing PearsonR and Mutual Information as distance metrics
 
-+ ** Supplementary Files** : Supplementary files as listed in the paper
++ **Supplementary Files** : Supplementary files as listed in the paper
   + *Supplementary_File_1__Dataset_Citations* : List of papers, GEO Datasets, and SRA Datasets used in this study
   + *Supplementary_File_2__TRN_Citations* : List of papers used to create the TRN file
   + *Supplementary_File_3__Lipid_Core* : List of significantly differential iModulons across lipid conditions under various metabolic states

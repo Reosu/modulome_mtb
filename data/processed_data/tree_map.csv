@@ -1,0 +1,81 @@
+X,size,name,unc,Categories
+0,45,SigH,Characterized,Redox
+1,2,Polyketide Synthase Complex,Characterized,Fatty Acid/Cholestrol
+2,3,IniR,Characterized,Antibiotic
+3,44,PyrR,Characterized,Nucleic Acids
+4,95,WhiB4,Characterized,Redox
+5,22,DevR-1,Characterized,Redox
+6,16,MarR,Characterized,Acid Stress
+7,8,GroEL-GroES Complex,Characterized,Amino Acids/Protein
+8,44,IdeR,Characterized,Virulence/Persistence
+9,8,SigK,Characterized,Unknown Function
+10,14,RicR,Characterized,Metal Related
+11,2,EccE1 KO,Characterized,KO
+12,6,Mycofactocin Synthesis Pathway,Characterized,Fatty Acid/Cholestrol
+13,3,SG_1,Single_gene,Single Gene
+14,2,SG_2,Single_gene,Single Gene
+15,8,BkaR,Characterized,Central Carbon
+16,15,Mce3R,Characterized,Virulence/Persistence
+17,7,VirS,Characterized,Redox
+18,3,Unc_1,Uncharacterized,Uncharacterized
+19,16,WhiB6,Characterized,Redox
+20,12,FasR,Characterized,Fatty Acid/Cholestrol
+21,7,MprA,Characterized,Virulence/Persistence
+22,9,SG_3,Single_gene,Single Gene
+23,5,PrpR,Characterized,Central Carbon
+24,2,Salicylate Induced,Characterized,Metal Related
+25,3,Rv0078+Rv2034,Characterized,Antibiotic
+26,2,EspL KO,Characterized,KO
+27,11,Unc_2,Uncharacterized,Uncharacterized
+28,32,WhiB1,Characterized,Redox
+29,11,Blal,Characterized,Antibiotic
+30,13,HPT-2b Induced,Characterized,Metal Related
+31,9,ArgR,Characterized,Amino Acids/Protein
+32,16,Unc_3,Uncharacterized,Uncharacterized
+33,5,SG_4,Single_gene,Single Gene
+34,3,MbcA+Rv3249c+Rv3066,Characterized,Virulence/Persistence
+35,22,Unc_4,Uncharacterized,Uncharacterized
+36,33,Fumarate Reductase,Characterized,Central Carbon
+37,3,Rv3095,Characterized,Unknown Function
+38,4,SG_5,Single_gene,Single Gene
+39,5,SigC,Characterized,Virulence/Persistence
+40,14,KstR2,Characterized,Fatty Acid/Cholestrol
+41,10,Unc_5,Uncharacterized,Uncharacterized
+42,10,Nicotinate Metabolism,Characterized,Central Carbon
+43,7,LysG,Characterized,Amino Acids/Protein
+44,1,SG_6,Single_gene,Single Gene
+45,55,SigD,Characterized,Virulence/Persistence
+46,6,Rv2621c,Characterized,Unknown Function
+47,1,SG_7,Single_gene,Single Gene
+48,4,Leucine Related,Characterized,Central Carbon
+49,63,Rv1828/SigH,Characterized,Redox
+50,11,Unc_6,Uncharacterized,Uncharacterized
+51,23,PhoP,Characterized,Virulence/Persistence
+52,37,DevR-2,Characterized,Redox
+53,21,Rv1776c+WhiB4,Characterized,Redox
+54,15,Unc_7,Uncharacterized,Uncharacterized
+55,8,WhiB7,Characterized,Antibiotic
+56,21,Fatty Acid Biosynthesis,Characterized,Fatty Acid/Cholestrol
+57,3,SG_8,Single_gene,Single Gene
+58,20,Zur,Characterized,Metal Related
+59,52,Rv0576,Characterized,Virulence/Persistence
+60,27,Rv0681,Characterized,Unknown Function
+61,11,Nucleic Acid Hydrolysis ,Characterized,Nucleic Acids
+62,12,Rv2488c,Characterized,Virulence/Persistence
+63,9,SG_9,Single_gene,Single Gene
+64,15,Mce1R,Characterized,Virulence/Persistence
+65,1,SG_10,Single_gene,Single Gene
+66,6,M-box,Characterized,Metal Related
+67,0,Peptidoglycan Biosynthesis,Characterized,Central Carbon
+68,10,Sulfur Metabolism,Characterized,Sulfur Metabolism
+69,2,Rv0135+Rv1019,Characterized,Nucleic Acids
+70,18,Lsr2,Characterized,Antibiotic
+71,10,PDIM;PGL Synthesis,Characterized,Virulence/Persistence
+72,11,Unc_8,Uncharacterized,Uncharacterized
+73,9,SG_11,Single_gene,Single Gene
+74,3,SG_12,Single_gene,Single Gene
+75,24,Unc_9,Uncharacterized,Uncharacterized
+76,5,SG_13,Single_gene,Single Gene
+77,0,Central Carbon Metabolism,Characterized,Central Carbon
+78,26,Positive Regulation of Growth,Characterized,Growth
+79,16,WhiB4/IdeR,Characterized,Redox

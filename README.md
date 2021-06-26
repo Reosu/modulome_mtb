@@ -2,7 +2,7 @@
 
 Data repository for applying independent component analysis decomposition on *M. tuberculosis* transcritomic data, as described in, 
 
-> *Reo Yoo*, Anand Sastry, Kevin Rychel, Saugat Poudel, Tahani Al-bulushi, Annie Yuan, Siddharth Chauhan, Cameron Lamoureux, BO. Palsson 
+> **Reo Yoo**, Anand Sastry, Kevin Rychel, Saugat Poudel, Tahani Al-bulushi, Annie Yuan, Siddharth Chauhan, Cameron Lamoureux, BO. Palsson 
 
 ### Installation
 

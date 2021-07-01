@@ -12,9 +12,16 @@ Once installation is complete install this repository using the following comman
 git clone https://github.com/Reosu/modulome_mtb.git
 ~~~~~~~~~~~~
 
+Alternatively, one can use a Jupyter server hosted on a Docker container by <a href="https://docs.docker.com/get-docker/">installing Docker</a> and running:
+~~~~~~~~~~~~
+docker run -p 8888:8888 reosu/modulome_mtb:v1.0
+~~~~~~~~~~~~
+
+For additional options, such as changing the the port or username, see <a href="https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html">common features</a>.
+
 ### iModulonDB Site
 
-iModulonDB is a knowlegebase that allows for easy viewing of iModulon data. A local host of the site containig only *M. tuberculosis* can be run using the following commands:
+iModulonDB is a knowlegebase that allows for easy viewing of iModulon data. A local host of the site containing only *M. tuberculosis* can be run using the following commands:
 ~~~~~~~~~~~
 # Navigate to the iModulonDB folder
 cd ../data/iModulonDB
@@ -24,7 +31,7 @@ python -m http.server
 ~~~~~~~~~~~
 Once you run the following commands, navigate to localhost:8000 in your browser and enjoy the site! A web version of the site that contains perviously published datasets can be found <a href="https://imodulondb.org/">here</a>.
 
-### Repsitory Structure
+### Repository Structure
 + **Data**: Files created througout the ICA decomposition and analysis process
   + External
     + Contains files associated with external databases, such as KEGG enrichments, GO enrichments, and metabolic models
@@ -42,15 +49,15 @@ Once you run the following commands, navigate to localhost:8000 in your browser 
     + NCBI Sequence files for *M. tuberculosis H37Rv* strain
 
 + **Notebooks**: Jupyter Notebooks used in the analysis of the data and the creation of figures for the paper
-  + *1_expression_QC_SOP* : Takes in the raw counts and multiqc statistics files, filters samples for quality, and produces a log_tpm file
-  + *2_expression_visualization* : Visualizes the log_tpm data utilizing a PCA plot and cluster map and normalizes the data to create the log_tpm_norm file
-  + *3_ica_dimensionality* : After running ICA decomposition using nextflow, analyzes the outputs at each dimensionality to determine optimal M and A matricies to use
-  + *4_iModulon_Data_Obj_Assemble* : Gathers the multiple files and combines them into a complete ica_data object to be used for futher analysis
-  + *5_QC_QA_Summary* : Notebook that creates summary figures for the QC/QA process and the iModulons
-  + *6_Validation_and_Discovery* : Creates figures associated with the validation of the Zur and Lsr2 iModulons, as well as the discovery of new iModulons
-  + *7_Core_Lipid* : Creates the venn diagrams used to determine the core lipid response
-  + *8_Metabolic_Mapping* : Notebook that utilizes the iEK1008 COBRA model to determine affected pathways during carbon source shifts
-  + *9_Oxidative_Stress* : Notebook that creates the figures associated with iModulon response under hypoxia
+  + *01_expression_QC_SOP* : Takes in the raw counts and multiqc statistics files, filters samples for quality, and produces a log_tpm file
+  + *02_expression_visualization* : Visualizes the log_tpm data utilizing a PCA plot and cluster map and normalizes the data to create the log_tpm_norm file
+  + *03_ica_dimensionality* : After running ICA decomposition using nextflow, analyzes the outputs at each dimensionality to determine optimal M and A matricies to use
+  + *04_iModulon_Data_Obj_Assemble* : Gathers the multiple files and combines them into a complete ica_data object to be used for futher analysis
+  + *05_QC_QA_Summary* : Notebook that creates summary figures for the QC/QA process and the iModulons
+  + *06_Validation_and_Discovery* : Creates figures associated with the validation of the Zur and Lsr2 iModulons, as well as the discovery of new iModulons
+  + *07_Core_Lipid* : Creates the venn diagrams used to determine the core lipid response
+  + *08_Metabolic_Mapping* : Notebook that utilizes the iEK1008 COBRA model to determine affected pathways during carbon source shifts
+  + *09_Oxidative_Stress* : Notebook that creates the figures associated with iModulon response under hypoxia
   + *10_Virulence* : Analysis of iModulons activated during different infecton of different host cells
   + *11_Clustering* : Notebook that performs activity clustering utilzing PearsonR and Mutual Information as distance metrics
 
@@ -67,6 +74,6 @@ Once you run the following commands, navigate to localhost:8000 in your browser 
   + Complete: Completed figures as found in the paper
 
 + **mtb_ica.json** : ICA data object used in the analysis described in the paper
-+ **Licence.txt**
-+ **enviroment.yml**
++ **License.txt**
++ **environment.yml**
 + **README.md**

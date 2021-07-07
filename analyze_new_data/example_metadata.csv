@@ -1,0 +1,7 @@
+,BioProject,BioSample,SRA ID,project,condition,reference_condition,full_name
+ctrl_1,PRJNA579441,SAMN13111571,9273261,levofloxacin,control,control,levofloxacin:control
+ctrl_2,PRJNA579441,SAMN13111569,9273259,levofloxacin,control,control,levofloxacin:control
+ctrl_3,PRJNA579441,SAMN13111570,9273260,levofloxacin,control,control,levofloxacin:control
+levofloxacin_1,PRJNA579441,SAMN13111573,9273263,levofloxacin,treated,control,levofloxacin:treated
+levofloxacin_2,PRJNA579441,SAMN13111572,9273262,levofloxacin,treated,control,levofloxacin:treated
+levofloxacin_3,PRJNA579441,SAMN13111574,9273264,levofloxacin,treated,control,levofloxacin:treated

@@ -7,15 +7,13 @@ For most purposes, the iModulon activities computed here will be accurate, since
 ## Instructions
 1. Install [Docker](https://docs.docker.com/get-docker/)
 2. Compute Transcripts per Million (TPM) for your expression profiles. This file should look like `example_data.csv`.
-3. Add your TPM file to this folder.
-4. Start the Jupyter server by running the following command in Terminal:
-```bash
-docker run -p 8888:8888 -v "${PWD}":/home/jovyan/work reosu/modulome_mtb:v1.0
-```
+3. Download this repository and add your TPM file to this folder.
+4. Start the Jupyter server by navigating to the main folder of this repository and running the following command in Terminal:  
+    `docker run -p 8888:8888 -v "${PWD}":/home/jovyan/work reosu/modulome_mtb:v1.0`
     * -p: Sets the port to 8888
     * -v: Mounts the local directory to `/home/jovyan/work` in the Docker container
-5. Open the link in Terminal that begins with `127.0.0.1` and navigate to the `work` folder
-6. Open the `analyze_new_data.ipynb` notebook and follow the instructions in the notebook
+5. Open the link in Terminal that begins with `127.0.0.1` and navigate to the `work/analyze_new_data` folder
+6. Open the `compute_imodulon_activities.ipynb` notebook and follow the instructions in the notebook
 
 ## Mathematical Background
 

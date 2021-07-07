@@ -21,10 +21,10 @@ docker run -p 8888:8888 -v "${PWD}":/home/jovyan/work reosu/modulome_mtb:v1.0
 
 ICA computes two matrices from the e**X**pression matrix: the i**M**odulon matrix, which contains the iModulon structure, and the **A**ctivity matrix, which contains the iModulon activities. These matrices are related through the following equation:
 
-$ \mathbf{X}=\mathbf{M}\cdot \mathbf{A} $
+<img src="https://latex.codecogs.com/png.latex?\mathbf{X}=\mathbf{M}\cdot&space;\mathbf{A}" title="\mathbf{X}=\mathbf{M}\cdot \mathbf{A}" /></a>
 
 We can therefore infer iModulon activities for a new expression dataset **X'** as follows:
 
-$ \mathbf{A'}=\mathbf{M^{-1}}\cdot \mathbf{X'} $
+<img src="https://latex.codecogs.com/png.latex?\mathbf{A'}=\mathbf{M^{-1}}\cdot&space;\mathbf{X'}" title="\mathbf{A'}=\mathbf{M^{-1}}\cdot \mathbf{X'}" /></a>
 
 This is implemented in the *infer_imodulon_activities* function in the [PyModulon](https://pymodulon.readthedocs.io/en/latest/) package

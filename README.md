@@ -17,7 +17,7 @@ Alternatively, one can use a Jupyter server hosted on a Docker container by <a h
 docker run -p 8888:8888 reosu/modulome_mtb:v1.0
 ~~~~~~~~~~~~
 
-For additional options, such as changing the the port or username, see <a href="https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html">common features</a>.
+For additional options, such as changing the the port or username, see the <a href="https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html">Quick Start Guide</a>.
 
 ### Computing iModulon activities for your own data
 
